@@ -29,6 +29,7 @@
 - [Swift](#swift)
 - [Tcl](#tcl)
 - [TypeScript](#typescript)
+- [Vim&nbsp;script](#vim-script)
 - [VimL](#viml)
 
 ## AppleScript
@@ -54,6 +55,7 @@
 - [linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum  
 
 ## C#
+- [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows  
 - [RunAsService](https://github.com/luisperezphd/RunAsService) - RunAsService is a command line tool that allows you to setup a regular  console application to run as a service.  
 - [AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant!  
 - [AudioSwitch](https://github.com/sirWest/AudioSwitch) - Switch between default audio input or output + change volume  
@@ -68,6 +70,7 @@
 - [dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin  
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software  
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.  
+- [turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.  
 - [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO  
 - [DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) - USB Rubber Ducky type scripts written for the DigiSpark.  
 - [BadUSB](https://github.com/grcasanova/BadUSB) - Personal implementation of the BadUSB exploit with an Atmel 8-bit AVR ATTiny85 acting as a HID keyboard  
@@ -81,6 +84,7 @@
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more  
 - [madclem.github.io](https://github.com/madclem/madclem.github.io) -   
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.  
+- [dotfiles](https://github.com/dnnsmnstrr/dotfiles) -   
 - [hangouts-against-humanity](https://github.com/samurailink3/hangouts-against-humanity) - A game for horrible people, on Google+, in a hangout.  
 - [screenly-ose](https://github.com/Screenly/screenly-ose) - The most popular digital signage project on Github!  
 
@@ -108,7 +112,6 @@
 - [GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool  
 - [spacehuhn.github.io](https://github.com/spacehuhn/spacehuhn.github.io) - Spacehuhn Website  
 - [dnnsmnstrr.github.io](https://github.com/dnnsmnstrr/dnnsmnstrr.github.io) - Dennis Muensterer  
-- [dotfiles](https://github.com/dnnsmnstrr/dotfiles) -   
 - [CAH-Generator](https://github.com/zaffudo/CAH-Generator) - Cards Against Humanity Card Generator  
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects  
 - [Musical-chord-progressions](https://github.com/DataStrategist/Musical-chord-progressions) - An analysis of hooktheory's db, represented as a sankey plot  
@@ -129,6 +132,16 @@
 - [PretendYoureXyzzy](https://github.com/ajanata/PretendYoureXyzzy) - A web clone of the card game Cards Against Humanity.  
 
 ## JavaScript
+- [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations  
+- [react-native-animatable](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native  
+- [Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps  
+- [cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript  
+- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies  
+- [MIDI.js](https://github.com/mudcube/MIDI.js) - :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing.  
+- [kaleidosync](https://github.com/zachwinter/kaleidosync) - An HTML5 Spotify visualizer, built with spotify-viz and Vue.  
+- [spotify-viz](https://github.com/zachwinter/spotify-viz) - Create realtime audio-reactive visuals, powered by Spotify.  
+- [reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.  
+- [keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.  
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!  
 - [btt-quicknav](https://github.com/ChrisPenner/btt-quicknav) - HTML overlay for quickly navigating your computer  
 - [spotify-true-random](https://github.com/TomerAberbach/spotify-true-random) - An application for unbiased truly random playlist and library shuffling with Spotify.  
@@ -163,7 +176,7 @@
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.  
 - [nachos-ui](https://github.com/nachos-ui/nachos-ui) - Nachos UI is a React Native component library.  
 - [ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications  
-- [react-native-elements](https://github.com/react-native-training/react-native-elements) - Cross Platform React Native UI Toolkit  
+- [react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross Platform React Native UI Toolkit  
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Essential cross-platform UI components for React Native  
 - [bit](https://github.com/teambit/bit) - A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team.  
 - [react-native-image-view](https://github.com/antonKalinin/react-native-image-view) - Modal component to view images with zoom  
@@ -229,7 +242,7 @@
 - [MacForge](https://github.com/w0lfschild/MacForge) - :computer: 📦 Application, plugin and theme discovery and manager for macOS  
 - [arkit-by-example](https://github.com/markdaws/arkit-by-example) - Apple ARKit example app  
 - [GPUImage](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing  
-- [facebook-objc-sdk](https://github.com/facebook/facebook-objc-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.  
+- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.  
 - [RESideMenu](https://github.com/romaonthego/RESideMenu) - iOS 7/8 style side menu with parallax effect.  
 - [iCarousel](https://github.com/nicklockwood/iCarousel) - A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS  
 - [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.  
@@ -245,6 +258,7 @@
 - [pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.  
 
 ## Others
+- [logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos  
 - [awesome-btt-config](https://github.com/bskim45/awesome-btt-config) - An curated list of awesome BetterTouchTool configs.  
 - [ChromeDebuggerTouchBar-BTT](https://github.com/luchenguang/ChromeDebuggerTouchBar-BTT) - A BTT preset which provides TouchBar support  for Chrome debugger.  
 - [cereal-airbnb-font](https://github.com/huuphongnguyen/cereal-airbnb-font) -   
@@ -268,7 +282,6 @@
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.  
 - [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects  
 - [2019](https://github.com/wwdc/2019) - Student submissions for the WWDC 2019 Scholarship  
-- [turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.  
 - [SketchToAppStore](https://github.com/bmull/SketchToAppStore) - A sketch framework to make creating screenshots for the App Store incredibly simple  
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books  
 - [2018](https://github.com/wwdc/2018) - Student submissions for the WWDC 2018 Scholarship  
@@ -300,6 +313,7 @@
 - [TUM.sexy](https://github.com/mammuth/TUM.sexy) - A website providing links, redirects and tools related to the Technical University Munich :dancer::books:  
 
 ## Python
+- [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)  
 - [phue](https://github.com/studioimaginaire/phue) - A Python library for the Philips Hue system  
 - [huekey](https://github.com/bradykent/huekey) - Control Philips Hue lights with BetterTouchTool  
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).  
@@ -324,6 +338,8 @@
 - [documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi  
 
 ## Ruby
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!  
+- [illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.  
 - [xcode-install](https://github.com/xcpretty/xcode-install) - 🔽 Install and update your Xcodes  
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.  
 - [sonic-pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone  
@@ -342,6 +358,8 @@
 - [SocialBotHunt](https://github.com/JungesAngebot/SocialBotHunt) -   
 
 ## Shell
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.  
+- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.  
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.  
 - [awesome-macos-setup](https://github.com/Ullaakut/awesome-macos-setup) - A repository with tools to automatically make any Mac awesome in a few minutes  
 - [macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) - A centralized place for the awesome work started by @mathiasbynens on .osx  
@@ -370,6 +388,7 @@
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements  
 
 ## Swift
+- [WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS  
 - [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.  
 - [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.  
 - [iina](https://github.com/iina/iina) - The modern video player for macOS.  
@@ -460,6 +479,7 @@
 - [macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client  
 
 ## TypeScript
+- [react-use](https://github.com/streamich/react-use) - React Hooks — 👍  
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps  
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode  
 - [messaging-apis](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform  
@@ -468,11 +488,14 @@
 - [cli](https://github.com/react-native-community/cli) - React Native command line tools  
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code  
 - [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) - 🚀 tiny & fast lib for react native image viewer pan and zoom  
-- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!  
+- [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!  
 - [botpress](https://github.com/botpress/botpress) - The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants.  
 - [PocketGear](https://github.com/satya164/PocketGear) - A clean and simple Pokédex app for Pokémon GO  
 - [lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app | New updates at https://github.com/emilioastarita/lyricfier2 (a faster version in golang)  
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths  
+
+## Vim script
+- [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.  
 
 ## VimL
 - [dotfiles-raspbian](https://github.com/joshukraine/dotfiles-raspbian) - My dotfiles for Raspberry Pi running Raspbian  
