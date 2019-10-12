@@ -560,7 +560,7 @@
 | 82 |  [Instructions](https://github.com/ephread/Instructions) | Create walkthroughs and guided tours (coach marks) in a simple way, with Swift. | ephread | 4040 |
 | 83 |  [Alexandria](https://github.com/ovenbits/Alexandria) |  | ovenbits | 29 |
 | 84 |  [RandomKit](https://github.com/nvzqz/RandomKit) | Random data generation in Swift | nvzqz | 1425 |
-| 85 |  [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | 📖 Design Patterns implemented in Swift 5.0 | ochococo | 11121 |
+| 85 |  [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | 📖 Design Patterns implemented in Swift 5.0 | ochococo | 11120 |
 | 86 |  [ROMPlayer](https://github.com/AudioKit/ROMPlayer) | AudioKit Sample Player (ROM Player) - EXS24, Sound Font, Wave Player | AudioKit | 375 |
 | 87 |  [Spring](https://github.com/MengTo/Spring) | A library to simplify iOS animations in Swift. | MengTo | 13337 |
 | 88 |  [Hero](https://github.com/HeroTransitions/Hero) | Elegant transition library for iOS & tvOS | HeroTransitions | 17456 |
