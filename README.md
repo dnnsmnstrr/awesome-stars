@@ -191,7 +191,7 @@
 | 21 |  [PushNotifications](https://github.com/onmyway133/PushNotifications) | 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android | onmyway133 | 906 |
 | 22 |  [react-native-popover-view](https://github.com/SteffeyDev/react-native-popover-view) | A well-tested, adaptable, lightweight &lt;Popover&gt; component for react-native | SteffeyDev | 100 |
 | 23 |  [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner) | A QR code scanner component for React Native. | moaazsidat | 1141 |
-| 24 |  [moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates in javascript. | moment | 42511 |
+| 24 |  [moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates in javascript. | moment | 42512 |
 | 25 |  [spicetify-cli](https://github.com/khanhas/spicetify-cli) | Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux. | khanhas | 1664 |
 | 26 |  [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler) | Declarative API exposing platform native touch and gesture system to React Native. | kmagiera | 2698 |
 | 27 |  [react-native-super-grid](https://github.com/saleel/react-native-super-grid) | Responsive Grid View for React Native | saleel | 703 |
