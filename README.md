@@ -114,7 +114,7 @@
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76899 |
+| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76900 |
 
 ## Elixir
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -152,7 +152,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [react-native-camera](https://github.com/react-native-community/react-native-camera) | A Camera component for React Native. Also supports barcode scanning! | react-native-community | 7746 |
-| 2 |  [react-native-svg](https://github.com/react-native-community/react-native-svg) | SVG library for React Native, React Native Web, and plain React web projects. | react-native-community | 4014 |
+| 2 |  [react-native-svg](https://github.com/react-native-community/react-native-svg) | SVG library for React Native, React Native Web, and plain React web projects. | react-native-community | 4015 |
 | 3 |  [lottie-react-native](https://github.com/react-native-community/lottie-react-native) | Lottie wrapper for React Native. | react-native-community | 12022 |
 | 4 |  [photo-viewer](https://github.com/merryjs/photo-viewer) | A photo  picture viewer for React Native | merryjs | 170 |
 | 5 |  [react-native-navigation](https://github.com/wix/react-native-navigation) | A complete native navigation solution for React Native | wix | 10834 |
@@ -476,7 +476,7 @@
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [AltStore](https://github.com/rileytestut/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | rileytestut | 966 |
+| 1 |  [AltStore](https://github.com/rileytestut/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | rileytestut | 967 |
 | 2 |  [refined-github-safari](https://github.com/lautis/refined-github-safari) | Safari version of the Refined Github extension | lautis | 34 |
 | 3 |  [ChordDetector](https://github.com/cemolcay/ChordDetector) | A tiny menu bar app that listens iTunes and Spotify to detect chords of songs! | cemolcay | 29 |
 | 4 |  [Pine](https://github.com/lukakerr/Pine) | A modern, native macOS markdown editor | lukakerr | 2000 |
