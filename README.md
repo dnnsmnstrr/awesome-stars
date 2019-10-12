@@ -343,7 +343,7 @@
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39789 |
 | 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91185 |
-| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49108 |
+| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49109 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4340 |
 | 32 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8237 |
@@ -421,7 +421,7 @@
 ## Ruby
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dev.to](https://github.com/thepracticaldev/dev.to) | Where programmers share ideas and help each other grow | thepracticaldev | 10912 |
+| 1 |  [dev.to](https://github.com/thepracticaldev/dev.to) | Where programmers share ideas and help each other grow | thepracticaldev | 10913 |
 | 2 |  [lolcat](https://github.com/busyloop/lolcat) | Rainbows and unicorns! | busyloop | 3743 |
 | 3 |  [illacceptanything](https://github.com/illacceptanything/illacceptanything) | The project where literally anything* goes. | illacceptanything | 1615 |
 | 4 |  [xcode-install](https://github.com/xcpretty/xcode-install) | 🔽 Install and update your Xcodes | xcpretty | 1783 |
