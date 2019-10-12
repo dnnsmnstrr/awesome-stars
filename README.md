@@ -220,7 +220,7 @@
 | 48 |  [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) | Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling. | oblador | 12002 |
 | 49 |  [nachos-ui](https://github.com/nachos-ui/nachos-ui) | Nachos UI is a React Native component library. | nachos-ui | 1906 |
 | 50 |  [ui](https://github.com/shoutem/ui) | Customizable set of components for React Native applications | shoutem | 4372 |
-| 51 |  [react-native-elements](https://github.com/react-native-elements/react-native-elements) | Cross Platform React Native UI Toolkit | react-native-elements | 17270 |
+| 51 |  [react-native-elements](https://github.com/react-native-elements/react-native-elements) | Cross Platform React Native UI Toolkit | react-native-elements | 17271 |
 | 52 |  [NativeBase](https://github.com/GeekyAnts/NativeBase) | Essential cross-platform UI components for React Native | GeekyAnts | 12812 |
 | 53 |  [react-native-image-view](https://github.com/antonKalinin/react-native-image-view) | Modal component to view images with zoom | antonKalinin | 219 |
 | 54 |  [rekit](https://github.com/rekit/rekit) | IDE and toolkit for building scalable web applications with React, Redux and React-router | rekit | 4067 |
@@ -394,7 +394,7 @@
 | 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6456 |
 | 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27294 |
 | 11 |  [Kashi](https://github.com/zer8ne/Kashi) | Touch Bar widget that displays the lyrics of the current song in Spotify, iTunes, or YouTube. | zer8ne | 11 |
-| 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33333 |
+| 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33334 |
 | 13 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 48625 |
 | 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 63512 |
 | 15 |  [magenta](https://github.com/tensorflow/magenta) | Magenta: Music and Art Generation with Machine Intelligence | tensorflow | 14048 |
