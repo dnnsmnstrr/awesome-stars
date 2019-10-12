@@ -59,7 +59,7 @@
 | 5 |  [USBMIDI](https://github.com/BlokasLabs/USBMIDI) | USB MIDI library for Arduino. | BlokasLabs | 45 |
 | 6 |  [HID](https://github.com/NicoHood/HID) | Bring enhanced HID functions to your Arduino! | NicoHood | 1031 |
 | 7 |  [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) | Toolkit of algorithms to automate the video editing process | DevonCrawford | 698 |
-| 8 |  [os-tutorial](https://github.com/cfenollosa/os-tutorial) | How to create an OS from scratch | cfenollosa | 16380 |
+| 8 |  [os-tutorial](https://github.com/cfenollosa/os-tutorial) | How to create an OS from scratch | cfenollosa | 16379 |
 | 9 |  [DigisparkKeyboard](https://github.com/ernesto-xload/DigisparkKeyboard) | DigisparkKeyboard library with multiple layout support | ernesto-xload | 22 |
 | 10 |  [DigisparkMIDI](https://github.com/heartscrytech/DigisparkMIDI) | A HID-MIDI driver for the Digispark Attiny85 Arduino | heartscrytech | 40 |
 | 11 |  [USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) |  | hak5darren | 3395 |
