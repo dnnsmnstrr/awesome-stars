@@ -323,7 +323,7 @@
 | 6 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9244 |
 | 7 |  [macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) | :gem: A retina optimized macOS Sierra UI Kit for Sketch (including Touch Bar) | alexkaessner | 471 |
 | 8 |  [MTMR-presets](https://github.com/Toxblh/MTMR-presets) | 💈 [My TouchBar My rules] Share your preset! | Toxblh | 26 |
-| 9 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48777 |
+| 9 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48778 |
 | 10 |  [logos](https://github.com/gilbarbara/logos) | A huge collection of SVG logos | gilbarbara | 4494 |
 | 11 |  [awesome-btt-config](https://github.com/bskim45/awesome-btt-config) | An curated list of awesome BetterTouchTool configs. | bskim45 | 22 |
 | 12 |  [ChromeDebuggerTouchBar-BTT](https://github.com/luchenguang/ChromeDebuggerTouchBar-BTT) | A BTT preset which provides TouchBar support  for Chrome debugger. | luchenguang | 1 |
@@ -593,7 +593,7 @@
 | 7 |  [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | akveo | 5079 |
 | 8 |  [messaging-apis](https://github.com/Yoctol/messaging-apis) | Messaging APIs for multi-platform | Yoctol | 1408 |
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1962 |
-| 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4486 |
+| 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4487 |
 | 11 |  [cli](https://github.com/react-native-community/cli) | React Native command line tools | react-native-community | 837 |
 | 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84292 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8955 |
