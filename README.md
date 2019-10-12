@@ -147,7 +147,7 @@
 | 4 |  [GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) | The complete Touch Bar UI replacement for BetterTouchTool | GoldenChaos | 76 |
 | 5 |  [spacehuhn.github.io](https://github.com/spacehuhn/spacehuhn.github.io) | Spacehuhn Website | spacehuhn | 4 |
 | 6 |  [dnnsmnstrr.github.io](https://github.com/dnnsmnstrr/dnnsmnstrr.github.io) | My Website (WIP) | dnnsmnstrr | 1 |
-| 7 |  [CAH-Generator](https://github.com/zaffudo/CAH-Generator) | Cards Against Humanity Card Generator | zaffudo | 47 |
+| 7 |  [CAH-Generator](https://github.com/zaffudo/CAH-Generator) | Cards Against Humanity Card Generator | zaffudo | 48 |
 | 8 |  [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects | google | 22037 |
 | 9 |  [Musical-chord-progressions](https://github.com/DataStrategist/Musical-chord-progressions) | An analysis of hooktheory's db, represented as a sankey plot | DataStrategist | 87 |
 | 10 |  [HelloInternetVote](https://github.com/RebelKeithy/HelloInternetVote) |  | RebelKeithy | 8 |
@@ -240,7 +240,7 @@
 | 68 |  [victory-native](https://github.com/FormidableLabs/victory-native) | victory components for react native | FormidableLabs | 1512 |
 | 69 |  [victory-gui](https://github.com/narinluangrath/victory-gui) | A photoshop-style web app for building beautiful, modern line charts | narinluangrath | 4 |
 | 70 |  [react-native-macos](https://github.com/ptmt/react-native-macos) | React Native for macOS is an experimental fork for writing desktop apps using Cocoa | ptmt | 11245 |
-| 71 |  [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) | 📈 One library to rule all charts for React Native 📊 | JesperLekland | 1279 |
+| 71 |  [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) | 📈 One library to rule all charts for React Native 📊 | JesperLekland | 1280 |
 | 72 |  [react-native-svg-charts-examples](https://github.com/JesperLekland/react-native-svg-charts-examples) | A collection of usage examples of react-native-svg-charts | JesperLekland | 155 |
 | 73 |  [Duckuino](https://github.com/d4n5h/Duckuino) | DuckyScript to Arduino converter with mouse emulation | d4n5h | 35 |
 | 74 |  [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | Based on a true story | NARKOZ | 36326 |
