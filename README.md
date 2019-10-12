@@ -176,7 +176,7 @@
 | 4 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 3732 |
 | 5 |  [trolol](https://github.com/ukupat/trolol) | Troll your friends with simple commands AS QUICKLY AS POSSIBLE | ukupat | 652 |
 | 6 |  [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) | Play with fluids in your browser (works even on mobile) | PavelDoGreat | 6653 |
-| 7 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 42289 |
+| 7 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 42290 |
 | 8 |  [react-native-animatable](https://github.com/oblador/react-native-animatable) | Standard set of easy to use animations and declarative transitions for React Native | oblador | 7168 |
 | 9 |  [Detox](https://github.com/wix/Detox) | Gray box end-to-end testing and automation framework for mobile apps | wix | 5397 |
 | 10 |  [cucumber-js](https://github.com/cucumber/cucumber-js) | Cucumber for JavaScript | cucumber | 3691 |
@@ -396,7 +396,7 @@
 | 11 |  [Kashi](https://github.com/zer8ne/Kashi) | Touch Bar widget that displays the lyrics of the current song in Spotify, iTunes, or YouTube. | zer8ne | 11 |
 | 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33333 |
 | 13 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 48622 |
-| 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 63509 |
+| 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 63510 |
 | 15 |  [magenta](https://github.com/tensorflow/magenta) | Magenta: Music and Art Generation with Machine Intelligence | tensorflow | 14048 |
 | 16 |  [spotifylyrics](https://github.com/fr31/spotifylyrics) | Fetches and displays lyrics to currently playing song in Spotify. | fr31 | 621 |
 | 17 |  [dash-hack](https://github.com/gpwclark/dash-hack) | My friend needed an amazon-dash button that did not exist, this is my modification to extend the dash button to any product. | gpwclark | 90 |
