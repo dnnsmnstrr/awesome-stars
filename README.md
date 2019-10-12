@@ -343,7 +343,7 @@
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39788 |
 | 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91184 |
-| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49091 |
+| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49092 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4340 |
 | 32 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8236 |
@@ -429,7 +429,7 @@
 | 6 |  [sonic-pi](https://github.com/samaaron/sonic-pi) | The Live Coding Music Synth for Everyone | samaaron | 4813 |
 | 7 |  [timezones](https://github.com/igor-makarov/timezones) | All the timezones of all the cities, as a static site! | igor-makarov | 49 |
 | 8 |  [bundler](https://github.com/bundler/bundler) | Manage your Ruby application's gem dependencies | bundler | 4698 |
-| 9 |  [jekyll](https://github.com/jekyll/jekyll) | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | jekyll | 38871 |
+| 9 |  [jekyll](https://github.com/jekyll/jekyll) | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | jekyll | 38872 |
 | 10 |  [dotfiles](https://github.com/skwp/dotfiles) | YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen | skwp | 6364 |
 | 11 |  [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | Homebrew | 16039 |
 | 12 |  [ios-project-template](https://github.com/messeb/ios-project-template) | iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger | messeb | 301 |
@@ -571,7 +571,7 @@
 | 85 |  [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | 📖 Design Patterns implemented in Swift 5.0 | ochococo | 11120 |
 | 86 |  [ROMPlayer](https://github.com/AudioKit/ROMPlayer) | AudioKit Sample Player (ROM Player) - EXS24, Sound Font, Wave Player | AudioKit | 375 |
 | 87 |  [Spring](https://github.com/MengTo/Spring) | A library to simplify iOS animations in Swift. | MengTo | 13338 |
-| 88 |  [Hero](https://github.com/HeroTransitions/Hero) | Elegant transition library for iOS & tvOS | HeroTransitions | 17456 |
+| 88 |  [Hero](https://github.com/HeroTransitions/Hero) | Elegant transition library for iOS & tvOS | HeroTransitions | 17457 |
 | 89 |  [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) | The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title. | PhamBaTho | 2453 |
 | 90 |  [awesome-swift](https://github.com/matteocrippa/awesome-swift) | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! | matteocrippa | 18071 |
 | 91 |  [awesome-ios](https://github.com/vsouza/awesome-ios) | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects | vsouza | 33166 |
