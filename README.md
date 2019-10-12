@@ -93,7 +93,7 @@
 | 10 |  [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) | Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO | arendst | 8007 |
 | 11 |  [DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) | USB Rubber Ducky type scripts written for the DigiSpark. | CedArctic | 287 |
 | 12 |  [BadUSB](https://github.com/grcasanova/BadUSB) | Personal implementation of the BadUSB exploit with an Atmel 8-bit AVR ATTiny85 acting as a HID keyboard | grcasanova | 42 |
-| 13 |  [swift](https://github.com/apple/swift) | The Swift Programming Language | apple | 49340 |
+| 13 |  [swift](https://github.com/apple/swift) | The Swift Programming Language | apple | 49341 |
 | 14 |  [AudioKit](https://github.com/AudioKit/AudioKit) | Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS | AudioKit | 6956 |
 | 15 |  [DigisparkArduinoIntegration](https://github.com/digistump/DigisparkArduinoIntegration) | DEPRECATED - REPLACED BY: https://github.com/digistump/DigistumpArduino | digistump | 155 |
 | 16 |  [hyperion](https://github.com/hyperion-project/hyperion) | Hyperion is an open source ambient light software.  Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/ | hyperion-project | 1055 |
@@ -514,7 +514,7 @@
 | 28 |  [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) | A List of Awesome Swift Playgrounds | uraimo | 2992 |
 | 29 |  [AwesomeGitHub](https://github.com/dnnsmnstrr/AwesomeGitHub) | A GitHub-Workshop for SGaTDA18 by @dnnsmnstrr | dnnsmnstrr | 1 |
 | 30 |  [HideAndSeek](https://github.com/alexanderschuelke/HideAndSeek) |  | alexanderschuelke | 2 |
-| 31 |  [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac | JohnCoates | 15617 |
+| 31 |  [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac | JohnCoates | 15618 |
 | 32 |  [CardsAgainst](https://github.com/exis-io/CardsAgainst) | Swift demo for Cards Against Humanity | exis-io | 4 |
 | 33 |  [cards-against-humanity](https://github.com/danvalencia/cards-against-humanity) | Cards Against Humanity iOS game written in Swift | danvalencia | 1 |
 | 34 |  [CardsAgainstTheTV](https://github.com/haarismuneer/CardsAgainstTheTV) |  | haarismuneer | 1 |
