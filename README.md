@@ -540,7 +540,7 @@
 | 54 |  [C4iOS](https://github.com/C4Labs/C4iOS) | C4 is an open-source creative coding framework that harnesses the power of native iOS programming with a simplified API that gets you working with media right away. Build artworks, design interfaces and explore new possibilities working with media and interaction. | C4Labs | 924 |
 | 55 |  [Static](https://github.com/venmo/Static) | Simple static table views for iOS in Swift. | venmo | 1141 |
 | 56 |  [Neon](https://github.com/mamaral/Neon) | A powerful Swift programmatic UI layout framework. | mamaral | 4541 |
-| 57 |  [SwiftTheme](https://github.com/wxxsw/SwiftTheme) | 🎨 Powerful theme/skin manager for iOS 8+ 主题/换肤, 暗色模式 | wxxsw | 1751 |
+| 57 |  [SwiftTheme](https://github.com/wxxsw/SwiftTheme) | 🎨 Powerful theme/skin manager for iOS 8+ 主题/换肤, 暗色模式 | wxxsw | 1752 |
 | 58 |  [Ambience](https://github.com/tmergulhao/Ambience) | An ambient light accessibility framework for iOS. | tmergulhao | 460 |
 | 59 |  [Wallet](https://github.com/rshevchuk/Wallet) | Wallet is a library to manage cards and passes. | rshevchuk | 320 |
 | 60 |  [Sonar](https://github.com/thefuntasty/Sonar) | Radar style view written in swift | thefuntasty | 122 |
