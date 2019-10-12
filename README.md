@@ -136,7 +136,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [meme](https://github.com/nomad-software/meme) | A command line utility for creating memes | nomad-software | 184 |
 | 2 |  [arduino-cli](https://github.com/arduino/arduino-cli) | Arduino command line interface | arduino | 1665 |
-| 3 |  [hub](https://github.com/github/hub) | A command-line tool that makes git easier to use with GitHub. | github | 17597 |
+| 3 |  [hub](https://github.com/github/hub) | A command-line tool that makes git easier to use with GitHub. | github | 17598 |
 
 ## HTML
 |  | Name 	|  Description 	| Author  	|  Stars 	|
