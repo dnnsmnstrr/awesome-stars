@@ -317,7 +317,7 @@
 | 2 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9243 |
 | 3 |  [macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) | :gem: A retina optimized macOS Sierra UI Kit for Sketch (including Touch Bar) | alexkaessner | 471 |
 | 4 |  [MTMR-presets](https://github.com/Toxblh/MTMR-presets) | 💈 [My TouchBar My rules] Share your preset! | Toxblh | 26 |
-| 5 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48771 |
+| 5 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48772 |
 | 6 |  [logos](https://github.com/gilbarbara/logos) | A huge collection of SVG logos | gilbarbara | 4494 |
 | 7 |  [awesome-btt-config](https://github.com/bskim45/awesome-btt-config) | An curated list of awesome BetterTouchTool configs. | bskim45 | 22 |
 | 8 |  [ChromeDebuggerTouchBar-BTT](https://github.com/luchenguang/ChromeDebuggerTouchBar-BTT) | A BTT preset which provides TouchBar support  for Chrome debugger. | luchenguang | 1 |
