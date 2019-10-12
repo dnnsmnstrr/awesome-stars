@@ -299,7 +299,7 @@
 | 20 |  [RestKit](https://github.com/RestKit/RestKit) | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X | RestKit | 10327 |
 | 21 |  [CardDecks](https://github.com/aharren/CardDecks) | Configurable card decks in your pocket. | aharren | 34 |
 | 22 |  [Screentendo](https://github.com/AaronRandall/Screentendo) | Turn your screen into a playable level of Mario | AaronRandall | 986 |
-| 23 |  [popping](https://github.com/schneiderandre/popping) | A collection of animation examples for iOS apps. | schneiderandre | 5562 |
+| 23 |  [popping](https://github.com/schneiderandre/popping) | A collection of animation examples for iOS apps. | schneiderandre | 5561 |
 | 24 |  [Shimmer](https://github.com/facebook/Shimmer) | An easy way to add a simple, shimmering effect to any view in an iOS app. | facebook | 9075 |
 | 25 |  [Helix](https://github.com/alexanderschuelke/Helix) |  | alexanderschuelke | 1 |
 
