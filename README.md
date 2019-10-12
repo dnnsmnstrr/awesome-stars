@@ -247,7 +247,7 @@
 | 75 |  [winXP](https://github.com/ShizukuIchi/winXP) | 🏁 Web based Windows XP desktop recreation. | ShizukuIchi | 3172 |
 | 76 |  [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools for everything 👉 | LisaDziuba | 16948 |
 | 77 |  [hydrogen](https://github.com/nteract/hydrogen) | :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor. | nteract | 3378 |
-| 78 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41191 |
+| 78 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41190 |
 | 79 |  [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 61137 |
 | 80 |  [BetterTouchTool](https://github.com/folivoraAI/BetterTouchTool) | I do not use this for issue tracking anymore. Please go to https://community.folivora.ai | folivoraAI | 646 |
 | 81 |  [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) | Use Facebook to track your friends’ sleeping habits | sqren | 1381 |
@@ -370,7 +370,7 @@
 | 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117427 |
 | 54 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35537 |
 | 55 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
-| 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22090 |
+| 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22089 |
 | 57 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 31064 |
 | 58 |  [awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. | ziadoz | 22359 |
 
@@ -469,7 +469,7 @@
 | 24 |  [dotfiles](https://github.com/webpro/dotfiles) | Dotfiles for macOS | webpro | 502 |
 | 25 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 22256 |
 | 26 |  [btt-controllers](https://github.com/andrewchidden/btt-controllers) | Small controller scripts and utilities designed to work with BetterTouchTool. | andrewchidden | 24 |
-| 27 |  [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | Papirus icon theme for Linux | PapirusDevelopmentTeam | 2899 |
+| 27 |  [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | Papirus icon theme for Linux | PapirusDevelopmentTeam | 2900 |
 | 28 |  [raspotify](https://github.com/dtcooper/raspotify) | Spotify Connect client for the Raspberry Pi that Just Works™ | dtcooper | 1882 |
 | 29 |  [Web-Font-Load](https://github.com/qrpike/Web-Font-Load) | Install all Google Web Fonts onto your local machine | qrpike | 1451 |
 | 30 |  [hax0rpi](https://github.com/vay3t/hax0rpi) | A Raspberry Pi Hacker Tools suite | vay3t | 56 |
