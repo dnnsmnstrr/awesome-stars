@@ -555,7 +555,7 @@
 | 69 |  [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) | Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. | IBAnimatable | 8205 |
 | 70 |  [AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton) | Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation. | suzuki-0000 | 75 |
 | 71 |  [Floaty](https://github.com/kciter/Floaty) | :heart: Floating Action Button for iOS | kciter | 1062 |
-| 72 |  [GlitchLabel](https://github.com/kciter/GlitchLabel) | G..lit...c...hing UILa..bel fo..r iO...S :tv: | kciter | 821 |
+| 72 |  [GlitchLabel](https://github.com/kciter/GlitchLabel) | G..lit...c...hing UILa..bel fo..r iO...S :tv: | kciter | 822 |
 | 73 |  [StackViewController](https://github.com/seedco/StackViewController) | A controller that uses a UIStackView and view controller composition to display content in a list | seedco | 759 |
 | 74 |  [Switch](https://github.com/T-Pham/Switch) | 💊 An iOS switch control implemented in Swift with full Interface Builder support | T-Pham | 118 |
 | 75 |  [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) | :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries | Ramotion | 10182 |
@@ -595,7 +595,7 @@
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1962 |
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4486 |
 | 11 |  [cli](https://github.com/react-native-community/cli) | React Native command line tools | react-native-community | 836 |
-| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84281 |
+| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84280 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8955 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1576 |
 | 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42061 |
