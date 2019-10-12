@@ -232,7 +232,7 @@
 | 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49636 |
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37035 |
-| 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50120 |
+| 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50121 |
 | 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81736 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 44 |
 | 66 |  [react-native-pure-chart](https://github.com/oksktank/react-native-pure-chart) | react-native chart library that not using svg or ART but only using react native pure components. | oksktank | 200 |
@@ -342,7 +342,7 @@
 | 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65567 |
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39789 |
-| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91189 |
+| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91190 |
 | 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49133 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4341 |
@@ -405,7 +405,7 @@
 | 20 |  [Sunfounder_SensorKit_Python_code_for_RaspberryPi](https://github.com/sunfounder/Sunfounder_SensorKit_Python_code_for_RaspberryPi) | Sunfounder Sensor Kit Python code for Raspberry Pi | sunfounder | 31 |
 | 21 |  [SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) | SunFounder Sensor Kit V2.0 for Raspberry Pi 2 | sunfounder | 64 |
 | 22 |  [mazesolving](https://github.com/mikepound/mazesolving) | A variety of algorithms to solve mazes from an input image | mikepound | 1087 |
-| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74025 |
+| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74026 |
 | 24 |  [documentation](https://github.com/raspberrypi/documentation) | Official documentation for the Raspberry Pi | raspberrypi | 3012 |
 
 ## Rich Text Format
