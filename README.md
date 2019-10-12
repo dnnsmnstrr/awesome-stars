@@ -98,7 +98,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) | A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli) | morpheusthewhite | 97 |
-| 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17078 |
+| 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17079 |
 | 3 |  [madclem.github.io](https://github.com/madclem/madclem.github.io) |  | madclem | 18 |
 | 4 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 62470 |
 | 5 |  [dotfiles](https://github.com/dnnsmnstrr/dotfiles) | My dotfiles and BetterTouchTool presets | dnnsmnstrr | 2 |
@@ -497,7 +497,7 @@
 | 19 |  [Chatto](https://github.com/badoo/Chatto) | A lightweight framework to build chat applications, made in Swift | badoo | 3956 |
 | 20 |  [PiPifier](https://github.com/arnoappenzeller/PiPifier) | PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode | arnoappenzeller | 581 |
 | 21 |  [colorpiano](https://github.com/LucasAssisRo/colorpiano) | iPad Playground submission for the WWDC18 Scholarship (Accepted) | LucasAssisRo | 2 |
-| 22 |  [SnapKit](https://github.com/SnapKit/SnapKit) | A Swift Autolayout DSL for iOS & OS X | SnapKit | 15635 |
+| 22 |  [SnapKit](https://github.com/SnapKit/SnapKit) | A Swift Autolayout DSL for iOS & OS X | SnapKit | 15636 |
 | 23 |  [CoffeeApp](https://github.com/runys/CoffeeApp) | App used for the Notification Center workshop in the Apple Developer Academy at Naples. | runys | 4 |
 | 24 |  [SpotifyLogin](https://github.com/spotify/SpotifyLogin) | Swift framework for authenticating with the Spotify API | spotify | 292 |
 | 25 |  [VisionFaceDetection](https://github.com/DroidsOnRoids/VisionFaceDetection) | An example of use a Vision framework for face landmarks detection in iOS 11 | DroidsOnRoids | 252 |
