@@ -174,7 +174,7 @@
 | 4 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 3732 |
 | 5 |  [trolol](https://github.com/ukupat/trolol) | Troll your friends with simple commands AS QUICKLY AS POSSIBLE | ukupat | 652 |
 | 6 |  [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) | Play with fluids in your browser (works even on mobile) | PavelDoGreat | 6649 |
-| 7 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 42286 |
+| 7 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 42287 |
 | 8 |  [react-native-animatable](https://github.com/oblador/react-native-animatable) | Standard set of easy to use animations and declarative transitions for React Native | oblador | 7166 |
 | 9 |  [Detox](https://github.com/wix/Detox) | Gray box end-to-end testing and automation framework for mobile apps | wix | 5397 |
 | 10 |  [cucumber-js](https://github.com/cucumber/cucumber-js) | Cucumber for JavaScript | cucumber | 3692 |
@@ -331,7 +331,7 @@
 | 16 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33782 |
 | 17 |  [simpletouch](https://github.com/hawka97/simpletouch) | The SimpleTouch Preset for macOS BetterTouchTool | hawka97 | 1 |
 | 18 |  [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | herrbischoff | 21852 |
-| 19 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 13847 |
+| 19 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 13848 |
 | 20 |  [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) | A curated list of awesome articles, websites and resources about mental health in the software industry. | dreamingechoes | 1472 |
 | 21 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65558 |
 | 22 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
@@ -415,7 +415,7 @@
 ## Ruby
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dev.to](https://github.com/thepracticaldev/dev.to) | Where programmers share ideas and help each other grow | thepracticaldev | 10909 |
+| 1 |  [dev.to](https://github.com/thepracticaldev/dev.to) | Where programmers share ideas and help each other grow | thepracticaldev | 10910 |
 | 2 |  [lolcat](https://github.com/busyloop/lolcat) | Rainbows and unicorns! | busyloop | 3743 |
 | 3 |  [illacceptanything](https://github.com/illacceptanything/illacceptanything) | The project where literally anything* goes. | illacceptanything | 1615 |
 | 4 |  [xcode-install](https://github.com/xcpretty/xcode-install) | 🔽 Install and update your Xcodes | xcpretty | 1782 |
