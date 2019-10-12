@@ -346,7 +346,7 @@
 | 33 |  [icons](https://github.com/jtholloran/icons) | Sketch template for generating all iOS 12 App icon sizes | jtholloran | 371 |
 | 34 |  [awesome-sketch](https://github.com/diessica/awesome-sketch) | :books: delightful stuff for SketchApp students. | diessica | 711 |
 | 35 |  [2017](https://github.com/wwdc/2017) | Student Submissions for the WWDC 2017 Scholarship | wwdc | 242 |
-| 36 |  [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) | A curated list of awesome iOS UI/UX libraries | cjwirth | 10740 |
+| 36 |  [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) | A curated list of awesome iOS UI/UX libraries | cjwirth | 10739 |
 | 37 |  [awesome-fonts](https://github.com/brabadu/awesome-fonts) | Curated list of fonts and everything | brabadu | 568 |
 | 38 |  [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. | papers-we-love | 36448 |
 | 39 |  [rpd-wallpaper](https://github.com/raspberrypi-ui/rpd-wallpaper) | Custom desktop wallpapers | raspberrypi-ui | 9 |
