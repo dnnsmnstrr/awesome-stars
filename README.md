@@ -341,7 +341,7 @@
 | 24 |  [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) | A curated list of awesome articles, websites and resources about mental health in the software industry. | dreamingechoes | 1472 |
 | 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65564 |
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
-| 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39788 |
+| 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39789 |
 | 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91184 |
 | 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49095 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
@@ -392,7 +392,7 @@
 | 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56535 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
 | 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6455 |
-| 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27289 |
+| 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27290 |
 | 11 |  [Kashi](https://github.com/zer8ne/Kashi) | Touch Bar widget that displays the lyrics of the current song in Spotify, iTunes, or YouTube. | zer8ne | 11 |
 | 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33333 |
 | 13 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 48619 |
@@ -598,7 +598,7 @@
 | 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84280 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8955 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1576 |
-| 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42060 |
+| 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42061 |
 | 16 |  [botpress](https://github.com/botpress/botpress) | The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants. | botpress | 7707 |
 | 17 |  [PocketGear](https://github.com/satya164/PocketGear) | A clean and simple Pokédex app for Pokémon GO | satya164 | 178 |
 | 18 |  [lyricfier](https://github.com/emilioastarita/lyricfier) | a Spotify Lyrics alternative app | New updates at https://github.com/emilioastarita/lyricfier2 (a faster version in golang) | emilioastarita | 580 |
