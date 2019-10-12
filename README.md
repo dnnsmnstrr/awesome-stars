@@ -284,7 +284,7 @@
 | 2 |  [Irvue-Screensaver](https://github.com/leonspok/Irvue-Screensaver) | Screensaver for macOS | leonspok | 226 |
 | 3 |  [MusaicFM](https://github.com/docterd/MusaicFM) | Screensaver inspired by Apple’s inbuilt iTunes Screensaver. It can display Artwork by Spotify or last.fm Profile Data. | docterd | 89 |
 | 4 |  [beardedspice](https://github.com/beardedspice/beardedspice) | Mac Media Keys for the Masses | beardedspice | 2399 |
-| 5 |  [YouTube-Music](https://github.com/steve228uk/YouTube-Music) | :musical_note: A Mac app wrapper for music.youtube.com | steve228uk | 1060 |
+| 5 |  [YouTube-Music](https://github.com/steve228uk/YouTube-Music) | :musical_note: A Mac app wrapper for music.youtube.com | steve228uk | 1061 |
 | 6 |  [TouchBarDemoApp](https://github.com/bikkelbroeders/TouchBarDemoApp) | Allows you to use your macOS Touch Bar from an iPad (through USB connection) or on-screen by pressing the Fn-key. | bikkelbroeders | 1628 |
 | 7 |  [react-native-quick-look](https://github.com/redbooth/react-native-quick-look) | React Native Component for iOS QuickLook Framework. | redbooth | 32 |
 | 8 |  [react-native-safari-view](https://github.com/naoufal/react-native-safari-view) | A React Native wrapper for Safari View Controller. | naoufal | 437 |
