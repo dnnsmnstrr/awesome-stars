@@ -93,7 +93,7 @@
 | 10 |  [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) | Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO | arendst | 8007 |
 | 11 |  [DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) | USB Rubber Ducky type scripts written for the DigiSpark. | CedArctic | 287 |
 | 12 |  [BadUSB](https://github.com/grcasanova/BadUSB) | Personal implementation of the BadUSB exploit with an Atmel 8-bit AVR ATTiny85 acting as a HID keyboard | grcasanova | 42 |
-| 13 |  [swift](https://github.com/apple/swift) | The Swift Programming Language | apple | 49338 |
+| 13 |  [swift](https://github.com/apple/swift) | The Swift Programming Language | apple | 49339 |
 | 14 |  [AudioKit](https://github.com/AudioKit/AudioKit) | Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS | AudioKit | 6955 |
 | 15 |  [DigisparkArduinoIntegration](https://github.com/digistump/DigisparkArduinoIntegration) | DEPRECATED - REPLACED BY: https://github.com/digistump/DigistumpArduino | digistump | 155 |
 | 16 |  [hyperion](https://github.com/hyperion-project/hyperion) | Hyperion is an open source ambient light software.  Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/ | hyperion-project | 1055 |
@@ -118,7 +118,7 @@
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76934 |
+| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76933 |
 
 ## Elixir
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -176,7 +176,7 @@
 | 4 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 3732 |
 | 5 |  [trolol](https://github.com/ukupat/trolol) | Troll your friends with simple commands AS QUICKLY AS POSSIBLE | ukupat | 652 |
 | 6 |  [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) | Play with fluids in your browser (works even on mobile) | PavelDoGreat | 6653 |
-| 7 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 42288 |
+| 7 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 42289 |
 | 8 |  [react-native-animatable](https://github.com/oblador/react-native-animatable) | Standard set of easy to use animations and declarative transitions for React Native | oblador | 7168 |
 | 9 |  [Detox](https://github.com/wix/Detox) | Gray box end-to-end testing and automation framework for mobile apps | wix | 5397 |
 | 10 |  [cucumber-js](https://github.com/cucumber/cucumber-js) | Cucumber for JavaScript | cucumber | 3691 |
@@ -588,7 +588,7 @@
 | 2 |  [now](https://github.com/zeit/now) | The easiest way to deploy websites | zeit | 3789 |
 | 3 |  [refined-github](https://github.com/sindresorhus/refined-github) | Browser extension that simplifies the GitHub interface and adds useful features | sindresorhus | 9867 |
 | 4 |  [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) | The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code. | alexa | 2726 |
-| 5 |  [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 | streamich | 7917 |
+| 5 |  [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 | streamich | 7918 |
 | 6 |  [react-navigation](https://github.com/react-navigation/react-navigation) | Routing and navigation for your React Native apps | react-navigation | 16649 |
 | 7 |  [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | akveo | 5079 |
 | 8 |  [messaging-apis](https://github.com/Yoctol/messaging-apis) | Messaging APIs for multi-platform | Yoctol | 1408 |
