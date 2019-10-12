@@ -354,7 +354,7 @@
 | 39 |  [rpd-wallpaper](https://github.com/raspberrypi-ui/rpd-wallpaper) | Custom desktop wallpapers | raspberrypi-ui | 9 |
 | 40 |  [CAH](https://github.com/Juditk/CAH) | A repo for Cards Against Humanity cards related to programming / development / Apple / iOS. | Juditk | 38 |
 | 41 |  [LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) | Linux-themed expansion pack for Cards Against Humanity | BryanLunduke | 63 |
-| 42 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90357 |
+| 42 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90358 |
 | 43 |  [Specs](https://github.com/CocoaPods/Specs) | The CocoaPods Master Repo | CocoaPods | 5429 |
 | 44 |  [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) | 🍎 🖥 🎆 A curated list of screensavers for Mac OS X | agarrharr | 1670 |
 | 45 |  [awesome-design](https://github.com/gztchan/awesome-design) | 🌟Curated design resources | gztchan | 11341 |
@@ -518,7 +518,7 @@
 | 38 |  [PeerKit](https://github.com/jpsim/PeerKit) | An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps | jpsim | 808 |
 | 39 |  [CardsAgainst](https://github.com/jpsim/CardsAgainst) | An iOS game for horrible people | jpsim | 497 |
 | 40 |  [Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) | 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验 | Lax | 3038 |
-| 41 |  [Ease](https://github.com/roberthein/Ease) | It's magic. | roberthein | 1140 |
+| 41 |  [Ease](https://github.com/roberthein/Ease) | It's magic. | roberthein | 1141 |
 | 42 |  [Beethoven](https://github.com/vadymmarkov/Beethoven) | :guitar: A maestro of pitch detection. | vadymmarkov | 469 |
 | 43 |  [MusicKit](https://github.com/benzguo/MusicKit) | A framework for composing and transforming music in Swift | benzguo | 544 |
 | 44 |  [TuningFork](https://github.com/comyar/TuningFork) | :musical_keyboard: Simple Tuner for iOS | comyar | 384 |
@@ -584,7 +584,7 @@
 | 4 |  [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) | The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code. | alexa | 2726 |
 | 5 |  [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 | streamich | 7915 |
 | 6 |  [react-navigation](https://github.com/react-navigation/react-navigation) | Routing and navigation for your React Native apps | react-navigation | 16649 |
-| 7 |  [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | akveo | 5078 |
+| 7 |  [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | akveo | 5079 |
 | 8 |  [messaging-apis](https://github.com/Yoctol/messaging-apis) | Messaging APIs for multi-platform | Yoctol | 1408 |
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1962 |
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4486 |
