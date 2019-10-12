@@ -359,7 +359,7 @@
 | 46 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 10056 |
 | 47 |  [awesome-java](https://github.com/akullpp/awesome-java) | A curated list of awesome frameworks, libraries and software for the Java programming language. | akullpp | 22551 |
 | 48 |  [gesetze](https://github.com/bundestag/gesetze) | Bundesgesetze und -verordnungen | bundestag | 1449 |
-| 49 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117409 |
+| 49 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117410 |
 | 50 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35533 |
 | 51 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
 | 52 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22081 |
@@ -485,7 +485,7 @@
 | 7 |  [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | insidegui | 7408 |
 | 8 |  [iSimulator](https://github.com/wigl/iSimulator) | iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. | wigl | 796 |
 | 9 |  [ARVideoKit](https://github.com/AFathi/ARVideoKit) | Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆. | AFathi | 1066 |
-| 10 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 20811 |
+| 10 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 20812 |
 | 11 |  [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) | Gathering all info published, both by Apple and by others, about new framework SwiftUI. | Juanpe | 3474 |
 | 12 |  [mas](https://github.com/mas-cli/mas) | :package: Mac App Store command line interface | mas-cli | 6459 |
 | 13 |  [lottie-ios](https://github.com/airbnb/lottie-ios) | An iOS library to natively render After Effects vector animations | airbnb | 18270 |
