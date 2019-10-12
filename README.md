@@ -247,7 +247,7 @@
 | 75 |  [winXP](https://github.com/ShizukuIchi/winXP) | 🏁 Web based Windows XP desktop recreation. | ShizukuIchi | 3172 |
 | 76 |  [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools for everything 👉 | LisaDziuba | 16946 |
 | 77 |  [hydrogen](https://github.com/nteract/hydrogen) | :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor. | nteract | 3378 |
-| 78 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41187 |
+| 78 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41188 |
 | 79 |  [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 61137 |
 | 80 |  [BetterTouchTool](https://github.com/folivoraAI/BetterTouchTool) | I do not use this for issue tracking anymore. Please go to https://community.folivora.ai | folivoraAI | 646 |
 | 81 |  [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) | Use Facebook to track your friends’ sleeping habits | sqren | 1381 |
@@ -298,7 +298,7 @@
 | 15 |  [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) | Used to integrate the Facebook Platform with your iOS & tvOS apps. | facebook | 6130 |
 | 16 |  [RESideMenu](https://github.com/romaonthego/RESideMenu) | iOS 7/8 style side menu with parallax effect. | romaonthego | 7246 |
 | 17 |  [iCarousel](https://github.com/nicklockwood/iCarousel) | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | nicklockwood | 11442 |
-| 18 |  [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | A clean and lightweight progress HUD for your iOS and tvOS app. | SVProgressHUD | 11861 |
+| 18 |  [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | A clean and lightweight progress HUD for your iOS and tvOS app. | SVProgressHUD | 11862 |
 | 19 |  [FLEX](https://github.com/Flipboard/FLEX) | An in-app debugging and exploration tool for iOS | Flipboard | 10793 |
 | 20 |  [RestKit](https://github.com/RestKit/RestKit) | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X | RestKit | 10327 |
 | 21 |  [CardDecks](https://github.com/aharren/CardDecks) | Configurable card decks in your pocket. | aharren | 34 |
@@ -367,7 +367,7 @@
 | 50 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 10060 |
 | 51 |  [awesome-java](https://github.com/akullpp/awesome-java) | A curated list of awesome frameworks, libraries and software for the Java programming language. | akullpp | 22552 |
 | 52 |  [gesetze](https://github.com/bundestag/gesetze) | Bundesgesetze und -verordnungen | bundestag | 1449 |
-| 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117419 |
+| 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117420 |
 | 54 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35536 |
 | 55 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
 | 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22088 |
