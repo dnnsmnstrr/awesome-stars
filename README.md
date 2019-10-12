@@ -185,7 +185,7 @@
 | 14 |  [spotify-viz](https://github.com/zachwinter/spotify-viz) | Create realtime audio-reactive visuals, powered by Spotify. | zachwinter | 38 |
 | 15 |  [reactotron](https://github.com/infinitered/reactotron) | A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. | infinitered | 11004 |
 | 16 |  [keymaster](https://github.com/madrobby/keymaster) | A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies. | madrobby | 6304 |
-| 17 |  [stargazed](https://github.com/abhijithvijayan/stargazed) | Creating your own Awesome List of GitHub stars! | abhijithvijayan | 173 |
+| 17 |  [stargazed](https://github.com/abhijithvijayan/stargazed) | Creating your own Awesome List of GitHub stars! | abhijithvijayan | 174 |
 | 18 |  [btt-quicknav](https://github.com/ChrisPenner/btt-quicknav) | HTML overlay for quickly navigating your computer | ChrisPenner | 17 |
 | 19 |  [spotify-true-random](https://github.com/TomerAberbach/spotify-true-random) | An application for unbiased truly random playlist and library shuffling with Spotify. | TomerAberbach | 21 |
 | 20 |  [Duckuino](https://github.com/Dukweeno/Duckuino) | Simple DuckyScript to Arduino C converter. | Dukweeno | 214 |
@@ -474,7 +474,7 @@
 | 34 |  [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) | Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores | RetroPie | 7917 |
 | 35 |  [filehub-config](https://github.com/digidem/filehub-config) | Hacking the RAVPower Filehub to automate SD card transfers and harddrive backups | digidem | 93 |
 | 36 |  [pimusicbox](https://github.com/pimusicbox/pimusicbox) | An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming | pimusicbox | 1625 |
-| 37 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 18331 |
+| 37 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 18332 |
 
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
