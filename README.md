@@ -496,7 +496,7 @@
 | 10 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 20814 |
 | 11 |  [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) | Gathering all info published, both by Apple and by others, about new framework SwiftUI. | Juanpe | 3475 |
 | 12 |  [mas](https://github.com/mas-cli/mas) | :package: Mac App Store command line interface | mas-cli | 6459 |
-| 13 |  [lottie-ios](https://github.com/airbnb/lottie-ios) | An iOS library to natively render After Effects vector animations | airbnb | 18270 |
+| 13 |  [lottie-ios](https://github.com/airbnb/lottie-ios) | An iOS library to natively render After Effects vector animations | airbnb | 18271 |
 | 14 |  [touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) | Use the Touch Bar on any Mac | sindresorhus | 1270 |
 | 15 |  [LyricsX](https://github.com/ddddxxx/LyricsX) | 🎶 Lyrics for iTunes, Spotify, Vox and Audirvana Plus. | ddddxxx | 1592 |
 | 16 |  [realtimereddit-iOSClient](https://github.com/dyountmusic/realtimereddit-iOSClient) | A real time reddit API client for iOS | dyountmusic | 4 |
