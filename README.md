@@ -51,7 +51,7 @@
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 29659 |
+| 1 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 29660 |
 | 2 |  [pcbtc](https://github.com/NiklasFauth/pcbtc) | PCB based Dual Resonance Solid State Tesla Coil Design | NiklasFauth | 127 |
 | 3 |  [sturmflut](https://github.com/TobleMiner/sturmflut) | A FAST (80+ Gbit/s) pixelflut client with full IPv6 and animation support | TobleMiner | 23 |
 | 4 |  [osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) | Outputs current CPU temperature for OSX | lavoiesl | 598 |
@@ -329,7 +329,7 @@
 | 13 |  [amas](https://github.com/sindresorhus/amas) | Awesome & Marvelous Amas | sindresorhus | 1166 |
 | 14 |  [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) | Various cheat sheets on CS stuff | aspittel | 485 |
 | 15 |  [awesome-falsehoods](https://github.com/jameslk/awesome-falsehoods) | A curated list of awesome falsehoods programmers believe. | jameslk | 488 |
-| 16 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33783 |
+| 16 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33784 |
 | 17 |  [simpletouch](https://github.com/hawka97/simpletouch) | The SimpleTouch Preset for macOS BetterTouchTool | hawka97 | 1 |
 | 18 |  [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | herrbischoff | 21851 |
 | 19 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 13848 |
