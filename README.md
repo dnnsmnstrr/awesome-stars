@@ -370,7 +370,7 @@
 | 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117419 |
 | 54 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35536 |
 | 55 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
-| 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22085 |
+| 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22086 |
 | 57 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 31060 |
 | 58 |  [awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. | ziadoz | 22355 |
 
@@ -444,7 +444,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [osagitfilter](https://github.com/doekman/osagitfilter) | Filter to put OSA languages (AppleScript, JavaScript) into git | doekman | 5 |
-| 2 |  [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) |  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. | guarinogabriel | 7707 |
+| 2 |  [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) |  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. | guarinogabriel | 7708 |
 | 3 |  [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) | A collection of small bash scripts for heavy terminal users | alexanderepstein | 7320 |
 | 4 |  [dotfiles](https://github.com/keith/dotfiles) | My vim, zsh, tmux, and OS X dotfiles | keith | 189 |
 | 5 |  [mac-setup](https://github.com/sb2nov/mac-setup) | Installing Development environment on macOS | sb2nov | 5680 |
