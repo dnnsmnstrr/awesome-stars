@@ -511,7 +511,7 @@
 | 25 |  [VisionFaceDetection](https://github.com/DroidsOnRoids/VisionFaceDetection) | An example of use a Vision framework for face landmarks detection in iOS 11 | DroidsOnRoids | 252 |
 | 26 |  [ScontriNo](https://github.com/dnnsmnstrr/ScontriNo) |  | dnnsmnstrr | 1 |
 | 27 |  [Geometry-Swift-PlaygroundBook](https://github.com/dbbudd/Geometry-Swift-PlaygroundBook) | In this course your students will learn the fundamentals of Swift 3 programming, using Geometry as their context for learning.  The style of this course mimic &#34;Logo&#34;, which is an educational programming language designed in 1967 by Daniel Borrow, Wally Feurzeig, Seymour Papert and Cynthia Soloman. | dbbudd | 4 |
-| 28 |  [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) | A List of Awesome Swift Playgrounds | uraimo | 2992 |
+| 28 |  [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) | A List of Awesome Swift Playgrounds | uraimo | 2993 |
 | 29 |  [AwesomeGitHub](https://github.com/dnnsmnstrr/AwesomeGitHub) | A GitHub-Workshop for SGaTDA18 by @dnnsmnstrr | dnnsmnstrr | 1 |
 | 30 |  [HideAndSeek](https://github.com/alexanderschuelke/HideAndSeek) |  | alexanderschuelke | 2 |
 | 31 |  [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac | JohnCoates | 15618 |
