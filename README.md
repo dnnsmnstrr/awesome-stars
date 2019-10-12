@@ -563,7 +563,7 @@
 | 77 |  [Cards](https://github.com/PaoloCuscela/Cards) | Awesome iOS 11 appstore cards in swift 5. | PaoloCuscela | 3523 |
 | 78 |  [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) | This component implements transition animation to crumble view-controller into tiny pieces. | Yalantis | 3470 |
 | 79 |  [CardsLayout](https://github.com/filletofish/CardsLayout) | :star: Custom card-designed CollectionView layout | filletofish | 569 |
-| 80 |  [folding-cell](https://github.com/Ramotion/folding-cell) | :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries | Ramotion | 9386 |
+| 80 |  [folding-cell](https://github.com/Ramotion/folding-cell) | :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries | Ramotion | 9387 |
 | 81 |  [BWWalkthrough](https://github.com/ariok/BWWalkthrough) | BWWalkthrough is a class to build custom walkthroughs for your iOS App | ariok | 2677 |
 | 82 |  [Instructions](https://github.com/ephread/Instructions) | Create walkthroughs and guided tours (coach marks) in a simple way, with Swift. | ephread | 4040 |
 | 83 |  [Alexandria](https://github.com/ovenbits/Alexandria) |  | ovenbits | 29 |
