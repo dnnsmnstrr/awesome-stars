@@ -161,7 +161,7 @@
 | 5 |  [react-native-navigation](https://github.com/wix/react-native-navigation) | A complete native navigation solution for React Native | wix | 10834 |
 | 6 |  [react-native-webview](https://github.com/react-native-community/react-native-webview) | React Native Cross-Platform WebView | react-native-community | 1826 |
 | 7 |  [interviews](https://github.com/kdn251/interviews) | Everything you need to know to get the job. | kdn251 | 39270 |
-| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17394 |
+| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17395 |
 | 9 |  [A-Pathfinding-Visualization](https://github.com/DevonCrawford/A-Pathfinding-Visualization) | First attempt at an efficient pathfinding algorithm in Java. I made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface. | DevonCrawford | 200 |
 | 10 |  [processing](https://github.com/processing/processing) | Source code for the Processing Core and Development Environment (PDE) | processing | 5078 |
 | 11 |  [PretendYoureXyzzy](https://github.com/ajanata/PretendYoureXyzzy) | A web clone of the card game Cards Against Humanity. | ajanata | 749 |
@@ -442,7 +442,7 @@
 | 2 |  [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) |  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. | guarinogabriel | 7707 |
 | 3 |  [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) | A collection of small bash scripts for heavy terminal users | alexanderepstein | 7320 |
 | 4 |  [dotfiles](https://github.com/keith/dotfiles) | My vim, zsh, tmux, and OS X dotfiles | keith | 189 |
-| 5 |  [mac-setup](https://github.com/sb2nov/mac-setup) | Installing Development environment on macOS | sb2nov | 5679 |
+| 5 |  [mac-setup](https://github.com/sb2nov/mac-setup) | Installing Development environment on macOS | sb2nov | 5680 |
 | 6 |  [m-cli](https://github.com/rgcr/m-cli) |  Swiss Army Knife for macOS | rgcr | 7586 |
 | 7 |  [wifi-password](https://github.com/rauchg/wifi-password) | Get the password of the wifi you're on (bash) | rauchg | 3174 |
 | 8 |  [git-jokes](https://github.com/EugeneKay/git-jokes) | Collection of questionably humorous git sayings | EugeneKay | 223 |
