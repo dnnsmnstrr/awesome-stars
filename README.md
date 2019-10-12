@@ -329,7 +329,7 @@
 | 13 |  [amas](https://github.com/sindresorhus/amas) | Awesome & Marvelous Amas | sindresorhus | 1166 |
 | 14 |  [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) | Various cheat sheets on CS stuff | aspittel | 485 |
 | 15 |  [awesome-falsehoods](https://github.com/jameslk/awesome-falsehoods) | A curated list of awesome falsehoods programmers believe. | jameslk | 488 |
-| 16 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33784 |
+| 16 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33785 |
 | 17 |  [simpletouch](https://github.com/hawka97/simpletouch) | The SimpleTouch Preset for macOS BetterTouchTool | hawka97 | 1 |
 | 18 |  [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | herrbischoff | 21851 |
 | 19 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 13848 |
@@ -421,7 +421,7 @@
 | 3 |  [illacceptanything](https://github.com/illacceptanything/illacceptanything) | The project where literally anything* goes. | illacceptanything | 1615 |
 | 4 |  [xcode-install](https://github.com/xcpretty/xcode-install) | 🔽 Install and update your Xcodes | xcpretty | 1782 |
 | 5 |  [CocoaPods](https://github.com/CocoaPods/CocoaPods) | The Cocoa Dependency Manager. | CocoaPods | 11994 |
-| 6 |  [sonic-pi](https://github.com/samaaron/sonic-pi) | The Live Coding Music Synth for Everyone | samaaron | 4812 |
+| 6 |  [sonic-pi](https://github.com/samaaron/sonic-pi) | The Live Coding Music Synth for Everyone | samaaron | 4813 |
 | 7 |  [timezones](https://github.com/igor-makarov/timezones) | All the timezones of all the cities, as a static site! | igor-makarov | 49 |
 | 8 |  [bundler](https://github.com/bundler/bundler) | Manage your Ruby application's gem dependencies | bundler | 4698 |
 | 9 |  [jekyll](https://github.com/jekyll/jekyll) | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | jekyll | 38871 |
