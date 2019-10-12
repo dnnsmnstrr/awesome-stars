@@ -247,7 +247,7 @@
 | 75 |  [winXP](https://github.com/ShizukuIchi/winXP) | 🏁 Web based Windows XP desktop recreation. | ShizukuIchi | 3172 |
 | 76 |  [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools for everything 👉 | LisaDziuba | 16946 |
 | 77 |  [hydrogen](https://github.com/nteract/hydrogen) | :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor. | nteract | 3378 |
-| 78 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41189 |
+| 78 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41190 |
 | 79 |  [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 61137 |
 | 80 |  [BetterTouchTool](https://github.com/folivoraAI/BetterTouchTool) | I do not use this for issue tracking anymore. Please go to https://community.folivora.ai | folivoraAI | 646 |
 | 81 |  [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) | Use Facebook to track your friends’ sleeping habits | sqren | 1381 |
@@ -323,7 +323,7 @@
 | 6 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9244 |
 | 7 |  [macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) | :gem: A retina optimized macOS Sierra UI Kit for Sketch (including Touch Bar) | alexkaessner | 471 |
 | 8 |  [MTMR-presets](https://github.com/Toxblh/MTMR-presets) | 💈 [My TouchBar My rules] Share your preset! | Toxblh | 26 |
-| 9 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48774 |
+| 9 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48775 |
 | 10 |  [logos](https://github.com/gilbarbara/logos) | A huge collection of SVG logos | gilbarbara | 4494 |
 | 11 |  [awesome-btt-config](https://github.com/bskim45/awesome-btt-config) | An curated list of awesome BetterTouchTool configs. | bskim45 | 22 |
 | 12 |  [ChromeDebuggerTouchBar-BTT](https://github.com/luchenguang/ChromeDebuggerTouchBar-BTT) | A BTT preset which provides TouchBar support  for Chrome debugger. | luchenguang | 1 |
@@ -343,7 +343,7 @@
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39789 |
 | 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91186 |
-| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49114 |
+| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49115 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4341 |
 | 32 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8237 |
