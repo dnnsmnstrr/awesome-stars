@@ -63,7 +63,7 @@
 | 9 |  [DigisparkKeyboard](https://github.com/ernesto-xload/DigisparkKeyboard) | DigisparkKeyboard library with multiple layout support | ernesto-xload | 22 |
 | 10 |  [DigisparkMIDI](https://github.com/heartscrytech/DigisparkMIDI) | A HID-MIDI driver for the Digispark Attiny85 Arduino | heartscrytech | 40 |
 | 11 |  [USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) |  | hak5darren | 3395 |
-| 12 |  [esp8266_deauther](https://github.com/spacehuhn/esp8266_deauther) | Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners! | spacehuhn | 5416 |
+| 12 |  [esp8266_deauther](https://github.com/spacehuhn/esp8266_deauther) | Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners! | spacehuhn | 5417 |
 | 13 |  [info-beamer](https://github.com/dividuum/info-beamer) | The Multimedia Presenter for Lua (for commercial projects, use info-beamer pi instead) | dividuum | 213 |
 | 14 |  [RetroArch](https://github.com/libretro/RetroArch) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. | libretro | 3670 |
 | 15 |  [linux](https://github.com/raspberrypi/linux) | Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum | raspberrypi | 6069 |
@@ -177,7 +177,7 @@
 | 5 |  [trolol](https://github.com/ukupat/trolol) | Troll your friends with simple commands AS QUICKLY AS POSSIBLE | ukupat | 652 |
 | 6 |  [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) | Play with fluids in your browser (works even on mobile) | PavelDoGreat | 6653 |
 | 7 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 42291 |
-| 8 |  [react-native-animatable](https://github.com/oblador/react-native-animatable) | Standard set of easy to use animations and declarative transitions for React Native | oblador | 7168 |
+| 8 |  [react-native-animatable](https://github.com/oblador/react-native-animatable) | Standard set of easy to use animations and declarative transitions for React Native | oblador | 7169 |
 | 9 |  [Detox](https://github.com/wix/Detox) | Gray box end-to-end testing and automation framework for mobile apps | wix | 5398 |
 | 10 |  [cucumber-js](https://github.com/cucumber/cucumber-js) | Cucumber for JavaScript | cucumber | 3691 |
 | 11 |  [hyper](https://github.com/zeit/hyper) | A terminal built on web technologies | zeit | 31185 |
@@ -334,7 +334,7 @@
 | 17 |  [amas](https://github.com/sindresorhus/amas) | Awesome & Marvelous Amas | sindresorhus | 1166 |
 | 18 |  [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) | Various cheat sheets on CS stuff | aspittel | 485 |
 | 19 |  [awesome-falsehoods](https://github.com/jameslk/awesome-falsehoods) | A curated list of awesome falsehoods programmers believe. | jameslk | 488 |
-| 20 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33791 |
+| 20 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33792 |
 | 21 |  [simpletouch](https://github.com/hawka97/simpletouch) | The SimpleTouch Preset for macOS BetterTouchTool | hawka97 | 1 |
 | 22 |  [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | herrbischoff | 21852 |
 | 23 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 13849 |
