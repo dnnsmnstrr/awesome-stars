@@ -602,7 +602,7 @@
 | 16 |  [botpress](https://github.com/botpress/botpress) | The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants. | botpress | 7708 |
 | 17 |  [PocketGear](https://github.com/satya164/PocketGear) | A clean and simple Pokédex app for Pokémon GO | satya164 | 178 |
 | 18 |  [lyricfier](https://github.com/emilioastarita/lyricfier) | a Spotify Lyrics alternative app | New updates at https://github.com/emilioastarita/lyricfier2 (a faster version in golang) | emilioastarita | 580 |
-| 19 |  [learn-anything](https://github.com/learn-anything/learn-anything) | Organize world's knowledge, explore connections and curate learning paths | learn-anything | 11561 |
+| 19 |  [learn-anything](https://github.com/learn-anything/learn-anything) | Organize world's knowledge, explore connections and curate learning paths | learn-anything | 11562 |
 
 ## Vim script
 |  | Name 	|  Description 	| Author  	|  Stars 	|
