@@ -100,7 +100,7 @@
 | 1 |  [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) | A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli) | morpheusthewhite | 97 |
 | 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17077 |
 | 3 |  [madclem.github.io](https://github.com/madclem/madclem.github.io) |  | madclem | 18 |
-| 4 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 62469 |
+| 4 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 62470 |
 | 5 |  [dotfiles](https://github.com/dnnsmnstrr/dotfiles) | My dotfiles and BetterTouchTool presets | dnnsmnstrr | 2 |
 | 6 |  [hangouts-against-humanity](https://github.com/samurailink3/hangouts-against-humanity) | A game for horrible people, on Google+, in a hangout. | samurailink3 | 110 |
 | 7 |  [screenly-ose](https://github.com/Screenly/screenly-ose) | The most popular digital signage project on Github! | Screenly | 901 |
@@ -291,7 +291,7 @@
 | 12 |  [MacForge](https://github.com/w0lfschild/MacForge) | :computer: 📦 Application, plugin and theme discovery and manager for macOS | w0lfschild | 146 |
 | 13 |  [arkit-by-example](https://github.com/markdaws/arkit-by-example) | Apple ARKit example app | markdaws | 431 |
 | 14 |  [GPUImage](https://github.com/BradLarson/GPUImage) | An open source iOS framework for GPU-based image and video processing | BradLarson | 18874 |
-| 15 |  [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) | Used to integrate the Facebook Platform with your iOS & tvOS apps. | facebook | 6130 |
+| 15 |  [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) | Used to integrate the Facebook Platform with your iOS & tvOS apps. | facebook | 6131 |
 | 16 |  [RESideMenu](https://github.com/romaonthego/RESideMenu) | iOS 7/8 style side menu with parallax effect. | romaonthego | 7246 |
 | 17 |  [iCarousel](https://github.com/nicklockwood/iCarousel) | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | nicklockwood | 11442 |
 | 18 |  [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | A clean and lightweight progress HUD for your iOS and tvOS app. | SVProgressHUD | 11861 |
@@ -300,7 +300,7 @@
 | 21 |  [CardDecks](https://github.com/aharren/CardDecks) | Configurable card decks in your pocket. | aharren | 34 |
 | 22 |  [Screentendo](https://github.com/AaronRandall/Screentendo) | Turn your screen into a playable level of Mario | AaronRandall | 986 |
 | 23 |  [popping](https://github.com/schneiderandre/popping) | A collection of animation examples for iOS apps. | schneiderandre | 5561 |
-| 24 |  [Shimmer](https://github.com/facebook/Shimmer) | An easy way to add a simple, shimmering effect to any view in an iOS app. | facebook | 9075 |
+| 24 |  [Shimmer](https://github.com/facebook/Shimmer) | An easy way to add a simple, shimmering effect to any view in an iOS app. | facebook | 9074 |
 | 25 |  [Helix](https://github.com/alexanderschuelke/Helix) |  | alexanderschuelke | 1 |
 
 ## Objective-C++
@@ -362,7 +362,7 @@
 | 49 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117409 |
 | 50 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35533 |
 | 51 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
-| 52 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22080 |
+| 52 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22081 |
 | 53 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 31056 |
 | 54 |  [awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. | ziadoz | 22353 |
 
@@ -476,7 +476,7 @@
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [AltStore](https://github.com/rileytestut/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | rileytestut | 965 |
+| 1 |  [AltStore](https://github.com/rileytestut/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | rileytestut | 966 |
 | 2 |  [refined-github-safari](https://github.com/lautis/refined-github-safari) | Safari version of the Refined Github extension | lautis | 34 |
 | 3 |  [ChordDetector](https://github.com/cemolcay/ChordDetector) | A tiny menu bar app that listens iTunes and Spotify to detect chords of songs! | cemolcay | 29 |
 | 4 |  [Pine](https://github.com/lukakerr/Pine) | A modern, native macOS markdown editor | lukakerr | 2000 |
@@ -488,7 +488,7 @@
 | 10 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 20811 |
 | 11 |  [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) | Gathering all info published, both by Apple and by others, about new framework SwiftUI. | Juanpe | 3474 |
 | 12 |  [mas](https://github.com/mas-cli/mas) | :package: Mac App Store command line interface | mas-cli | 6459 |
-| 13 |  [lottie-ios](https://github.com/airbnb/lottie-ios) | An iOS library to natively render After Effects vector animations | airbnb | 18269 |
+| 13 |  [lottie-ios](https://github.com/airbnb/lottie-ios) | An iOS library to natively render After Effects vector animations | airbnb | 18270 |
 | 14 |  [touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) | Use the Touch Bar on any Mac | sindresorhus | 1270 |
 | 15 |  [LyricsX](https://github.com/ddddxxx/LyricsX) | 🎶 Lyrics for iTunes, Spotify, Vox and Audirvana Plus. | ddddxxx | 1592 |
 | 16 |  [realtimereddit-iOSClient](https://github.com/dyountmusic/realtimereddit-iOSClient) | A real time reddit API client for iOS | dyountmusic | 4 |
