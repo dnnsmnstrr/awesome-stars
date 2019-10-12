@@ -161,7 +161,7 @@
 | 5 |  [react-native-navigation](https://github.com/wix/react-native-navigation) | A complete native navigation solution for React Native | wix | 10834 |
 | 6 |  [react-native-webview](https://github.com/react-native-community/react-native-webview) | React Native Cross-Platform WebView | react-native-community | 1826 |
 | 7 |  [interviews](https://github.com/kdn251/interviews) | Everything you need to know to get the job. | kdn251 | 39271 |
-| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17397 |
+| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17398 |
 | 9 |  [A-Pathfinding-Visualization](https://github.com/DevonCrawford/A-Pathfinding-Visualization) | First attempt at an efficient pathfinding algorithm in Java. I made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface. | DevonCrawford | 200 |
 | 10 |  [processing](https://github.com/processing/processing) | Source code for the Processing Core and Development Environment (PDE) | processing | 5078 |
 | 11 |  [PretendYoureXyzzy](https://github.com/ajanata/PretendYoureXyzzy) | A web clone of the card game Cards Against Humanity. | ajanata | 749 |
@@ -194,7 +194,7 @@
 | 23 |  [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner) | A QR code scanner component for React Native. | moaazsidat | 1141 |
 | 24 |  [moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates in javascript. | moment | 42512 |
 | 25 |  [spicetify-cli](https://github.com/khanhas/spicetify-cli) | Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux. | khanhas | 1664 |
-| 26 |  [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler) | Declarative API exposing platform native touch and gesture system to React Native. | kmagiera | 2698 |
+| 26 |  [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler) | Declarative API exposing platform native touch and gesture system to React Native. | kmagiera | 2699 |
 | 27 |  [react-native-super-grid](https://github.com/saleel/react-native-super-grid) | Responsive Grid View for React Native | saleel | 703 |
 | 28 |  [react-native-home-indicator](https://github.com/flowkey/react-native-home-indicator) | A &lt;PrefersHomeIndicatorAutoHidden /&gt; component for react-native | flowkey | 23 |
 | 29 |  [react-native-rb-video-player](https://github.com/rbcorrea/react-native-rb-video-player) | An updated, customisable React Native video player for Android and IOS based on AF-video-player from abbasfreestyle. | rbcorrea | 6 |
@@ -338,7 +338,7 @@
 | 22 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
 | 23 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39788 |
 | 24 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91180 |
-| 25 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49062 |
+| 25 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49063 |
 | 26 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 27 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4339 |
 | 28 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8233 |
