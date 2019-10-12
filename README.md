@@ -81,7 +81,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77522 |
+| 1 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77523 |
 | 2 |  [Control-Surface](https://github.com/tttapa/Control-Surface) | Arduino library for MIDI control and input. | tttapa | 41 |
 | 3 |  [MIDI_controller](https://github.com/tttapa/MIDI_controller) | This is a library for creating a MIDI controller using an Arduino or Teensy board. | tttapa | 193 |
 | 4 |  [Encoder](https://github.com/PaulStoffregen/Encoder) | Quadrature Encoder Library for Arduino | PaulStoffregen | 215 |
@@ -229,7 +229,7 @@
 | 57 |  [react-native-localize](https://github.com/react-native-community/react-native-localize) | 🌍 A toolbox for your React Native app localization (formerly react-native-languages) | react-native-community | 791 |
 | 58 |  [spotify-node-applescript](https://github.com/andrehaveman/spotify-node-applescript) | Control Spotify on Mac OSX with NodeJS and AppleScript | andrehaveman | 269 |
 | 59 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39130 |
-| 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49632 |
+| 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49633 |
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37034 |
 | 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50122 |
@@ -349,7 +349,7 @@
 | 32 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8237 |
 | 33 |  [2019](https://github.com/wwdc/2019) | Student submissions for the WWDC 2019 Scholarship | wwdc | 205 |
 | 34 |  [SketchToAppStore](https://github.com/bmull/SketchToAppStore) | A sketch framework to make creating screenshots for the App Store incredibly simple | bmull | 2209 |
-| 35 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 129816 |
+| 35 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 129817 |
 | 36 |  [2018](https://github.com/wwdc/2018) | Student submissions for the WWDC 2018 Scholarship | wwdc | 247 |
 | 37 |  [icons](https://github.com/jtholloran/icons) | Sketch template for generating all iOS 12 App icon sizes | jtholloran | 371 |
 | 38 |  [awesome-sketch](https://github.com/diessica/awesome-sketch) | :books: delightful stuff for SketchApp students. | diessica | 711 |
@@ -434,7 +434,7 @@
 | 11 |  [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | Homebrew | 16040 |
 | 12 |  [ios-project-template](https://github.com/messeb/ios-project-template) | iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger | messeb | 301 |
 | 13 |  [fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iOS and Android apps | fastlane | 27074 |
-| 14 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 19266 |
+| 14 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 19267 |
 | 15 |  [bbcards](https://github.com/bbcards/bbcards) | Bigger, Blacker Cards - A custom card generator for Cards Against Humanity | bbcards | 60 |
 | 16 |  [against-humanity](https://github.com/nodanaonlyzuul/against-humanity) | Plain text files of the question and answer cards for Cards Against Humanity. | nodanaonlyzuul | 81 |
 | 17 |  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness | bayandin | 25042 |
@@ -585,7 +585,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [vscode-applescript](https://github.com/idleberg/vscode-applescript) | Language syntax and snippets for AppleScript | idleberg | 24 |
-| 2 |  [now](https://github.com/zeit/now) | The easiest way to deploy websites | zeit | 3788 |
+| 2 |  [now](https://github.com/zeit/now) | The easiest way to deploy websites | zeit | 3789 |
 | 3 |  [refined-github](https://github.com/sindresorhus/refined-github) | Browser extension that simplifies the GitHub interface and adds useful features | sindresorhus | 9867 |
 | 4 |  [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) | The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code. | alexa | 2726 |
 | 5 |  [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 | streamich | 7916 |
