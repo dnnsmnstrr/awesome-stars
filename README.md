@@ -292,7 +292,7 @@
 | 9 |  [BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins) | Development of BetterTouchTool Plugins | folivoraAI | 27 |
 | 10 |  [ios-sdk](https://github.com/spotify/ios-sdk) | Spotify SDK for iOS | spotify | 170 |
 | 11 |  [smcFanControl](https://github.com/hholtmann/smcFanControl) | Control the fans of every Intel Mac to make it run cooler | hholtmann | 1599 |
-| 12 |  [MacForge](https://github.com/w0lfschild/MacForge) | :computer: 📦 Application, plugin and theme discovery and manager for macOS | w0lfschild | 146 |
+| 12 |  [MacForge](https://github.com/w0lfschild/MacForge) | :computer: 📦 Application, plugin and theme discovery and manager for macOS | w0lfschild | 147 |
 | 13 |  [arkit-by-example](https://github.com/markdaws/arkit-by-example) | Apple ARKit example app | markdaws | 431 |
 | 14 |  [GPUImage](https://github.com/BradLarson/GPUImage) | An open source iOS framework for GPU-based image and video processing | BradLarson | 18874 |
 | 15 |  [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) | Used to integrate the Facebook Platform with your iOS & tvOS apps. | facebook | 6131 |
