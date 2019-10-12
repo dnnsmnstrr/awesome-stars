@@ -204,7 +204,7 @@
 | 33 |  [octotree](https://github.com/ovity/octotree) | Core engine of Octotree | ovity | 18452 |
 | 34 |  [hideIssuesByLable](https://github.com/DaniilBabanin/hideIssuesByLable) | UserScript to take over the world! and hide gitlab issues by tags | DaniilBabanin | 6 |
 | 35 |  [standard](https://github.com/standard/standard) | 🌟 JavaScript Style Guide, with linter & automatic code fixer | standard | 22513 |
-| 36 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 54846 |
+| 36 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 54847 |
 | 37 |  [draggable](https://github.com/Shopify/draggable) | The JavaScript Drag & Drop library your grandparents warned you about. | Shopify | 13540 |
 | 38 |  [textures](https://github.com/riccardoscalco/textures) | Textures.js is a JavaScript library for creating SVG patterns | riccardoscalco | 4582 |
 | 39 |  [uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) | An anti-adblock defuser for Nano Adblocker and uBlock Origin | jspenguin2017 | 672 |
@@ -216,7 +216,7 @@
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
 | 46 |  [nuclear](https://github.com/nukeop/nuclear) | Desktop music player for streaming from free sources | nukeop | 4966 |
 | 47 |  [github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) | Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support | adriantanasa | 51 |
-| 48 |  [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) | Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling. | oblador | 12001 |
+| 48 |  [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) | Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling. | oblador | 12002 |
 | 49 |  [nachos-ui](https://github.com/nachos-ui/nachos-ui) | Nachos UI is a React Native component library. | nachos-ui | 1906 |
 | 50 |  [ui](https://github.com/shoutem/ui) | Customizable set of components for React Native applications | shoutem | 4372 |
 | 51 |  [react-native-elements](https://github.com/react-native-elements/react-native-elements) | Cross Platform React Native UI Toolkit | react-native-elements | 17268 |
@@ -400,7 +400,7 @@
 | 20 |  [Sunfounder_SensorKit_Python_code_for_RaspberryPi](https://github.com/sunfounder/Sunfounder_SensorKit_Python_code_for_RaspberryPi) | Sunfounder Sensor Kit Python code for Raspberry Pi | sunfounder | 31 |
 | 21 |  [SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) | SunFounder Sensor Kit V2.0 for Raspberry Pi 2 | sunfounder | 64 |
 | 22 |  [mazesolving](https://github.com/mikepound/mazesolving) | A variety of algorithms to solve mazes from an input image | mikepound | 1086 |
-| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74013 |
+| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74014 |
 | 24 |  [documentation](https://github.com/raspberrypi/documentation) | Official documentation for the Raspberry Pi | raspberrypi | 3012 |
 
 ## Rich Text Format
