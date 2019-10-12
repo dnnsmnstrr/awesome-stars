@@ -6,10 +6,10 @@
 ![Updated](https://img.shields.io/badge/Updated-12--9--2019-blue.svg)
 
 ## 🏠 Contents
-- [AppleScript (6)](#applescript)
+- [AppleScript (7)](#applescript)
 - [C (15)](#c)
 - [C# (6)](#c-1)
-- [C++ (17)](#c-2)
+- [C++ (16)](#c-2)
 - [CSS (7)](#css)
 - [CoffeeScript (2)](#coffeescript)
 - [Dart (1)](#dart)
@@ -40,12 +40,13 @@
 ## AppleScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-applescripts](https://github.com/briangonzalez/awesome-applescripts) | A collection of awesome, useful, no-so-obvious applescripts. | briangonzalez | 19 |
-| 2 |  [AppleScriptive](https://github.com/ChristoferK/AppleScriptive) | Functional AppleScripts operating out of Keyboard Maestro, Alfred and Automator to optimise productivity. | ChristoferK | 19 |
-| 3 |  [prelude-applescript](https://github.com/RobTrew/prelude-applescript) | Generic functions for macOS scripting with Applescript – function names as in Hoogle | RobTrew | 15 |
-| 4 |  [applescript](https://github.com/unforswearing/applescript) | Applescript applets, snippets, resources, and links | unforswearing | 202 |
-| 5 |  [applescripts](https://github.com/oschrenk/applescripts) |  | oschrenk | 5 |
-| 6 |  [btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) | BetterTouchTool Touch Bar Presets | vas3k | 1675 |
+| 1 |  [Applescript](https://github.com/geekcomputers/Applescript) | All my Applescript code I have used/developed | geekcomputers | 34 |
+| 2 |  [awesome-applescripts](https://github.com/briangonzalez/awesome-applescripts) | A collection of awesome, useful, no-so-obvious applescripts. | briangonzalez | 19 |
+| 3 |  [AppleScriptive](https://github.com/ChristoferK/AppleScriptive) | Functional AppleScripts operating out of Keyboard Maestro, Alfred and Automator to optimise productivity. | ChristoferK | 19 |
+| 4 |  [prelude-applescript](https://github.com/RobTrew/prelude-applescript) | Generic functions for macOS scripting with Applescript – function names as in Hoogle | RobTrew | 15 |
+| 5 |  [applescript](https://github.com/unforswearing/applescript) | Applescript applets, snippets, resources, and links | unforswearing | 202 |
+| 6 |  [applescripts](https://github.com/oschrenk/applescripts) |  | oschrenk | 5 |
+| 7 |  [btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) | BetterTouchTool Touch Bar Presets | vas3k | 1675 |
 
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -93,9 +94,8 @@
 | 12 |  [BadUSB](https://github.com/grcasanova/BadUSB) | Personal implementation of the BadUSB exploit with an Atmel 8-bit AVR ATTiny85 acting as a HID keyboard | grcasanova | 42 |
 | 13 |  [swift](https://github.com/apple/swift) | The Swift Programming Language | apple | 49336 |
 | 14 |  [AudioKit](https://github.com/AudioKit/AudioKit) | Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS | AudioKit | 6954 |
-| 15 |  [AudioKit](https://github.com/AudioKit/AudioKit) | Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS | AudioKit | 6954 |
-| 16 |  [DigisparkArduinoIntegration](https://github.com/digistump/DigisparkArduinoIntegration) | DEPRECATED - REPLACED BY: https://github.com/digistump/DigistumpArduino | digistump | 155 |
-| 17 |  [hyperion](https://github.com/hyperion-project/hyperion) | Hyperion is an open source ambient light software.  Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/ | hyperion-project | 1055 |
+| 15 |  [DigisparkArduinoIntegration](https://github.com/digistump/DigisparkArduinoIntegration) | DEPRECATED - REPLACED BY: https://github.com/digistump/DigistumpArduino | digistump | 155 |
+| 16 |  [hyperion](https://github.com/hyperion-project/hyperion) | Hyperion is an open source ambient light software.  Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/ | hyperion-project | 1055 |
 
 ## CSS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -474,7 +474,7 @@
 | 34 |  [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) | Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores | RetroPie | 7917 |
 | 35 |  [filehub-config](https://github.com/digidem/filehub-config) | Hacking the RAVPower Filehub to automate SD card transfers and harddrive backups | digidem | 93 |
 | 36 |  [pimusicbox](https://github.com/pimusicbox/pimusicbox) | An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming | pimusicbox | 1625 |
-| 37 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 18330 |
+| 37 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 18331 |
 
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
