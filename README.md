@@ -211,7 +211,7 @@
 | 39 |  [uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) | An anti-adblock defuser for Nano Adblocker and uBlock Origin | jspenguin2017 | 675 |
 | 40 |  [uBlock-Safari](https://github.com/el1t/uBlock-Safari) | uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean. | el1t | 2732 |
 | 41 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 11095 |
-| 42 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 18210 |
+| 42 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 18211 |
 | 43 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33901 |
 | 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137615 |
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
@@ -291,7 +291,7 @@
 | 8 |  [react-native-safari-view](https://github.com/naoufal/react-native-safari-view) | A React Native wrapper for Safari View Controller. | naoufal | 438 |
 | 9 |  [BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins) | Development of BetterTouchTool Plugins | folivoraAI | 27 |
 | 10 |  [ios-sdk](https://github.com/spotify/ios-sdk) | Spotify SDK for iOS | spotify | 170 |
-| 11 |  [smcFanControl](https://github.com/hholtmann/smcFanControl) | Control the fans of every Intel Mac to make it run cooler | hholtmann | 1599 |
+| 11 |  [smcFanControl](https://github.com/hholtmann/smcFanControl) | Control the fans of every Intel Mac to make it run cooler | hholtmann | 1600 |
 | 12 |  [MacForge](https://github.com/w0lfschild/MacForge) | :computer: 📦 Application, plugin and theme discovery and manager for macOS | w0lfschild | 147 |
 | 13 |  [arkit-by-example](https://github.com/markdaws/arkit-by-example) | Apple ARKit example app | markdaws | 431 |
 | 14 |  [GPUImage](https://github.com/BradLarson/GPUImage) | An open source iOS framework for GPU-based image and video processing | BradLarson | 18874 |
