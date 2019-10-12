@@ -57,7 +57,7 @@
 | 3 |  [sturmflut](https://github.com/TobleMiner/sturmflut) | A FAST (80+ Gbit/s) pixelflut client with full IPv6 and animation support | TobleMiner | 23 |
 | 4 |  [osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) | Outputs current CPU temperature for OSX | lavoiesl | 598 |
 | 5 |  [USBMIDI](https://github.com/BlokasLabs/USBMIDI) | USB MIDI library for Arduino. | BlokasLabs | 45 |
-| 6 |  [HID](https://github.com/NicoHood/HID) | Bring enhanced HID functions to your Arduino! | NicoHood | 1031 |
+| 6 |  [HID](https://github.com/NicoHood/HID) | Bring enhanced HID functions to your Arduino! | NicoHood | 1032 |
 | 7 |  [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) | Toolkit of algorithms to automate the video editing process | DevonCrawford | 698 |
 | 8 |  [os-tutorial](https://github.com/cfenollosa/os-tutorial) | How to create an OS from scratch | cfenollosa | 16379 |
 | 9 |  [DigisparkKeyboard](https://github.com/ernesto-xload/DigisparkKeyboard) | DigisparkKeyboard library with multiple layout support | ernesto-xload | 22 |
@@ -180,7 +180,7 @@
 | 8 |  [react-native-animatable](https://github.com/oblador/react-native-animatable) | Standard set of easy to use animations and declarative transitions for React Native | oblador | 7168 |
 | 9 |  [Detox](https://github.com/wix/Detox) | Gray box end-to-end testing and automation framework for mobile apps | wix | 5397 |
 | 10 |  [cucumber-js](https://github.com/cucumber/cucumber-js) | Cucumber for JavaScript | cucumber | 3691 |
-| 11 |  [hyper](https://github.com/zeit/hyper) | A terminal built on web technologies | zeit | 31183 |
+| 11 |  [hyper](https://github.com/zeit/hyper) | A terminal built on web technologies | zeit | 31184 |
 | 12 |  [MIDI.js](https://github.com/mudcube/MIDI.js) | :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing. | mudcube | 2994 |
 | 13 |  [kaleidosync](https://github.com/zachwinter/kaleidosync) | An HTML5 Spotify visualizer, built with spotify-viz and Vue. | zachwinter | 118 |
 | 14 |  [spotify-viz](https://github.com/zachwinter/spotify-viz) | Create realtime audio-reactive visuals, powered by Spotify. | zachwinter | 38 |
@@ -212,7 +212,7 @@
 | 40 |  [uBlock-Safari](https://github.com/el1t/uBlock-Safari) | uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean. | el1t | 2732 |
 | 41 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 11095 |
 | 42 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 18207 |
-| 43 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33901 |
+| 43 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33902 |
 | 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137614 |
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
 | 46 |  [nuclear](https://github.com/nukeop/nuclear) | Desktop music player for streaming from free sources | nukeop | 4966 |
