@@ -81,7 +81,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77523 |
+| 1 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77524 |
 | 2 |  [Control-Surface](https://github.com/tttapa/Control-Surface) | Arduino library for MIDI control and input. | tttapa | 41 |
 | 3 |  [MIDI_controller](https://github.com/tttapa/MIDI_controller) | This is a library for creating a MIDI controller using an Arduino or Teensy board. | tttapa | 193 |
 | 4 |  [Encoder](https://github.com/PaulStoffregen/Encoder) | Quadrature Encoder Library for Arduino | PaulStoffregen | 215 |
@@ -233,7 +233,7 @@
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37034 |
 | 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50122 |
-| 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81733 |
+| 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81734 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 44 |
 | 66 |  [react-native-pure-chart](https://github.com/oksktank/react-native-pure-chart) | react-native chart library that not using svg or ART but only using react native pure components. | oksktank | 200 |
 | 67 |  [victory](https://github.com/FormidableLabs/victory) | A collection of composable React components for building interactive data visualizations | FormidableLabs | 7499 |
@@ -437,7 +437,7 @@
 | 14 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 19267 |
 | 15 |  [bbcards](https://github.com/bbcards/bbcards) | Bigger, Blacker Cards - A custom card generator for Cards Against Humanity | bbcards | 60 |
 | 16 |  [against-humanity](https://github.com/nodanaonlyzuul/against-humanity) | Plain text files of the question and answer cards for Cards Against Humanity. | nodanaonlyzuul | 81 |
-| 17 |  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness | bayandin | 25044 |
+| 17 |  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness | bayandin | 25045 |
 | 18 |  [SocialBotHunt](https://github.com/JungesAngebot/SocialBotHunt) |  | JungesAngebot | 1 |
 
 ## Shell
