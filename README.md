@@ -480,7 +480,7 @@
 | 2 |  [refined-github-safari](https://github.com/lautis/refined-github-safari) | Safari version of the Refined Github extension | lautis | 34 |
 | 3 |  [ChordDetector](https://github.com/cemolcay/ChordDetector) | A tiny menu bar app that listens iTunes and Spotify to detect chords of songs! | cemolcay | 29 |
 | 4 |  [Pine](https://github.com/lukakerr/Pine) | A modern, native macOS markdown editor | lukakerr | 2000 |
-| 5 |  [MTMR](https://github.com/Toxblh/MTMR) | 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro | Toxblh | 1473 |
+| 5 |  [MTMR](https://github.com/Toxblh/MTMR) | 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro | Toxblh | 1474 |
 | 6 |  [wallpapper](https://github.com/mczachurski/wallpapper) | Console application for creating dynamic wallpapers for macOS Mojave | mczachurski | 1796 |
 | 7 |  [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | insidegui | 7408 |
 | 8 |  [iSimulator](https://github.com/wigl/iSimulator) | iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. | wigl | 796 |
