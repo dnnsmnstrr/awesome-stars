@@ -608,7 +608,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [dotfiles](https://github.com/nikitavoloboev/dotfiles) | Zsh, Karabiner, VS Code, Sublime, Neovim, Nix | nikitavoloboev | 447 |
-| 2 |  [dotfiles](https://github.com/paulirish/dotfiles) | paul's shell, git, etc config files. also homebrew, migration setup. good stuff. | paulirish | 3533 |
+| 2 |  [dotfiles](https://github.com/paulirish/dotfiles) | paul's shell, git, etc config files. also homebrew, migration setup. good stuff. | paulirish | 3534 |
 
 ## VimL
 |  | Name 	|  Description 	| Author  	|  Stars 	|
