@@ -473,7 +473,7 @@
 | 28 |  [raspotify](https://github.com/dtcooper/raspotify) | Spotify Connect client for the Raspberry Pi that Just Works™ | dtcooper | 1882 |
 | 29 |  [Web-Font-Load](https://github.com/qrpike/Web-Font-Load) | Install all Google Web Fonts onto your local machine | qrpike | 1451 |
 | 30 |  [hax0rpi](https://github.com/vay3t/hax0rpi) | A Raspberry Pi Hacker Tools suite | vay3t | 56 |
-| 31 |  [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources | thibmaek | 5944 |
+| 31 |  [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources | thibmaek | 5945 |
 | 32 |  [awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi) | curated list of projects with raspberry pi | blackout314 | 228 |
 | 33 |  [docker-arm](https://github.com/alexellis/docker-arm) | Build Docker and Swarm on an ARM SoC like the Raspberry Pi | alexellis | 807 |
 | 34 |  [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) | Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores | RetroPie | 7917 |
