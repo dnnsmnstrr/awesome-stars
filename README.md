@@ -342,7 +342,7 @@
 | 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65567 |
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39790 |
-| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91190 |
+| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91191 |
 | 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49139 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4342 |
@@ -405,7 +405,7 @@
 | 20 |  [Sunfounder_SensorKit_Python_code_for_RaspberryPi](https://github.com/sunfounder/Sunfounder_SensorKit_Python_code_for_RaspberryPi) | Sunfounder Sensor Kit Python code for Raspberry Pi | sunfounder | 31 |
 | 21 |  [SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) | SunFounder Sensor Kit V2.0 for Raspberry Pi 2 | sunfounder | 64 |
 | 22 |  [mazesolving](https://github.com/mikepound/mazesolving) | A variety of algorithms to solve mazes from an input image | mikepound | 1087 |
-| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74025 |
+| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74026 |
 | 24 |  [documentation](https://github.com/raspberrypi/documentation) | Official documentation for the Raspberry Pi | raspberrypi | 3012 |
 
 ## Rich Text Format
