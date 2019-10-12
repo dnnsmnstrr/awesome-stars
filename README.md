@@ -549,7 +549,7 @@
 | 63 |  [fluid-slider](https://github.com/Ramotion/fluid-slider) | :octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries | Ramotion | 1481 |
 | 64 |  [brickkit-ios](https://github.com/wayfair/brickkit-ios) | DEPRECATED - BrickKit For IOS | wayfair | 617 |
 | 65 |  [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) | Localize your views directly in Interface Builder with IBLocalizable | PiXeL16 | 460 |
-| 66 |  [Komponents](https://github.com/freshOS/Komponents) | 📦 React-inspired UIKit Components | freshOS | 196 |
+| 66 |  [Komponents](https://github.com/freshOS/Komponents) | 📦 React-inspired UIKit Components | freshOS | 197 |
 | 67 |  [AERecord](https://github.com/tadija/AERecord) | Super awesome Swift minion for Core Data (iOS, macOS, tvOS) | tadija | 307 |
 | 68 |  [panelkit](https://github.com/louisdh/panelkit) | A UI framework that enables panels on iOS. | louisdh | 3858 |
 | 69 |  [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) | Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. | IBAnimatable | 8205 |
