@@ -356,7 +356,7 @@
 | 39 |  [2017](https://github.com/wwdc/2017) | Student Submissions for the WWDC 2017 Scholarship | wwdc | 242 |
 | 40 |  [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) | A curated list of awesome iOS UI/UX libraries | cjwirth | 10739 |
 | 41 |  [awesome-fonts](https://github.com/brabadu/awesome-fonts) | Curated list of fonts and everything | brabadu | 568 |
-| 42 |  [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. | papers-we-love | 36452 |
+| 42 |  [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. | papers-we-love | 36453 |
 | 43 |  [rpd-wallpaper](https://github.com/raspberrypi-ui/rpd-wallpaper) | Custom desktop wallpapers | raspberrypi-ui | 9 |
 | 44 |  [CAH](https://github.com/Juditk/CAH) | A repo for Cards Against Humanity cards related to programming / development / Apple / iOS. | Juditk | 38 |
 | 45 |  [LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) | Linux-themed expansion pack for Cards Against Humanity | BryanLunduke | 63 |
