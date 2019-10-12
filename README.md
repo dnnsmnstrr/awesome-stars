@@ -79,7 +79,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77515 |
+| 1 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77516 |
 | 2 |  [Control-Surface](https://github.com/tttapa/Control-Surface) | Arduino library for MIDI control and input. | tttapa | 41 |
 | 3 |  [MIDI_controller](https://github.com/tttapa/MIDI_controller) | This is a library for creating a MIDI controller using an Arduino or Teensy board. | tttapa | 193 |
 | 4 |  [Encoder](https://github.com/PaulStoffregen/Encoder) | Quadrature Encoder Library for Arduino | PaulStoffregen | 215 |
@@ -425,7 +425,7 @@
 | 8 |  [bundler](https://github.com/bundler/bundler) | Manage your Ruby application's gem dependencies | bundler | 4698 |
 | 9 |  [jekyll](https://github.com/jekyll/jekyll) | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | jekyll | 38868 |
 | 10 |  [dotfiles](https://github.com/skwp/dotfiles) | YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen | skwp | 6364 |
-| 11 |  [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | Homebrew | 16037 |
+| 11 |  [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | Homebrew | 16038 |
 | 12 |  [ios-project-template](https://github.com/messeb/ios-project-template) | iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger | messeb | 301 |
 | 13 |  [fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iOS and Android apps | fastlane | 27071 |
 | 14 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 19264 |
