@@ -52,7 +52,7 @@
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 29661 |
+| 1 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 29662 |
 | 2 |  [pcbtc](https://github.com/NiklasFauth/pcbtc) | PCB based Dual Resonance Solid State Tesla Coil Design | NiklasFauth | 127 |
 | 3 |  [sturmflut](https://github.com/TobleMiner/sturmflut) | A FAST (80+ Gbit/s) pixelflut client with full IPv6 and animation support | TobleMiner | 23 |
 | 4 |  [osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) | Outputs current CPU temperature for OSX | lavoiesl | 598 |
@@ -343,7 +343,7 @@
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39789 |
 | 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91189 |
-| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49132 |
+| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49133 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4341 |
 | 32 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8238 |
