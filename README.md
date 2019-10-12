@@ -550,7 +550,7 @@
 | 64 |  [brickkit-ios](https://github.com/wayfair/brickkit-ios) | DEPRECATED - BrickKit For IOS | wayfair | 617 |
 | 65 |  [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) | Localize your views directly in Interface Builder with IBLocalizable | PiXeL16 | 460 |
 | 66 |  [Komponents](https://github.com/freshOS/Komponents) | 📦 React-inspired UIKit Components | freshOS | 196 |
-| 67 |  [AERecord](https://github.com/tadija/AERecord) | Super awesome Swift minion for Core Data (iOS, macOS, tvOS) | tadija | 306 |
+| 67 |  [AERecord](https://github.com/tadija/AERecord) | Super awesome Swift minion for Core Data (iOS, macOS, tvOS) | tadija | 307 |
 | 68 |  [panelkit](https://github.com/louisdh/panelkit) | A UI framework that enables panels on iOS. | louisdh | 3858 |
 | 69 |  [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) | Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. | IBAnimatable | 8205 |
 | 70 |  [AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton) | Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation. | suzuki-0000 | 75 |
