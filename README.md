@@ -58,7 +58,7 @@
 | 5 |  [USBMIDI](https://github.com/BlokasLabs/USBMIDI) | USB MIDI library for Arduino. | BlokasLabs | 45 |
 | 6 |  [HID](https://github.com/NicoHood/HID) | Bring enhanced HID functions to your Arduino! | NicoHood | 1031 |
 | 7 |  [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) | Toolkit of algorithms to automate the video editing process | DevonCrawford | 698 |
-| 8 |  [os-tutorial](https://github.com/cfenollosa/os-tutorial) | How to create an OS from scratch | cfenollosa | 16378 |
+| 8 |  [os-tutorial](https://github.com/cfenollosa/os-tutorial) | How to create an OS from scratch | cfenollosa | 16379 |
 | 9 |  [DigisparkKeyboard](https://github.com/ernesto-xload/DigisparkKeyboard) | DigisparkKeyboard library with multiple layout support | ernesto-xload | 22 |
 | 10 |  [DigisparkMIDI](https://github.com/heartscrytech/DigisparkMIDI) | A HID-MIDI driver for the Digispark Attiny85 Arduino | heartscrytech | 40 |
 | 11 |  [USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) |  | hak5darren | 3395 |
@@ -591,7 +591,7 @@
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4486 |
 | 11 |  [cli](https://github.com/react-native-community/cli) | React Native command line tools | react-native-community | 836 |
 | 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84273 |
-| 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8953 |
+| 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8954 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1575 |
 | 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42059 |
 | 16 |  [botpress](https://github.com/botpress/botpress) | The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants. | botpress | 7707 |
