@@ -116,7 +116,7 @@
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76903 |
+| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76904 |
 
 ## Elixir
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -355,7 +355,7 @@
 | 40 |  [CAH](https://github.com/Juditk/CAH) | A repo for Cards Against Humanity cards related to programming / development / Apple / iOS. | Juditk | 38 |
 | 41 |  [LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) | Linux-themed expansion pack for Cards Against Humanity | BryanLunduke | 63 |
 | 42 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90358 |
-| 43 |  [Specs](https://github.com/CocoaPods/Specs) | The CocoaPods Master Repo | CocoaPods | 5430 |
+| 43 |  [Specs](https://github.com/CocoaPods/Specs) | The CocoaPods Master Repo | CocoaPods | 5431 |
 | 44 |  [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) | 🍎 🖥 🎆 A curated list of screensavers for Mac OS X | agarrharr | 1670 |
 | 45 |  [awesome-design](https://github.com/gztchan/awesome-design) | 🌟Curated design resources | gztchan | 11341 |
 | 46 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 10058 |
@@ -415,7 +415,7 @@
 ## Ruby
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dev.to](https://github.com/thepracticaldev/dev.to) | Where programmers share ideas and help each other grow | thepracticaldev | 10908 |
+| 1 |  [dev.to](https://github.com/thepracticaldev/dev.to) | Where programmers share ideas and help each other grow | thepracticaldev | 10909 |
 | 2 |  [lolcat](https://github.com/busyloop/lolcat) | Rainbows and unicorns! | busyloop | 3743 |
 | 3 |  [illacceptanything](https://github.com/illacceptanything/illacceptanything) | The project where literally anything* goes. | illacceptanything | 1615 |
 | 4 |  [xcode-install](https://github.com/xcpretty/xcode-install) | 🔽 Install and update your Xcodes | xcpretty | 1782 |
@@ -451,7 +451,7 @@
 | 12 |  [awesome-macos-setup](https://github.com/Ullaakut/awesome-macos-setup) | A repository with tools to automatically make any Mac awesome in a few minutes | Ullaakut | 44 |
 | 13 |  [macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) | A centralized place for the awesome work started by @mathiasbynens on .osx | kevinSuttle | 711 |
 | 14 |  [Simple](https://github.com/simple-touch/Simple) | ☁A simple and intuitive OSX Touch Bar replacement. | simple-touch | 1 |
-| 15 |  [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | robbyrussell | 96393 |
+| 15 |  [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | robbyrussell | 96394 |
 | 16 |  [sketchtool](https://github.com/marekhrabe/sketchtool) | SketchTool binary for npm | marekhrabe | 29 |
 | 17 |  [F-dotfiles](https://github.com/Kraymer/F-dotfiles) | Full-Fledged Über-Clean Kraymer' dotfiles (powered by stow). Managing them used to be a pain. | Kraymer | 119 |
 | 18 |  [bashdot](https://github.com/bashdot/bashdot) | Minimalist dotfile management framework. | bashdot | 48 |
