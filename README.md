@@ -228,7 +228,7 @@
 | 56 |  [svg2rn](https://github.com/khorark/svg2rn) | Convert svg files to React class for use this files in you ReactNative project | khorark | 14 |
 | 57 |  [react-native-localize](https://github.com/react-native-community/react-native-localize) | 🌍 A toolbox for your React Native app localization (formerly react-native-languages) | react-native-community | 791 |
 | 58 |  [spotify-node-applescript](https://github.com/andrehaveman/spotify-node-applescript) | Control Spotify on Mac OSX with NodeJS and AppleScript | andrehaveman | 269 |
-| 59 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39133 |
+| 59 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39134 |
 | 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49634 |
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37035 |
@@ -405,7 +405,7 @@
 | 20 |  [Sunfounder_SensorKit_Python_code_for_RaspberryPi](https://github.com/sunfounder/Sunfounder_SensorKit_Python_code_for_RaspberryPi) | Sunfounder Sensor Kit Python code for Raspberry Pi | sunfounder | 31 |
 | 21 |  [SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) | SunFounder Sensor Kit V2.0 for Raspberry Pi 2 | sunfounder | 64 |
 | 22 |  [mazesolving](https://github.com/mikepound/mazesolving) | A variety of algorithms to solve mazes from an input image | mikepound | 1087 |
-| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74015 |
+| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74016 |
 | 24 |  [documentation](https://github.com/raspberrypi/documentation) | Official documentation for the Raspberry Pi | raspberrypi | 3012 |
 
 ## Rich Text Format
@@ -467,7 +467,7 @@
 | 22 |  [dotfiles](https://github.com/holman/dotfiles) | @holman does dotfiles | holman | 5567 |
 | 23 |  [dotfiles](https://github.com/denysdovhan/dotfiles) | My lovely dots ~/.💖 | denysdovhan | 169 |
 | 24 |  [dotfiles](https://github.com/webpro/dotfiles) | Dotfiles for macOS | webpro | 502 |
-| 25 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 22255 |
+| 25 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 22256 |
 | 26 |  [btt-controllers](https://github.com/andrewchidden/btt-controllers) | Small controller scripts and utilities designed to work with BetterTouchTool. | andrewchidden | 24 |
 | 27 |  [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | Papirus icon theme for Linux | PapirusDevelopmentTeam | 2899 |
 | 28 |  [raspotify](https://github.com/dtcooper/raspotify) | Spotify Connect client for the Raspberry Pi that Just Works™ | dtcooper | 1882 |
