@@ -76,7 +76,7 @@
 | 3 |  [RunAsService](https://github.com/luisperezphd/RunAsService) | RunAsService is a command line tool that allows you to setup a regular  console application to run as a service. | luisperezphd | 27 |
 | 4 |  [AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) | Control your computer with your Google Home or Amazon Alexa assistant! | AlbertMN | 163 |
 | 5 |  [AudioSwitch](https://github.com/sirWest/AudioSwitch) | Switch between default audio input or output + change volume | sirWest | 848 |
-| 6 |  [CodeHub](https://github.com/CodeHubApp/CodeHub) | CodeHub is an iOS application written using Xamarin | CodeHubApp | 21693 |
+| 6 |  [CodeHub](https://github.com/CodeHubApp/CodeHub) | CodeHub is an iOS application written using Xamarin | CodeHubApp | 21694 |
 
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -371,7 +371,7 @@
 | 54 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35537 |
 | 55 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
 | 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22089 |
-| 57 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 31062 |
+| 57 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 31063 |
 | 58 |  [awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. | ziadoz | 22358 |
 
 ## PHP
