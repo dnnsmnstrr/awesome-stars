@@ -462,7 +462,7 @@
 | 17 |  [F-dotfiles](https://github.com/Kraymer/F-dotfiles) | Full-Fledged Über-Clean Kraymer' dotfiles (powered by stow). Managing them used to be a pain. | Kraymer | 119 |
 | 18 |  [bashdot](https://github.com/bashdot/bashdot) | Minimalist dotfile management framework. | bashdot | 48 |
 | 19 |  [dotfiles](https://github.com/nicksp/dotfiles) | My OS X environment | nicksp | 308 |
-| 20 |  [bats](https://github.com/sstephenson/bats) | Bash Automated Testing System | sstephenson | 6011 |
+| 20 |  [bats](https://github.com/sstephenson/bats) | Bash Automated Testing System | sstephenson | 6012 |
 | 21 |  [mac-setup](https://github.com/weiland/mac-setup) | Publishing it after more than five years 🥳 | weiland | 2 |
 | 22 |  [dotfiles](https://github.com/holman/dotfiles) | @holman does dotfiles | holman | 5567 |
 | 23 |  [dotfiles](https://github.com/denysdovhan/dotfiles) | My lovely dots ~/.💖 | denysdovhan | 169 |
