@@ -59,7 +59,7 @@
 | 5 |  [USBMIDI](https://github.com/BlokasLabs/USBMIDI) | USB MIDI library for Arduino. | BlokasLabs | 45 |
 | 6 |  [HID](https://github.com/NicoHood/HID) | Bring enhanced HID functions to your Arduino! | NicoHood | 1031 |
 | 7 |  [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) | Toolkit of algorithms to automate the video editing process | DevonCrawford | 698 |
-| 8 |  [os-tutorial](https://github.com/cfenollosa/os-tutorial) | How to create an OS from scratch | cfenollosa | 16379 |
+| 8 |  [os-tutorial](https://github.com/cfenollosa/os-tutorial) | How to create an OS from scratch | cfenollosa | 16380 |
 | 9 |  [DigisparkKeyboard](https://github.com/ernesto-xload/DigisparkKeyboard) | DigisparkKeyboard library with multiple layout support | ernesto-xload | 22 |
 | 10 |  [DigisparkMIDI](https://github.com/heartscrytech/DigisparkMIDI) | A HID-MIDI driver for the Digispark Attiny85 Arduino | heartscrytech | 40 |
 | 11 |  [USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) |  | hak5darren | 3395 |
@@ -342,7 +342,7 @@
 | 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65562 |
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39788 |
-| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91181 |
+| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91182 |
 | 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49083 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4340 |
