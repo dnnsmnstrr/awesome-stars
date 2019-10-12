@@ -288,7 +288,7 @@
 | 5 |  [YouTube-Music](https://github.com/steve228uk/YouTube-Music) | :musical_note: A Mac app wrapper for music.youtube.com | steve228uk | 1061 |
 | 6 |  [TouchBarDemoApp](https://github.com/bikkelbroeders/TouchBarDemoApp) | Allows you to use your macOS Touch Bar from an iPad (through USB connection) or on-screen by pressing the Fn-key. | bikkelbroeders | 1628 |
 | 7 |  [react-native-quick-look](https://github.com/redbooth/react-native-quick-look) | React Native Component for iOS QuickLook Framework. | redbooth | 32 |
-| 8 |  [react-native-safari-view](https://github.com/naoufal/react-native-safari-view) | A React Native wrapper for Safari View Controller. | naoufal | 437 |
+| 8 |  [react-native-safari-view](https://github.com/naoufal/react-native-safari-view) | A React Native wrapper for Safari View Controller. | naoufal | 438 |
 | 9 |  [BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins) | Development of BetterTouchTool Plugins | folivoraAI | 27 |
 | 10 |  [ios-sdk](https://github.com/spotify/ios-sdk) | Spotify SDK for iOS | spotify | 170 |
 | 11 |  [smcFanControl](https://github.com/hholtmann/smcFanControl) | Control the fans of every Intel Mac to make it run cooler | hholtmann | 1599 |
