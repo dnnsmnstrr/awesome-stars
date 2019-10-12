@@ -360,7 +360,7 @@
 | 43 |  [rpd-wallpaper](https://github.com/raspberrypi-ui/rpd-wallpaper) | Custom desktop wallpapers | raspberrypi-ui | 9 |
 | 44 |  [CAH](https://github.com/Juditk/CAH) | A repo for Cards Against Humanity cards related to programming / development / Apple / iOS. | Juditk | 38 |
 | 45 |  [LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) | Linux-themed expansion pack for Cards Against Humanity | BryanLunduke | 63 |
-| 46 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90377 |
+| 46 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90376 |
 | 47 |  [Specs](https://github.com/CocoaPods/Specs) | The CocoaPods Master Repo | CocoaPods | 5433 |
 | 48 |  [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) | 🍎 🖥 🎆 A curated list of screensavers for Mac OS X | agarrharr | 1670 |
 | 49 |  [awesome-design](https://github.com/gztchan/awesome-design) | 🌟Curated design resources | gztchan | 11344 |
@@ -457,7 +457,7 @@
 | 12 |  [awesome-macos-setup](https://github.com/Ullaakut/awesome-macos-setup) | A repository with tools to automatically make any Mac awesome in a few minutes | Ullaakut | 44 |
 | 13 |  [macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) | A centralized place for the awesome work started by @mathiasbynens on .osx | kevinSuttle | 711 |
 | 14 |  [Simple](https://github.com/simple-touch/Simple) | ☁A simple and intuitive OSX Touch Bar replacement. | simple-touch | 1 |
-| 15 |  [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | robbyrussell | 96420 |
+| 15 |  [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | robbyrussell | 96421 |
 | 16 |  [sketchtool](https://github.com/marekhrabe/sketchtool) | SketchTool binary for npm | marekhrabe | 29 |
 | 17 |  [F-dotfiles](https://github.com/Kraymer/F-dotfiles) | Full-Fledged Über-Clean Kraymer' dotfiles (powered by stow). Managing them used to be a pain. | Kraymer | 119 |
 | 18 |  [bashdot](https://github.com/bashdot/bashdot) | Minimalist dotfile management framework. | bashdot | 48 |
