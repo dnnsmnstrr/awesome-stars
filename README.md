@@ -206,7 +206,7 @@
 | 34 |  [hideIssuesByLable](https://github.com/DaniilBabanin/hideIssuesByLable) | UserScript to take over the world! and hide gitlab issues by tags | DaniilBabanin | 6 |
 | 35 |  [standard](https://github.com/standard/standard) | 🌟 JavaScript Style Guide, with linter & automatic code fixer | standard | 22513 |
 | 36 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 54849 |
-| 37 |  [draggable](https://github.com/Shopify/draggable) | The JavaScript Drag & Drop library your grandparents warned you about. | Shopify | 13541 |
+| 37 |  [draggable](https://github.com/Shopify/draggable) | The JavaScript Drag & Drop library your grandparents warned you about. | Shopify | 13542 |
 | 38 |  [textures](https://github.com/riccardoscalco/textures) | Textures.js is a JavaScript library for creating SVG patterns | riccardoscalco | 4582 |
 | 39 |  [uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) | An anti-adblock defuser for Nano Adblocker and uBlock Origin | jspenguin2017 | 672 |
 | 40 |  [uBlock-Safari](https://github.com/el1t/uBlock-Safari) | uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean. | el1t | 2732 |
