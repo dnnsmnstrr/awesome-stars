@@ -317,7 +317,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) | Awesome React Hooks | rehooks | 3713 |
 | 2 |  [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) | A curated list about React Hooks | glauberfc | 776 |
-| 3 |  [Git-Commands](https://github.com/joshnh/Git-Commands) | A list of commonly used Git commands | joshnh | 1831 |
+| 3 |  [Git-Commands](https://github.com/joshnh/Git-Commands) | A list of commonly used Git commands | joshnh | 1832 |
 | 4 |  [gitalias](https://github.com/GitAlias/gitalias) | Git alias commands for faster easier version control | GitAlias | 1046 |
 | 5 |  [art-of-readme](https://github.com/noffle/art-of-readme) | :love_letter: Things I've learned about writing good READMEs. | noffle | 5309 |
 | 6 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9243 |
@@ -391,7 +391,7 @@
 | 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26494 |
 | 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56543 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
-| 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6457 |
+| 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6456 |
 | 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27294 |
 | 11 |  [Kashi](https://github.com/zer8ne/Kashi) | Touch Bar widget that displays the lyrics of the current song in Spotify, iTunes, or YouTube. | zer8ne | 11 |
 | 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33333 |
