@@ -239,7 +239,7 @@
 | 71 |  [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) | 📈 One library to rule all charts for React Native 📊 | JesperLekland | 1279 |
 | 72 |  [react-native-svg-charts-examples](https://github.com/JesperLekland/react-native-svg-charts-examples) | A collection of usage examples of react-native-svg-charts | JesperLekland | 155 |
 | 73 |  [Duckuino](https://github.com/d4n5h/Duckuino) | DuckyScript to Arduino converter with mouse emulation | d4n5h | 35 |
-| 74 |  [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | Based on a true story | NARKOZ | 36326 |
+| 74 |  [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | Based on a true story | NARKOZ | 36325 |
 | 75 |  [winXP](https://github.com/ShizukuIchi/winXP) | 🏁 Web based Windows XP desktop recreation. | ShizukuIchi | 3172 |
 | 76 |  [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools for everything 👉 | LisaDziuba | 16944 |
 | 77 |  [hydrogen](https://github.com/nteract/hydrogen) | :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor. | nteract | 3378 |
