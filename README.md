@@ -144,7 +144,7 @@
 | 5 |  [spacehuhn.github.io](https://github.com/spacehuhn/spacehuhn.github.io) | Spacehuhn Website | spacehuhn | 4 |
 | 6 |  [dnnsmnstrr.github.io](https://github.com/dnnsmnstrr/dnnsmnstrr.github.io) | My Website (WIP) | dnnsmnstrr | 1 |
 | 7 |  [CAH-Generator](https://github.com/zaffudo/CAH-Generator) | Cards Against Humanity Card Generator | zaffudo | 47 |
-| 8 |  [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects | google | 22035 |
+| 8 |  [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects | google | 22034 |
 | 9 |  [Musical-chord-progressions](https://github.com/DataStrategist/Musical-chord-progressions) | An analysis of hooktheory's db, represented as a sankey plot | DataStrategist | 87 |
 | 10 |  [HelloInternetVote](https://github.com/RebelKeithy/HelloInternetVote) |  | RebelKeithy | 8 |
 
@@ -381,7 +381,7 @@
 | 4 |  [huekey](https://github.com/bradykent/huekey) | Control Philips Hue lights with BetterTouchTool | bradykent | 4 |
 | 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10239 |
 | 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26485 |
-| 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56527 |
+| 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56528 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
 | 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6454 |
 | 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27280 |
