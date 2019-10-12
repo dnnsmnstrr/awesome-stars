@@ -47,7 +47,7 @@
 | 5 |  [prelude-applescript](https://github.com/RobTrew/prelude-applescript) | Generic functions for macOS scripting with Applescript – function names as in Hoogle | RobTrew | 15 |
 | 6 |  [applescript](https://github.com/unforswearing/applescript) | Applescript applets, snippets, resources, and links | unforswearing | 202 |
 | 7 |  [applescripts](https://github.com/oschrenk/applescripts) |  | oschrenk | 5 |
-| 8 |  [btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) | BetterTouchTool Touch Bar Presets | vas3k | 1675 |
+| 8 |  [btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) | BetterTouchTool Touch Bar Presets | vas3k | 1676 |
 
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -360,7 +360,7 @@
 | 43 |  [rpd-wallpaper](https://github.com/raspberrypi-ui/rpd-wallpaper) | Custom desktop wallpapers | raspberrypi-ui | 9 |
 | 44 |  [CAH](https://github.com/Juditk/CAH) | A repo for Cards Against Humanity cards related to programming / development / Apple / iOS. | Juditk | 38 |
 | 45 |  [LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) | Linux-themed expansion pack for Cards Against Humanity | BryanLunduke | 63 |
-| 46 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90372 |
+| 46 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90373 |
 | 47 |  [Specs](https://github.com/CocoaPods/Specs) | The CocoaPods Master Repo | CocoaPods | 5432 |
 | 48 |  [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) | 🍎 🖥 🎆 A curated list of screensavers for Mac OS X | agarrharr | 1670 |
 | 49 |  [awesome-design](https://github.com/gztchan/awesome-design) | 🌟Curated design resources | gztchan | 11343 |
