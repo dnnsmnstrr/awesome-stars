@@ -254,7 +254,7 @@
 | 82 |  [cardcast-api](https://github.com/Morgul/cardcast-api) | An unofficial library for working with the cardcastgame.com api. | Morgul | 10 |
 | 83 |  [nodejs-against-humanity](https://github.com/coridrew/nodejs-against-humanity) | Cards Against Humanity implemented using NodeJS | coridrew | 4 |
 | 84 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | gothinkster | 32543 |
-| 85 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 32569 |
+| 85 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 32570 |
 | 86 |  [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) | 🌈  A Curated List of Checklists ✔︎✔︎ | huyingjie | 2129 |
 | 87 |  [konami-code](https://github.com/tommcfarlin/konami-code) | [jQuery] Using the Konami code, easily configure and Easter Egg for your page or any element on the page. | tommcfarlin | 129 |
 | 88 |  [Blender](https://github.com/bunnieabc/Blender) | A Blend tool for Sketch App. | bunnieabc | 374 |
@@ -596,7 +596,7 @@
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4486 |
 | 11 |  [cli](https://github.com/react-native-community/cli) | React Native command line tools | react-native-community | 836 |
 | 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84280 |
-| 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8954 |
+| 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8955 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1576 |
 | 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42059 |
 | 16 |  [botpress](https://github.com/botpress/botpress) | The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants. | botpress | 7707 |
