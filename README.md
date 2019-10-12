@@ -493,7 +493,7 @@
 | 7 |  [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | insidegui | 7408 |
 | 8 |  [iSimulator](https://github.com/wigl/iSimulator) | iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. | wigl | 797 |
 | 9 |  [ARVideoKit](https://github.com/AFathi/ARVideoKit) | Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆. | AFathi | 1066 |
-| 10 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 20816 |
+| 10 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 20817 |
 | 11 |  [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) | Gathering all info published, both by Apple and by others, about new framework SwiftUI. | Juanpe | 3475 |
 | 12 |  [mas](https://github.com/mas-cli/mas) | :package: Mac App Store command line interface | mas-cli | 6459 |
 | 13 |  [lottie-ios](https://github.com/airbnb/lottie-ios) | An iOS library to natively render After Effects vector animations | airbnb | 18271 |
@@ -590,7 +590,7 @@
 | 4 |  [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) | The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code. | alexa | 2726 |
 | 5 |  [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 | streamich | 7920 |
 | 6 |  [react-navigation](https://github.com/react-navigation/react-navigation) | Routing and navigation for your React Native apps | react-navigation | 16649 |
-| 7 |  [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | akveo | 5079 |
+| 7 |  [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | akveo | 5080 |
 | 8 |  [messaging-apis](https://github.com/Yoctol/messaging-apis) | Messaging APIs for multi-platform | Yoctol | 1408 |
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1962 |
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4487 |
