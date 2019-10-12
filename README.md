@@ -365,7 +365,7 @@
 | 50 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35534 |
 | 51 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
 | 52 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22082 |
-| 53 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 31056 |
+| 53 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 31057 |
 | 54 |  [awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. | ziadoz | 22353 |
 
 ## PHP
@@ -389,7 +389,7 @@
 | 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27280 |
 | 11 |  [Kashi](https://github.com/zer8ne/Kashi) | Touch Bar widget that displays the lyrics of the current song in Spotify, iTunes, or YouTube. | zer8ne | 11 |
 | 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33332 |
-| 13 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 48612 |
+| 13 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 48613 |
 | 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 63499 |
 | 15 |  [magenta](https://github.com/tensorflow/magenta) | Magenta: Music and Art Generation with Machine Intelligence | tensorflow | 14047 |
 | 16 |  [spotifylyrics](https://github.com/fr31/spotifylyrics) | Fetches and displays lyrics to currently playing song in Spotify. | fr31 | 621 |
