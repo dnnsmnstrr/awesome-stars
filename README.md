@@ -360,7 +360,7 @@
 | 43 |  [rpd-wallpaper](https://github.com/raspberrypi-ui/rpd-wallpaper) | Custom desktop wallpapers | raspberrypi-ui | 9 |
 | 44 |  [CAH](https://github.com/Juditk/CAH) | A repo for Cards Against Humanity cards related to programming / development / Apple / iOS. | Juditk | 38 |
 | 45 |  [LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) | Linux-themed expansion pack for Cards Against Humanity | BryanLunduke | 63 |
-| 46 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90370 |
+| 46 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90371 |
 | 47 |  [Specs](https://github.com/CocoaPods/Specs) | The CocoaPods Master Repo | CocoaPods | 5432 |
 | 48 |  [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) | 🍎 🖥 🎆 A curated list of screensavers for Mac OS X | agarrharr | 1670 |
 | 49 |  [awesome-design](https://github.com/gztchan/awesome-design) | 🌟Curated design resources | gztchan | 11342 |
@@ -505,7 +505,7 @@
 | 19 |  [Chatto](https://github.com/badoo/Chatto) | A lightweight framework to build chat applications, made in Swift | badoo | 3957 |
 | 20 |  [PiPifier](https://github.com/arnoappenzeller/PiPifier) | PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode | arnoappenzeller | 581 |
 | 21 |  [colorpiano](https://github.com/LucasAssisRo/colorpiano) | iPad Playground submission for the WWDC18 Scholarship (Accepted) | LucasAssisRo | 2 |
-| 22 |  [SnapKit](https://github.com/SnapKit/SnapKit) | A Swift Autolayout DSL for iOS & OS X | SnapKit | 15638 |
+| 22 |  [SnapKit](https://github.com/SnapKit/SnapKit) | A Swift Autolayout DSL for iOS & OS X | SnapKit | 15639 |
 | 23 |  [CoffeeApp](https://github.com/runys/CoffeeApp) | App used for the Notification Center workshop in the Apple Developer Academy at Naples. | runys | 4 |
 | 24 |  [SpotifyLogin](https://github.com/spotify/SpotifyLogin) | Swift framework for authenticating with the Spotify API | spotify | 292 |
 | 25 |  [VisionFaceDetection](https://github.com/DroidsOnRoids/VisionFaceDetection) | An example of use a Vision framework for face landmarks detection in iOS 11 | DroidsOnRoids | 252 |
