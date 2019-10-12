@@ -497,7 +497,7 @@
 | 16 |  [realtimereddit-iOSClient](https://github.com/dyountmusic/realtimereddit-iOSClient) | A real time reddit API client for iOS | dyountmusic | 4 |
 | 17 |  [SGDC2018](https://github.com/slade9220/SGDC2018) |  | slade9220 | 3 |
 | 18 |  [open-source-selfie-stick](https://github.com/RF-Nelson/open-source-selfie-stick) | An open source iOS app that lets you use one device as a camera and another as a remote control for the camera | RF-Nelson | 29 |
-| 19 |  [Chatto](https://github.com/badoo/Chatto) | A lightweight framework to build chat applications, made in Swift | badoo | 3956 |
+| 19 |  [Chatto](https://github.com/badoo/Chatto) | A lightweight framework to build chat applications, made in Swift | badoo | 3957 |
 | 20 |  [PiPifier](https://github.com/arnoappenzeller/PiPifier) | PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode | arnoappenzeller | 581 |
 | 21 |  [colorpiano](https://github.com/LucasAssisRo/colorpiano) | iPad Playground submission for the WWDC18 Scholarship (Accepted) | LucasAssisRo | 2 |
 | 22 |  [SnapKit](https://github.com/SnapKit/SnapKit) | A Swift Autolayout DSL for iOS & OS X | SnapKit | 15637 |
