@@ -484,7 +484,7 @@
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [AltStore](https://github.com/rileytestut/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | rileytestut | 969 |
+| 1 |  [AltStore](https://github.com/rileytestut/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | rileytestut | 970 |
 | 2 |  [refined-github-safari](https://github.com/lautis/refined-github-safari) | Safari version of the Refined Github extension | lautis | 34 |
 | 3 |  [ChordDetector](https://github.com/cemolcay/ChordDetector) | A tiny menu bar app that listens iTunes and Spotify to detect chords of songs! | cemolcay | 29 |
 | 4 |  [Pine](https://github.com/lukakerr/Pine) | A modern, native macOS markdown editor | lukakerr | 2002 |
