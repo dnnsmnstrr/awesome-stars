@@ -213,7 +213,7 @@
 | 41 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 11095 |
 | 42 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 18211 |
 | 43 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33901 |
-| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137616 |
+| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137617 |
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
 | 46 |  [nuclear](https://github.com/nukeop/nuclear) | Desktop music player for streaming from free sources | nukeop | 4966 |
 | 47 |  [github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) | Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support | adriantanasa | 51 |
@@ -236,7 +236,7 @@
 | 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81740 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 44 |
 | 66 |  [react-native-pure-chart](https://github.com/oksktank/react-native-pure-chart) | react-native chart library that not using svg or ART but only using react native pure components. | oksktank | 200 |
-| 67 |  [victory](https://github.com/FormidableLabs/victory) | A collection of composable React components for building interactive data visualizations | FormidableLabs | 7502 |
+| 67 |  [victory](https://github.com/FormidableLabs/victory) | A collection of composable React components for building interactive data visualizations | FormidableLabs | 7501 |
 | 68 |  [victory-native](https://github.com/FormidableLabs/victory-native) | victory components for react native | FormidableLabs | 1512 |
 | 69 |  [victory-gui](https://github.com/narinluangrath/victory-gui) | A photoshop-style web app for building beautiful, modern line charts | narinluangrath | 4 |
 | 70 |  [react-native-macos](https://github.com/ptmt/react-native-macos) | React Native for macOS is an experimental fork for writing desktop apps using Cocoa | ptmt | 11245 |
