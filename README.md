@@ -79,7 +79,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77517 |
+| 1 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77518 |
 | 2 |  [Control-Surface](https://github.com/tttapa/Control-Surface) | Arduino library for MIDI control and input. | tttapa | 41 |
 | 3 |  [MIDI_controller](https://github.com/tttapa/MIDI_controller) | This is a library for creating a MIDI controller using an Arduino or Teensy board. | tttapa | 193 |
 | 4 |  [Encoder](https://github.com/PaulStoffregen/Encoder) | Quadrature Encoder Library for Arduino | PaulStoffregen | 215 |
@@ -231,7 +231,7 @@
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37034 |
 | 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50121 |
-| 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81730 |
+| 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81731 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 44 |
 | 66 |  [react-native-pure-chart](https://github.com/oksktank/react-native-pure-chart) | react-native chart library that not using svg or ART but only using react native pure components. | oksktank | 200 |
 | 67 |  [victory](https://github.com/FormidableLabs/victory) | A collection of composable React components for building interactive data visualizations | FormidableLabs | 7498 |
@@ -517,7 +517,7 @@
 | 37 |  [Cartography](https://github.com/robb/Cartography) | A declarative Auto Layout DSL for Swift :iphone::triangular_ruler: | robb | 6958 |
 | 38 |  [PeerKit](https://github.com/jpsim/PeerKit) | An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps | jpsim | 808 |
 | 39 |  [CardsAgainst](https://github.com/jpsim/CardsAgainst) | An iOS game for horrible people | jpsim | 497 |
-| 40 |  [Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) | 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验 | Lax | 3038 |
+| 40 |  [Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) | 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验 | Lax | 3037 |
 | 41 |  [Ease](https://github.com/roberthein/Ease) | It's magic. | roberthein | 1141 |
 | 42 |  [Beethoven](https://github.com/vadymmarkov/Beethoven) | :guitar: A maestro of pitch detection. | vadymmarkov | 469 |
 | 43 |  [MusicKit](https://github.com/benzguo/MusicKit) | A framework for composing and transforming music in Swift | benzguo | 544 |
@@ -589,7 +589,7 @@
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1962 |
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4486 |
 | 11 |  [cli](https://github.com/react-native-community/cli) | React Native command line tools | react-native-community | 836 |
-| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84273 |
+| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84272 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8953 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1575 |
 | 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42059 |
