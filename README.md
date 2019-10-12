@@ -168,7 +168,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [upgrade-helper](https://github.com/react-native-community/upgrade-helper) | ⚛️ A web interface to support React Native developers in upgrading their apps. | react-native-community | 780 |
+| 1 |  [upgrade-helper](https://github.com/react-native-community/upgrade-helper) | ⚛️ A web interface to support React Native developers in upgrading their apps. | react-native-community | 781 |
 | 2 |  [telegram-telegraf-bot](https://github.com/fabnicolas/telegram-telegraf-bot) | Telegram bot example using Telegraf with easy configuration steps. Node v8+. | fabnicolas | 27 |
 | 3 |  [now-desktop](https://github.com/zeit/now-desktop) | An example of building a desktop application using the Now API | zeit | 1223 |
 | 4 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 3732 |
