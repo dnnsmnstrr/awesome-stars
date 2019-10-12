@@ -101,7 +101,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) | A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli) | morpheusthewhite | 97 |
-| 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17081 |
+| 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17082 |
 | 3 |  [madclem.github.io](https://github.com/madclem/madclem.github.io) |  | madclem | 18 |
 | 4 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 62469 |
 | 5 |  [dotfiles](https://github.com/dnnsmnstrr/dotfiles) | My dotfiles and BetterTouchTool presets | dnnsmnstrr | 2 |
@@ -367,7 +367,7 @@
 | 51 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
 | 52 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22084 |
 | 53 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 31060 |
-| 54 |  [awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. | ziadoz | 22353 |
+| 54 |  [awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. | ziadoz | 22354 |
 
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -383,7 +383,7 @@
 | 3 |  [phue](https://github.com/studioimaginaire/phue) | A Python library for the Philips Hue system | studioimaginaire | 921 |
 | 4 |  [huekey](https://github.com/bradykent/huekey) | Control Philips Hue lights with BetterTouchTool | bradykent | 4 |
 | 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10242 |
-| 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26489 |
+| 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26490 |
 | 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56534 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
 | 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6454 |
