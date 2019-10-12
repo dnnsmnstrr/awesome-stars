@@ -89,7 +89,7 @@
 | 10 |  [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) | Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO | arendst | 8004 |
 | 11 |  [DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) | USB Rubber Ducky type scripts written for the DigiSpark. | CedArctic | 287 |
 | 12 |  [BadUSB](https://github.com/grcasanova/BadUSB) | Personal implementation of the BadUSB exploit with an Atmel 8-bit AVR ATTiny85 acting as a HID keyboard | grcasanova | 42 |
-| 13 |  [swift](https://github.com/apple/swift) | The Swift Programming Language | apple | 49337 |
+| 13 |  [swift](https://github.com/apple/swift) | The Swift Programming Language | apple | 49336 |
 | 14 |  [AudioKit](https://github.com/AudioKit/AudioKit) | Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS | AudioKit | 6954 |
 | 15 |  [DigisparkArduinoIntegration](https://github.com/digistump/DigisparkArduinoIntegration) | DEPRECATED - REPLACED BY: https://github.com/digistump/DigistumpArduino | digistump | 155 |
 | 16 |  [hyperion](https://github.com/hyperion-project/hyperion) | Hyperion is an open source ambient light software.  Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/ | hyperion-project | 1055 |
@@ -229,7 +229,7 @@
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37034 |
 | 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50121 |
-| 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81729 |
+| 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81728 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 43 |
 | 66 |  [react-native-pure-chart](https://github.com/oksktank/react-native-pure-chart) | react-native chart library that not using svg or ART but only using react native pure components. | oksktank | 200 |
 | 67 |  [victory](https://github.com/FormidableLabs/victory) | A collection of composable React components for building interactive data visualizations | FormidableLabs | 7498 |
@@ -380,7 +380,7 @@
 | 3 |  [phue](https://github.com/studioimaginaire/phue) | A Python library for the Philips Hue system | studioimaginaire | 921 |
 | 4 |  [huekey](https://github.com/bradykent/huekey) | Control Philips Hue lights with BetterTouchTool | bradykent | 4 |
 | 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10239 |
-| 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26484 |
+| 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26485 |
 | 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56527 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
 | 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6454 |
