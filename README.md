@@ -51,7 +51,7 @@
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 29660 |
+| 1 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 29661 |
 | 2 |  [pcbtc](https://github.com/NiklasFauth/pcbtc) | PCB based Dual Resonance Solid State Tesla Coil Design | NiklasFauth | 127 |
 | 3 |  [sturmflut](https://github.com/TobleMiner/sturmflut) | A FAST (80+ Gbit/s) pixelflut client with full IPv6 and animation support | TobleMiner | 23 |
 | 4 |  [osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) | Outputs current CPU temperature for OSX | lavoiesl | 598 |
@@ -355,7 +355,7 @@
 | 39 |  [rpd-wallpaper](https://github.com/raspberrypi-ui/rpd-wallpaper) | Custom desktop wallpapers | raspberrypi-ui | 9 |
 | 40 |  [CAH](https://github.com/Juditk/CAH) | A repo for Cards Against Humanity cards related to programming / development / Apple / iOS. | Juditk | 38 |
 | 41 |  [LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) | Linux-themed expansion pack for Cards Against Humanity | BryanLunduke | 63 |
-| 42 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90359 |
+| 42 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90360 |
 | 43 |  [Specs](https://github.com/CocoaPods/Specs) | The CocoaPods Master Repo | CocoaPods | 5431 |
 | 44 |  [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) | 🍎 🖥 🎆 A curated list of screensavers for Mac OS X | agarrharr | 1670 |
 | 45 |  [awesome-design](https://github.com/gztchan/awesome-design) | 🌟Curated design resources | gztchan | 11341 |
