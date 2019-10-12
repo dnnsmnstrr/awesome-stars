@@ -453,7 +453,7 @@
 | 8 |  [git-jokes](https://github.com/EugeneKay/git-jokes) | Collection of questionably humorous git sayings | EugeneKay | 223 |
 | 9 |  [evil.sh](https://github.com/mathiasbynens/evil.sh) | :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane. | mathiasbynens | 1745 |
 | 10 |  [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) | A curated list about Audio Visualization. | willianjusten | 2969 |
-| 11 |  [dotfiles](https://github.com/thoughtbot/dotfiles) | A set of vim, zsh, git, and tmux configuration files. | thoughtbot | 5705 |
+| 11 |  [dotfiles](https://github.com/thoughtbot/dotfiles) | A set of vim, zsh, git, and tmux configuration files. | thoughtbot | 5706 |
 | 12 |  [awesome-macos-setup](https://github.com/Ullaakut/awesome-macos-setup) | A repository with tools to automatically make any Mac awesome in a few minutes | Ullaakut | 44 |
 | 13 |  [macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) | A centralized place for the awesome work started by @mathiasbynens on .osx | kevinSuttle | 711 |
 | 14 |  [Simple](https://github.com/simple-touch/Simple) | ☁A simple and intuitive OSX Touch Bar replacement. | simple-touch | 1 |
