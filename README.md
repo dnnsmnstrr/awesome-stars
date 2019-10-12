@@ -142,7 +142,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) | Visually build a full featured chat bot for Telegram, Facebook Messenger and Slack with Node-RED. Almost no coding skills required. | guidone | 501 |
-| 2 |  [web-api-auth-examples](https://github.com/spotify/web-api-auth-examples) | Basic examples to authenticate and fetch data using the Spotify Web API | spotify | 832 |
+| 2 |  [web-api-auth-examples](https://github.com/spotify/web-api-auth-examples) | Basic examples to authenticate and fetch data using the Spotify Web API | spotify | 833 |
 | 3 |  [AquaTouch](https://github.com/yuuiko/AquaTouch) | Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites) | yuuiko | 5 |
 | 4 |  [GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) | The complete Touch Bar UI replacement for BetterTouchTool | GoldenChaos | 76 |
 | 5 |  [spacehuhn.github.io](https://github.com/spacehuhn/spacehuhn.github.io) | Spacehuhn Website | spacehuhn | 4 |
