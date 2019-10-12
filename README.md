@@ -360,14 +360,14 @@
 | 43 |  [rpd-wallpaper](https://github.com/raspberrypi-ui/rpd-wallpaper) | Custom desktop wallpapers | raspberrypi-ui | 9 |
 | 44 |  [CAH](https://github.com/Juditk/CAH) | A repo for Cards Against Humanity cards related to programming / development / Apple / iOS. | Juditk | 38 |
 | 45 |  [LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) | Linux-themed expansion pack for Cards Against Humanity | BryanLunduke | 63 |
-| 46 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90365 |
+| 46 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 90366 |
 | 47 |  [Specs](https://github.com/CocoaPods/Specs) | The CocoaPods Master Repo | CocoaPods | 5431 |
 | 48 |  [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) | 🍎 🖥 🎆 A curated list of screensavers for Mac OS X | agarrharr | 1670 |
 | 49 |  [awesome-design](https://github.com/gztchan/awesome-design) | 🌟Curated design resources | gztchan | 11342 |
 | 50 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 10059 |
 | 51 |  [awesome-java](https://github.com/akullpp/awesome-java) | A curated list of awesome frameworks, libraries and software for the Java programming language. | akullpp | 22551 |
 | 52 |  [gesetze](https://github.com/bundestag/gesetze) | Bundesgesetze und -verordnungen | bundestag | 1449 |
-| 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117418 |
+| 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117419 |
 | 54 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35536 |
 | 55 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
 | 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22084 |
