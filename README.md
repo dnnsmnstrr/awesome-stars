@@ -206,7 +206,7 @@
 | 34 |  [hideIssuesByLable](https://github.com/DaniilBabanin/hideIssuesByLable) | UserScript to take over the world! and hide gitlab issues by tags | DaniilBabanin | 6 |
 | 35 |  [standard](https://github.com/standard/standard) | 🌟 JavaScript Style Guide, with linter & automatic code fixer | standard | 22513 |
 | 36 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 54848 |
-| 37 |  [draggable](https://github.com/Shopify/draggable) | The JavaScript Drag & Drop library your grandparents warned you about. | Shopify | 13540 |
+| 37 |  [draggable](https://github.com/Shopify/draggable) | The JavaScript Drag & Drop library your grandparents warned you about. | Shopify | 13541 |
 | 38 |  [textures](https://github.com/riccardoscalco/textures) | Textures.js is a JavaScript library for creating SVG patterns | riccardoscalco | 4582 |
 | 39 |  [uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) | An anti-adblock defuser for Nano Adblocker and uBlock Origin | jspenguin2017 | 672 |
 | 40 |  [uBlock-Safari](https://github.com/el1t/uBlock-Safari) | uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean. | el1t | 2732 |
@@ -387,7 +387,7 @@
 | 2 |  [mackup](https://github.com/lra/mackup) | Keep your application settings in sync (OS X/Linux) | lra | 9113 |
 | 3 |  [phue](https://github.com/studioimaginaire/phue) | A Python library for the Philips Hue system | studioimaginaire | 921 |
 | 4 |  [huekey](https://github.com/bradykent/huekey) | Control Philips Hue lights with BetterTouchTool | bradykent | 4 |
-| 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10243 |
+| 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10244 |
 | 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26492 |
 | 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56535 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
@@ -595,7 +595,7 @@
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1962 |
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4486 |
 | 11 |  [cli](https://github.com/react-native-community/cli) | React Native command line tools | react-native-community | 836 |
-| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84278 |
+| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84279 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8954 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1576 |
 | 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42059 |
