@@ -202,7 +202,7 @@
 | 30 |  [react-native-video-player](https://github.com/cornedor/react-native-video-player) | A video player for React Native with controls | cornedor | 323 |
 | 31 |  [pokemonsay](https://github.com/dfrankland/pokemonsay) | 👾 Pokemon version of cowsay with CLI and API. | dfrankland | 391 |
 | 32 |  [react-native-web](https://github.com/necolas/react-native-web) | React Native for Web | necolas | 14965 |
-| 33 |  [octotree](https://github.com/ovity/octotree) | Core engine of Octotree | ovity | 18452 |
+| 33 |  [octotree](https://github.com/ovity/octotree) | Core engine of Octotree | ovity | 18453 |
 | 34 |  [hideIssuesByLable](https://github.com/DaniilBabanin/hideIssuesByLable) | UserScript to take over the world! and hide gitlab issues by tags | DaniilBabanin | 6 |
 | 35 |  [standard](https://github.com/standard/standard) | 🌟 JavaScript Style Guide, with linter & automatic code fixer | standard | 22513 |
 | 36 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 54848 |
@@ -364,7 +364,7 @@
 | 47 |  [Specs](https://github.com/CocoaPods/Specs) | The CocoaPods Master Repo | CocoaPods | 5432 |
 | 48 |  [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) | 🍎 🖥 🎆 A curated list of screensavers for Mac OS X | agarrharr | 1670 |
 | 49 |  [awesome-design](https://github.com/gztchan/awesome-design) | 🌟Curated design resources | gztchan | 11342 |
-| 50 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 10059 |
+| 50 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 10060 |
 | 51 |  [awesome-java](https://github.com/akullpp/awesome-java) | A curated list of awesome frameworks, libraries and software for the Java programming language. | akullpp | 22551 |
 | 52 |  [gesetze](https://github.com/bundestag/gesetze) | Bundesgesetze und -verordnungen | bundestag | 1449 |
 | 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117419 |
