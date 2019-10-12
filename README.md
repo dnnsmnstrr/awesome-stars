@@ -93,7 +93,7 @@
 | 10 |  [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) | Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO | arendst | 8007 |
 | 11 |  [DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) | USB Rubber Ducky type scripts written for the DigiSpark. | CedArctic | 287 |
 | 12 |  [BadUSB](https://github.com/grcasanova/BadUSB) | Personal implementation of the BadUSB exploit with an Atmel 8-bit AVR ATTiny85 acting as a HID keyboard | grcasanova | 42 |
-| 13 |  [swift](https://github.com/apple/swift) | The Swift Programming Language | apple | 49339 |
+| 13 |  [swift](https://github.com/apple/swift) | The Swift Programming Language | apple | 49340 |
 | 14 |  [AudioKit](https://github.com/AudioKit/AudioKit) | Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS | AudioKit | 6955 |
 | 15 |  [DigisparkArduinoIntegration](https://github.com/digistump/DigisparkArduinoIntegration) | DEPRECATED - REPLACED BY: https://github.com/digistump/DigistumpArduino | digistump | 155 |
 | 16 |  [hyperion](https://github.com/hyperion-project/hyperion) | Hyperion is an open source ambient light software.  Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/ | hyperion-project | 1055 |
@@ -595,7 +595,7 @@
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1962 |
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4487 |
 | 11 |  [cli](https://github.com/react-native-community/cli) | React Native command line tools | react-native-community | 837 |
-| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84294 |
+| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84295 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8955 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1576 |
 | 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42061 |
