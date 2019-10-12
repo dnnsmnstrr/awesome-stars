@@ -315,7 +315,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [art-of-readme](https://github.com/noffle/art-of-readme) | :love_letter: Things I've learned about writing good READMEs. | noffle | 5309 |
-| 2 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9243 |
+| 2 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9244 |
 | 3 |  [macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) | :gem: A retina optimized macOS Sierra UI Kit for Sketch (including Touch Bar) | alexkaessner | 471 |
 | 4 |  [MTMR-presets](https://github.com/Toxblh/MTMR-presets) | 💈 [My TouchBar My rules] Share your preset! | Toxblh | 26 |
 | 5 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48772 |
