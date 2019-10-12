@@ -599,7 +599,7 @@
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8955 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1576 |
 | 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42061 |
-| 16 |  [botpress](https://github.com/botpress/botpress) | The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants. | botpress | 7707 |
+| 16 |  [botpress](https://github.com/botpress/botpress) | The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants. | botpress | 7708 |
 | 17 |  [PocketGear](https://github.com/satya164/PocketGear) | A clean and simple Pokédex app for Pokémon GO | satya164 | 178 |
 | 18 |  [lyricfier](https://github.com/emilioastarita/lyricfier) | a Spotify Lyrics alternative app | New updates at https://github.com/emilioastarita/lyricfier2 (a faster version in golang) | emilioastarita | 580 |
 | 19 |  [learn-anything](https://github.com/learn-anything/learn-anything) | Organize world's knowledge, explore connections and curate learning paths | learn-anything | 11561 |
