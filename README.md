@@ -252,7 +252,7 @@
 | 82 |  [cardcast-api](https://github.com/Morgul/cardcast-api) | An unofficial library for working with the cardcastgame.com api. | Morgul | 10 |
 | 83 |  [nodejs-against-humanity](https://github.com/coridrew/nodejs-against-humanity) | Cards Against Humanity implemented using NodeJS | coridrew | 4 |
 | 84 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | gothinkster | 32541 |
-| 85 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 32566 |
+| 85 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 32567 |
 | 86 |  [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) | 🌈  A Curated List of Checklists ✔︎✔︎ | huyingjie | 2129 |
 | 87 |  [konami-code](https://github.com/tommcfarlin/konami-code) | [jQuery] Using the Konami code, easily configure and Easter Egg for your page or any element on the page. | tommcfarlin | 129 |
 | 88 |  [Blender](https://github.com/bunnieabc/Blender) | A Blend tool for Sketch App. | bunnieabc | 374 |
