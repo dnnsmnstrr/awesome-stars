@@ -246,7 +246,7 @@
 | 75 |  [winXP](https://github.com/ShizukuIchi/winXP) | 🏁 Web based Windows XP desktop recreation. | ShizukuIchi | 3172 |
 | 76 |  [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools for everything 👉 | LisaDziuba | 16944 |
 | 77 |  [hydrogen](https://github.com/nteract/hydrogen) | :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor. | nteract | 3378 |
-| 78 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41185 |
+| 78 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41186 |
 | 79 |  [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 61133 |
 | 80 |  [BetterTouchTool](https://github.com/folivoraAI/BetterTouchTool) | I do not use this for issue tracking anymore. Please go to https://community.folivora.ai | folivoraAI | 646 |
 | 81 |  [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) | Use Facebook to track your friends’ sleeping habits | sqren | 1381 |
@@ -593,7 +593,7 @@
 | 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84273 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8954 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1575 |
-| 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42059 |
+| 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42060 |
 | 16 |  [botpress](https://github.com/botpress/botpress) | The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants. | botpress | 7707 |
 | 17 |  [PocketGear](https://github.com/satya164/PocketGear) | A clean and simple Pokédex app for Pokémon GO | satya164 | 178 |
 | 18 |  [lyricfier](https://github.com/emilioastarita/lyricfier) | a Spotify Lyrics alternative app | New updates at https://github.com/emilioastarita/lyricfier2 (a faster version in golang) | emilioastarita | 580 |
