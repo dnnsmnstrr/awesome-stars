@@ -52,7 +52,7 @@
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 29661 |
+| 1 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 29662 |
 | 2 |  [pcbtc](https://github.com/NiklasFauth/pcbtc) | PCB based Dual Resonance Solid State Tesla Coil Design | NiklasFauth | 127 |
 | 3 |  [sturmflut](https://github.com/TobleMiner/sturmflut) | A FAST (80+ Gbit/s) pixelflut client with full IPv6 and animation support | TobleMiner | 23 |
 | 4 |  [osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) | Outputs current CPU temperature for OSX | lavoiesl | 598 |
@@ -213,7 +213,7 @@
 | 41 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 11095 |
 | 42 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 18204 |
 | 43 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33902 |
-| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137615 |
+| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137614 |
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
 | 46 |  [nuclear](https://github.com/nukeop/nuclear) | Desktop music player for streaming from free sources | nukeop | 4966 |
 | 47 |  [github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) | Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support | adriantanasa | 51 |
@@ -462,7 +462,7 @@
 | 17 |  [F-dotfiles](https://github.com/Kraymer/F-dotfiles) | Full-Fledged Über-Clean Kraymer' dotfiles (powered by stow). Managing them used to be a pain. | Kraymer | 119 |
 | 18 |  [bashdot](https://github.com/bashdot/bashdot) | Minimalist dotfile management framework. | bashdot | 48 |
 | 19 |  [dotfiles](https://github.com/nicksp/dotfiles) | My OS X environment | nicksp | 308 |
-| 20 |  [bats](https://github.com/sstephenson/bats) | Bash Automated Testing System | sstephenson | 6011 |
+| 20 |  [bats](https://github.com/sstephenson/bats) | Bash Automated Testing System | sstephenson | 6012 |
 | 21 |  [mac-setup](https://github.com/weiland/mac-setup) | Publishing it after more than five years 🥳 | weiland | 2 |
 | 22 |  [dotfiles](https://github.com/holman/dotfiles) | @holman does dotfiles | holman | 5567 |
 | 23 |  [dotfiles](https://github.com/denysdovhan/dotfiles) | My lovely dots ~/.💖 | denysdovhan | 169 |
