@@ -514,7 +514,7 @@
 | 28 |  [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) | A List of Awesome Swift Playgrounds | uraimo | 2992 |
 | 29 |  [AwesomeGitHub](https://github.com/dnnsmnstrr/AwesomeGitHub) | A GitHub-Workshop for SGaTDA18 by @dnnsmnstrr | dnnsmnstrr | 1 |
 | 30 |  [HideAndSeek](https://github.com/alexanderschuelke/HideAndSeek) |  | alexanderschuelke | 2 |
-| 31 |  [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac | JohnCoates | 15617 |
+| 31 |  [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac | JohnCoates | 15616 |
 | 32 |  [CardsAgainst](https://github.com/exis-io/CardsAgainst) | Swift demo for Cards Against Humanity | exis-io | 4 |
 | 33 |  [cards-against-humanity](https://github.com/danvalencia/cards-against-humanity) | Cards Against Humanity iOS game written in Swift | danvalencia | 1 |
 | 34 |  [CardsAgainstTheTV](https://github.com/haarismuneer/CardsAgainstTheTV) |  | haarismuneer | 1 |
