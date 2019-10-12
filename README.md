@@ -52,7 +52,7 @@
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 29662 |
+| 1 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 29661 |
 | 2 |  [pcbtc](https://github.com/NiklasFauth/pcbtc) | PCB based Dual Resonance Solid State Tesla Coil Design | NiklasFauth | 127 |
 | 3 |  [sturmflut](https://github.com/TobleMiner/sturmflut) | A FAST (80+ Gbit/s) pixelflut client with full IPv6 and animation support | TobleMiner | 23 |
 | 4 |  [osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) | Outputs current CPU temperature for OSX | lavoiesl | 598 |
@@ -231,7 +231,7 @@
 | 59 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39139 |
 | 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49637 |
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
-| 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37035 |
+| 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37036 |
 | 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50122 |
 | 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81741 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 44 |
