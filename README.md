@@ -574,7 +574,7 @@
 | 88 |  [Hero](https://github.com/HeroTransitions/Hero) | Elegant transition library for iOS & tvOS | HeroTransitions | 17457 |
 | 89 |  [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) | The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title. | PhamBaTho | 2453 |
 | 90 |  [awesome-swift](https://github.com/matteocrippa/awesome-swift) | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! | matteocrippa | 18071 |
-| 91 |  [awesome-ios](https://github.com/vsouza/awesome-ios) | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects | vsouza | 33166 |
+| 91 |  [awesome-ios](https://github.com/vsouza/awesome-ios) | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects | vsouza | 33167 |
 
 ## Tcl
 |  | Name 	|  Description 	| Author  	|  Stars 	|
