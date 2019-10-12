@@ -185,7 +185,7 @@
 | 13 |  [kaleidosync](https://github.com/zachwinter/kaleidosync) | An HTML5 Spotify visualizer, built with spotify-viz and Vue. | zachwinter | 118 |
 | 14 |  [spotify-viz](https://github.com/zachwinter/spotify-viz) | Create realtime audio-reactive visuals, powered by Spotify. | zachwinter | 38 |
 | 15 |  [reactotron](https://github.com/infinitered/reactotron) | A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. | infinitered | 11004 |
-| 16 |  [keymaster](https://github.com/madrobby/keymaster) | A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies. | madrobby | 6304 |
+| 16 |  [keymaster](https://github.com/madrobby/keymaster) | A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies. | madrobby | 6305 |
 | 17 |  [stargazed](https://github.com/abhijithvijayan/stargazed) | Creating your own Awesome List of GitHub stars! | abhijithvijayan | 176 |
 | 18 |  [btt-quicknav](https://github.com/ChrisPenner/btt-quicknav) | HTML overlay for quickly navigating your computer | ChrisPenner | 17 |
 | 19 |  [spotify-true-random](https://github.com/TomerAberbach/spotify-true-random) | An application for unbiased truly random playlist and library shuffling with Spotify. | TomerAberbach | 21 |
