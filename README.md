@@ -225,7 +225,7 @@
 | 57 |  [react-native-localize](https://github.com/react-native-community/react-native-localize) | 🌍 A toolbox for your React Native app localization (formerly react-native-languages) | react-native-community | 789 |
 | 58 |  [spotify-node-applescript](https://github.com/andrehaveman/spotify-node-applescript) | Control Spotify on Mac OSX with NodeJS and AppleScript | andrehaveman | 269 |
 | 59 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39128 |
-| 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49624 |
+| 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49625 |
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37034 |
 | 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50121 |
@@ -480,7 +480,7 @@
 | 2 |  [refined-github-safari](https://github.com/lautis/refined-github-safari) | Safari version of the Refined Github extension | lautis | 34 |
 | 3 |  [ChordDetector](https://github.com/cemolcay/ChordDetector) | A tiny menu bar app that listens iTunes and Spotify to detect chords of songs! | cemolcay | 29 |
 | 4 |  [Pine](https://github.com/lukakerr/Pine) | A modern, native macOS markdown editor | lukakerr | 2000 |
-| 5 |  [MTMR](https://github.com/Toxblh/MTMR) | 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro | Toxblh | 1474 |
+| 5 |  [MTMR](https://github.com/Toxblh/MTMR) | 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro | Toxblh | 1475 |
 | 6 |  [wallpapper](https://github.com/mczachurski/wallpapper) | Console application for creating dynamic wallpapers for macOS Mojave | mczachurski | 1796 |
 | 7 |  [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | insidegui | 7408 |
 | 8 |  [iSimulator](https://github.com/wigl/iSimulator) | iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. | wigl | 796 |
@@ -581,7 +581,7 @@
 | 3 |  [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) | The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code. | alexa | 2726 |
 | 4 |  [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 | streamich | 7914 |
 | 5 |  [react-navigation](https://github.com/react-navigation/react-navigation) | Routing and navigation for your React Native apps | react-navigation | 16649 |
-| 6 |  [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | akveo | 5077 |
+| 6 |  [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | akveo | 5078 |
 | 7 |  [messaging-apis](https://github.com/Yoctol/messaging-apis) | Messaging APIs for multi-platform | Yoctol | 1408 |
 | 8 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1962 |
 | 9 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4485 |
