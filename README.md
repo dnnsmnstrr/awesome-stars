@@ -117,7 +117,7 @@
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76915 |
+| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76916 |
 
 ## Elixir
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -340,7 +340,7 @@
 | 24 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91180 |
 | 25 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49070 |
 | 26 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
-| 27 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4339 |
+| 27 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4340 |
 | 28 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8233 |
 | 29 |  [2019](https://github.com/wwdc/2019) | Student submissions for the WWDC 2019 Scholarship | wwdc | 205 |
 | 30 |  [SketchToAppStore](https://github.com/bmull/SketchToAppStore) | A sketch framework to make creating screenshots for the App Store incredibly simple | bmull | 2209 |
@@ -359,7 +359,7 @@
 | 43 |  [Specs](https://github.com/CocoaPods/Specs) | The CocoaPods Master Repo | CocoaPods | 5431 |
 | 44 |  [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) | 🍎 🖥 🎆 A curated list of screensavers for Mac OS X | agarrharr | 1670 |
 | 45 |  [awesome-design](https://github.com/gztchan/awesome-design) | 🌟Curated design resources | gztchan | 11342 |
-| 46 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 10058 |
+| 46 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 10059 |
 | 47 |  [awesome-java](https://github.com/akullpp/awesome-java) | A curated list of awesome frameworks, libraries and software for the Java programming language. | akullpp | 22551 |
 | 48 |  [gesetze](https://github.com/bundestag/gesetze) | Bundesgesetze und -verordnungen | bundestag | 1449 |
 | 49 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117416 |
