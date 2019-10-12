@@ -204,7 +204,7 @@
 | 33 |  [octotree](https://github.com/ovity/octotree) | Core engine of Octotree | ovity | 18452 |
 | 34 |  [hideIssuesByLable](https://github.com/DaniilBabanin/hideIssuesByLable) | UserScript to take over the world! and hide gitlab issues by tags | DaniilBabanin | 6 |
 | 35 |  [standard](https://github.com/standard/standard) | 🌟 JavaScript Style Guide, with linter & automatic code fixer | standard | 22513 |
-| 36 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 54844 |
+| 36 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 54845 |
 | 37 |  [draggable](https://github.com/Shopify/draggable) | The JavaScript Drag & Drop library your grandparents warned you about. | Shopify | 13540 |
 | 38 |  [textures](https://github.com/riccardoscalco/textures) | Textures.js is a JavaScript library for creating SVG patterns | riccardoscalco | 4582 |
 | 39 |  [uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) | An anti-adblock defuser for Nano Adblocker and uBlock Origin | jspenguin2017 | 672 |
@@ -337,7 +337,7 @@
 | 21 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65559 |
 | 22 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
 | 23 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39788 |
-| 24 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91179 |
+| 24 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91180 |
 | 25 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49056 |
 | 26 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 27 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4339 |
@@ -384,7 +384,7 @@
 | 4 |  [huekey](https://github.com/bradykent/huekey) | Control Philips Hue lights with BetterTouchTool | bradykent | 4 |
 | 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10240 |
 | 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26487 |
-| 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56532 |
+| 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56533 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
 | 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6454 |
 | 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27281 |
@@ -474,7 +474,7 @@
 | 34 |  [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) | Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores | RetroPie | 7917 |
 | 35 |  [filehub-config](https://github.com/digidem/filehub-config) | Hacking the RAVPower Filehub to automate SD card transfers and harddrive backups | digidem | 93 |
 | 36 |  [pimusicbox](https://github.com/pimusicbox/pimusicbox) | An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming | pimusicbox | 1625 |
-| 37 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 18330 |
+| 37 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 18331 |
 
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
