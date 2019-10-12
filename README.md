@@ -243,7 +243,7 @@
 | 71 |  [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) | 📈 One library to rule all charts for React Native 📊 | JesperLekland | 1279 |
 | 72 |  [react-native-svg-charts-examples](https://github.com/JesperLekland/react-native-svg-charts-examples) | A collection of usage examples of react-native-svg-charts | JesperLekland | 155 |
 | 73 |  [Duckuino](https://github.com/d4n5h/Duckuino) | DuckyScript to Arduino converter with mouse emulation | d4n5h | 35 |
-| 74 |  [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | Based on a true story | NARKOZ | 36325 |
+| 74 |  [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | Based on a true story | NARKOZ | 36326 |
 | 75 |  [winXP](https://github.com/ShizukuIchi/winXP) | 🏁 Web based Windows XP desktop recreation. | ShizukuIchi | 3172 |
 | 76 |  [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools for everything 👉 | LisaDziuba | 16946 |
 | 77 |  [hydrogen](https://github.com/nteract/hydrogen) | :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor. | nteract | 3378 |
@@ -339,7 +339,7 @@
 | 22 |  [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | herrbischoff | 21851 |
 | 23 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 13848 |
 | 24 |  [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) | A curated list of awesome articles, websites and resources about mental health in the software industry. | dreamingechoes | 1472 |
-| 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65564 |
+| 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65565 |
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29021 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39789 |
 | 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91184 |
