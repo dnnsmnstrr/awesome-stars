@@ -76,7 +76,7 @@
 | 3 |  [RunAsService](https://github.com/luisperezphd/RunAsService) | RunAsService is a command line tool that allows you to setup a regular  console application to run as a service. | luisperezphd | 27 |
 | 4 |  [AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) | Control your computer with your Google Home or Amazon Alexa assistant! | AlbertMN | 163 |
 | 5 |  [AudioSwitch](https://github.com/sirWest/AudioSwitch) | Switch between default audio input or output + change volume | sirWest | 848 |
-| 6 |  [CodeHub](https://github.com/CodeHubApp/CodeHub) | CodeHub is an iOS application written using Xamarin | CodeHubApp | 21689 |
+| 6 |  [CodeHub](https://github.com/CodeHubApp/CodeHub) | CodeHub is an iOS application written using Xamarin | CodeHubApp | 21690 |
 
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -236,7 +236,7 @@
 | 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81733 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 44 |
 | 66 |  [react-native-pure-chart](https://github.com/oksktank/react-native-pure-chart) | react-native chart library that not using svg or ART but only using react native pure components. | oksktank | 200 |
-| 67 |  [victory](https://github.com/FormidableLabs/victory) | A collection of composable React components for building interactive data visualizations | FormidableLabs | 7498 |
+| 67 |  [victory](https://github.com/FormidableLabs/victory) | A collection of composable React components for building interactive data visualizations | FormidableLabs | 7499 |
 | 68 |  [victory-native](https://github.com/FormidableLabs/victory-native) | victory components for react native | FormidableLabs | 1512 |
 | 69 |  [victory-gui](https://github.com/narinluangrath/victory-gui) | A photoshop-style web app for building beautiful, modern line charts | narinluangrath | 4 |
 | 70 |  [react-native-macos](https://github.com/ptmt/react-native-macos) | React Native for macOS is an experimental fork for writing desktop apps using Cocoa | ptmt | 11245 |
