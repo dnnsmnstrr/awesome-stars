@@ -225,7 +225,7 @@
 | 54 |  [rekit](https://github.com/rekit/rekit) | IDE and toolkit for building scalable web applications with React, Redux and React-router | rekit | 4067 |
 | 55 |  [svgomg](https://github.com/jakearchibald/svgomg) | Web GUI for SVGO | jakearchibald | 3430 |
 | 56 |  [svg2rn](https://github.com/khorark/svg2rn) | Convert svg files to React class for use this files in you ReactNative project | khorark | 14 |
-| 57 |  [react-native-localize](https://github.com/react-native-community/react-native-localize) | 🌍 A toolbox for your React Native app localization (formerly react-native-languages) | react-native-community | 790 |
+| 57 |  [react-native-localize](https://github.com/react-native-community/react-native-localize) | 🌍 A toolbox for your React Native app localization (formerly react-native-languages) | react-native-community | 791 |
 | 58 |  [spotify-node-applescript](https://github.com/andrehaveman/spotify-node-applescript) | Control Spotify on Mac OSX with NodeJS and AppleScript | andrehaveman | 269 |
 | 59 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39130 |
 | 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49628 |
