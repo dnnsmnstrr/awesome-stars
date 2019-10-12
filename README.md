@@ -346,7 +346,7 @@
 | 29 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8234 |
 | 30 |  [2019](https://github.com/wwdc/2019) | Student submissions for the WWDC 2019 Scholarship | wwdc | 205 |
 | 31 |  [SketchToAppStore](https://github.com/bmull/SketchToAppStore) | A sketch framework to make creating screenshots for the App Store incredibly simple | bmull | 2209 |
-| 32 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 129811 |
+| 32 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 129812 |
 | 33 |  [2018](https://github.com/wwdc/2018) | Student submissions for the WWDC 2018 Scholarship | wwdc | 247 |
 | 34 |  [icons](https://github.com/jtholloran/icons) | Sketch template for generating all iOS 12 App icon sizes | jtholloran | 371 |
 | 35 |  [awesome-sketch](https://github.com/diessica/awesome-sketch) | :books: delightful stuff for SketchApp students. | diessica | 711 |
