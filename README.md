@@ -156,7 +156,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [react-native-camera](https://github.com/react-native-community/react-native-camera) | A Camera component for React Native. Also supports barcode scanning! | react-native-community | 7746 |
-| 2 |  [react-native-svg](https://github.com/react-native-community/react-native-svg) | SVG library for React Native, React Native Web, and plain React web projects. | react-native-community | 4015 |
+| 2 |  [react-native-svg](https://github.com/react-native-community/react-native-svg) | SVG library for React Native, React Native Web, and plain React web projects. | react-native-community | 4016 |
 | 3 |  [lottie-react-native](https://github.com/react-native-community/lottie-react-native) | Lottie wrapper for React Native. | react-native-community | 12024 |
 | 4 |  [photo-viewer](https://github.com/merryjs/photo-viewer) | A photo  picture viewer for React Native | merryjs | 170 |
 | 5 |  [react-native-navigation](https://github.com/wix/react-native-navigation) | A complete native navigation solution for React Native | wix | 10834 |
