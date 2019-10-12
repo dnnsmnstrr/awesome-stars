@@ -162,7 +162,7 @@
 | 5 |  [react-native-navigation](https://github.com/wix/react-native-navigation) | A complete native navigation solution for React Native | wix | 10834 |
 | 6 |  [react-native-webview](https://github.com/react-native-community/react-native-webview) | React Native Cross-Platform WebView | react-native-community | 1826 |
 | 7 |  [interviews](https://github.com/kdn251/interviews) | Everything you need to know to get the job. | kdn251 | 39272 |
-| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17400 |
+| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17401 |
 | 9 |  [A-Pathfinding-Visualization](https://github.com/DevonCrawford/A-Pathfinding-Visualization) | First attempt at an efficient pathfinding algorithm in Java. I made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface. | DevonCrawford | 200 |
 | 10 |  [processing](https://github.com/processing/processing) | Source code for the Processing Core and Development Environment (PDE) | processing | 5078 |
 | 11 |  [PretendYoureXyzzy](https://github.com/ajanata/PretendYoureXyzzy) | A web clone of the card game Cards Against Humanity. | ajanata | 749 |
@@ -389,7 +389,7 @@
 | 4 |  [huekey](https://github.com/bradykent/huekey) | Control Philips Hue lights with BetterTouchTool | bradykent | 4 |
 | 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10243 |
 | 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26492 |
-| 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56534 |
+| 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56535 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
 | 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6454 |
 | 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27289 |
