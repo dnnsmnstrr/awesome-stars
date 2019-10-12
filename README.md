@@ -517,7 +517,7 @@
 | 37 |  [Cartography](https://github.com/robb/Cartography) | A declarative Auto Layout DSL for Swift :iphone::triangular_ruler: | robb | 6958 |
 | 38 |  [PeerKit](https://github.com/jpsim/PeerKit) | An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps | jpsim | 808 |
 | 39 |  [CardsAgainst](https://github.com/jpsim/CardsAgainst) | An iOS game for horrible people | jpsim | 497 |
-| 40 |  [Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) | 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验 | Lax | 3037 |
+| 40 |  [Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) | 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验 | Lax | 3038 |
 | 41 |  [Ease](https://github.com/roberthein/Ease) | It's magic. | roberthein | 1141 |
 | 42 |  [Beethoven](https://github.com/vadymmarkov/Beethoven) | :guitar: A maestro of pitch detection. | vadymmarkov | 469 |
 | 43 |  [MusicKit](https://github.com/benzguo/MusicKit) | A framework for composing and transforming music in Swift | benzguo | 544 |
