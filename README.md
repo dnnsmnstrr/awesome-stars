@@ -116,7 +116,7 @@
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76908 |
+| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76909 |
 
 ## Elixir
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -160,7 +160,7 @@
 | 5 |  [react-native-navigation](https://github.com/wix/react-native-navigation) | A complete native navigation solution for React Native | wix | 10834 |
 | 6 |  [react-native-webview](https://github.com/react-native-community/react-native-webview) | React Native Cross-Platform WebView | react-native-community | 1826 |
 | 7 |  [interviews](https://github.com/kdn251/interviews) | Everything you need to know to get the job. | kdn251 | 39269 |
-| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17391 |
+| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17392 |
 | 9 |  [A-Pathfinding-Visualization](https://github.com/DevonCrawford/A-Pathfinding-Visualization) | First attempt at an efficient pathfinding algorithm in Java. I made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface. | DevonCrawford | 200 |
 | 10 |  [processing](https://github.com/processing/processing) | Source code for the Processing Core and Development Environment (PDE) | processing | 5078 |
 | 11 |  [PretendYoureXyzzy](https://github.com/ajanata/PretendYoureXyzzy) | A web clone of the card game Cards Against Humanity. | ajanata | 749 |
@@ -381,7 +381,7 @@
 | 2 |  [mackup](https://github.com/lra/mackup) | Keep your application settings in sync (OS X/Linux) | lra | 9112 |
 | 3 |  [phue](https://github.com/studioimaginaire/phue) | A Python library for the Philips Hue system | studioimaginaire | 921 |
 | 4 |  [huekey](https://github.com/bradykent/huekey) | Control Philips Hue lights with BetterTouchTool | bradykent | 4 |
-| 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10239 |
+| 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10240 |
 | 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26486 |
 | 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56532 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
@@ -589,7 +589,7 @@
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1962 |
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4486 |
 | 11 |  [cli](https://github.com/react-native-community/cli) | React Native command line tools | react-native-community | 836 |
-| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84272 |
+| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84273 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8953 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1575 |
 | 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42059 |
