@@ -194,7 +194,7 @@
 | 22 |  [react-native-popover-view](https://github.com/SteffeyDev/react-native-popover-view) | A well-tested, adaptable, lightweight &lt;Popover&gt; component for react-native | SteffeyDev | 100 |
 | 23 |  [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner) | A QR code scanner component for React Native. | moaazsidat | 1141 |
 | 24 |  [moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates in javascript. | moment | 42512 |
-| 25 |  [spicetify-cli](https://github.com/khanhas/spicetify-cli) | Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux. | khanhas | 1664 |
+| 25 |  [spicetify-cli](https://github.com/khanhas/spicetify-cli) | Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux. | khanhas | 1665 |
 | 26 |  [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler) | Declarative API exposing platform native touch and gesture system to React Native. | kmagiera | 2699 |
 | 27 |  [react-native-super-grid](https://github.com/saleel/react-native-super-grid) | Responsive Grid View for React Native | saleel | 703 |
 | 28 |  [react-native-home-indicator](https://github.com/flowkey/react-native-home-indicator) | A &lt;PrefersHomeIndicatorAutoHidden /&gt; component for react-native | flowkey | 23 |
@@ -433,7 +433,7 @@
 | 10 |  [dotfiles](https://github.com/skwp/dotfiles) | YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen | skwp | 6364 |
 | 11 |  [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | Homebrew | 16040 |
 | 12 |  [ios-project-template](https://github.com/messeb/ios-project-template) | iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger | messeb | 301 |
-| 13 |  [fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iOS and Android apps | fastlane | 27073 |
+| 13 |  [fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iOS and Android apps | fastlane | 27074 |
 | 14 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 19266 |
 | 15 |  [bbcards](https://github.com/bbcards/bbcards) | Bigger, Blacker Cards - A custom card generator for Cards Against Humanity | bbcards | 60 |
 | 16 |  [against-humanity](https://github.com/nodanaonlyzuul/against-humanity) | Plain text files of the question and answer cards for Cards Against Humanity. | nodanaonlyzuul | 81 |
