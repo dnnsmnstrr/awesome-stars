@@ -194,7 +194,7 @@
 | 22 |  [react-native-popover-view](https://github.com/SteffeyDev/react-native-popover-view) | A well-tested, adaptable, lightweight &lt;Popover&gt; component for react-native | SteffeyDev | 100 |
 | 23 |  [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner) | A QR code scanner component for React Native. | moaazsidat | 1141 |
 | 24 |  [moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates in javascript. | moment | 42513 |
-| 25 |  [spicetify-cli](https://github.com/khanhas/spicetify-cli) | Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux. | khanhas | 1668 |
+| 25 |  [spicetify-cli](https://github.com/khanhas/spicetify-cli) | Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux. | khanhas | 1669 |
 | 26 |  [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler) | Declarative API exposing platform native touch and gesture system to React Native. | kmagiera | 2700 |
 | 27 |  [react-native-super-grid](https://github.com/saleel/react-native-super-grid) | Responsive Grid View for React Native | saleel | 703 |
 | 28 |  [react-native-home-indicator](https://github.com/flowkey/react-native-home-indicator) | A &lt;PrefersHomeIndicatorAutoHidden /&gt; component for react-native | flowkey | 23 |
@@ -395,7 +395,7 @@
 | 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27294 |
 | 11 |  [Kashi](https://github.com/zer8ne/Kashi) | Touch Bar widget that displays the lyrics of the current song in Spotify, iTunes, or YouTube. | zer8ne | 11 |
 | 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33334 |
-| 13 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 48625 |
+| 13 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 48626 |
 | 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 63514 |
 | 15 |  [magenta](https://github.com/tensorflow/magenta) | Magenta: Music and Art Generation with Machine Intelligence | tensorflow | 14048 |
 | 16 |  [spotifylyrics](https://github.com/fr31/spotifylyrics) | Fetches and displays lyrics to currently playing song in Spotify. | fr31 | 621 |
