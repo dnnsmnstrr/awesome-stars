@@ -89,7 +89,7 @@
 | 6 |  [dexed](https://github.com/asb2m10/dexed) | DX7 FM multi plaform/multi format plugin | asb2m10 | 1139 |
 | 7 |  [barrier](https://github.com/debauchee/barrier) | Open-source KVM software | debauchee | 2761 |
 | 8 |  [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | kyleneideck | 5712 |
-| 9 |  [turicreate](https://github.com/apple/turicreate) | Turi Create simplifies the development of custom machine learning models. | apple | 9051 |
+| 9 |  [turicreate](https://github.com/apple/turicreate) | Turi Create simplifies the development of custom machine learning models. | apple | 9050 |
 | 10 |  [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) | Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO | arendst | 8005 |
 | 11 |  [DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) | USB Rubber Ducky type scripts written for the DigiSpark. | CedArctic | 287 |
 | 12 |  [BadUSB](https://github.com/grcasanova/BadUSB) | Personal implementation of the BadUSB exploit with an Atmel 8-bit AVR ATTiny85 acting as a HID keyboard | grcasanova | 42 |
@@ -228,7 +228,7 @@
 | 56 |  [svg2rn](https://github.com/khorark/svg2rn) | Convert svg files to React class for use this files in you ReactNative project | khorark | 14 |
 | 57 |  [react-native-localize](https://github.com/react-native-community/react-native-localize) | 🌍 A toolbox for your React Native app localization (formerly react-native-languages) | react-native-community | 791 |
 | 58 |  [spotify-node-applescript](https://github.com/andrehaveman/spotify-node-applescript) | Control Spotify on Mac OSX with NodeJS and AppleScript | andrehaveman | 269 |
-| 59 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39130 |
+| 59 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39131 |
 | 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49634 |
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37035 |
