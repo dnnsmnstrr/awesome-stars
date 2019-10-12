@@ -114,7 +114,7 @@
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76898 |
+| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76899 |
 
 ## Elixir
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -293,8 +293,8 @@
 | 14 |  [GPUImage](https://github.com/BradLarson/GPUImage) | An open source iOS framework for GPU-based image and video processing | BradLarson | 18874 |
 | 15 |  [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) | Used to integrate the Facebook Platform with your iOS & tvOS apps. | facebook | 6130 |
 | 16 |  [RESideMenu](https://github.com/romaonthego/RESideMenu) | iOS 7/8 style side menu with parallax effect. | romaonthego | 7246 |
-| 17 |  [iCarousel](https://github.com/nicklockwood/iCarousel) | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | nicklockwood | 11443 |
-| 18 |  [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | A clean and lightweight progress HUD for your iOS and tvOS app. | SVProgressHUD | 11862 |
+| 17 |  [iCarousel](https://github.com/nicklockwood/iCarousel) | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | nicklockwood | 11442 |
+| 18 |  [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | A clean and lightweight progress HUD for your iOS and tvOS app. | SVProgressHUD | 11861 |
 | 19 |  [FLEX](https://github.com/Flipboard/FLEX) | An in-app debugging and exploration tool for iOS | Flipboard | 10792 |
 | 20 |  [RestKit](https://github.com/RestKit/RestKit) | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X | RestKit | 10327 |
 | 21 |  [CardDecks](https://github.com/aharren/CardDecks) | Configurable card decks in your pocket. | aharren | 34 |
