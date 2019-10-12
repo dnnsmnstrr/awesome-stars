@@ -77,7 +77,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77514 |
+| 1 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 77515 |
 | 2 |  [Control-Surface](https://github.com/tttapa/Control-Surface) | Arduino library for MIDI control and input. | tttapa | 41 |
 | 3 |  [MIDI_controller](https://github.com/tttapa/MIDI_controller) | This is a library for creating a MIDI controller using an Arduino or Teensy board. | tttapa | 193 |
 | 4 |  [Encoder](https://github.com/PaulStoffregen/Encoder) | Quadrature Encoder Library for Arduino | PaulStoffregen | 215 |
@@ -359,7 +359,7 @@
 | 46 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 10056 |
 | 47 |  [awesome-java](https://github.com/akullpp/awesome-java) | A curated list of awesome frameworks, libraries and software for the Java programming language. | akullpp | 22551 |
 | 48 |  [gesetze](https://github.com/bundestag/gesetze) | Bundesgesetze und -verordnungen | bundestag | 1449 |
-| 49 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117410 |
+| 49 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117409 |
 | 50 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35533 |
 | 51 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
 | 52 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22080 |
