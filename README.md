@@ -356,7 +356,7 @@
 | 39 |  [2017](https://github.com/wwdc/2017) | Student Submissions for the WWDC 2017 Scholarship | wwdc | 242 |
 | 40 |  [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) | A curated list of awesome iOS UI/UX libraries | cjwirth | 10739 |
 | 41 |  [awesome-fonts](https://github.com/brabadu/awesome-fonts) | Curated list of fonts and everything | brabadu | 568 |
-| 42 |  [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. | papers-we-love | 36453 |
+| 42 |  [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. | papers-we-love | 36454 |
 | 43 |  [rpd-wallpaper](https://github.com/raspberrypi-ui/rpd-wallpaper) | Custom desktop wallpapers | raspberrypi-ui | 9 |
 | 44 |  [CAH](https://github.com/Juditk/CAH) | A repo for Cards Against Humanity cards related to programming / development / Apple / iOS. | Juditk | 38 |
 | 45 |  [LinuxAgainstHumanity](https://github.com/BryanLunduke/LinuxAgainstHumanity) | Linux-themed expansion pack for Cards Against Humanity | BryanLunduke | 63 |
@@ -396,7 +396,7 @@
 | 11 |  [Kashi](https://github.com/zer8ne/Kashi) | Touch Bar widget that displays the lyrics of the current song in Spotify, iTunes, or YouTube. | zer8ne | 11 |
 | 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33334 |
 | 13 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 48627 |
-| 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 63514 |
+| 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 63515 |
 | 15 |  [magenta](https://github.com/tensorflow/magenta) | Magenta: Music and Art Generation with Machine Intelligence | tensorflow | 14048 |
 | 16 |  [spotifylyrics](https://github.com/fr31/spotifylyrics) | Fetches and displays lyrics to currently playing song in Spotify. | fr31 | 621 |
 | 17 |  [dash-hack](https://github.com/gpwclark/dash-hack) | My friend needed an amazon-dash button that did not exist, this is my modification to extend the dash button to any product. | gpwclark | 90 |
