@@ -107,7 +107,7 @@
 | 4 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 62469 |
 | 5 |  [dotfiles](https://github.com/dnnsmnstrr/dotfiles) | My dotfiles and BetterTouchTool presets | dnnsmnstrr | 2 |
 | 6 |  [hangouts-against-humanity](https://github.com/samurailink3/hangouts-against-humanity) | A game for horrible people, on Google+, in a hangout. | samurailink3 | 110 |
-| 7 |  [screenly-ose](https://github.com/Screenly/screenly-ose) | The most popular digital signage project on Github! | Screenly | 902 |
+| 7 |  [screenly-ose](https://github.com/Screenly/screenly-ose) | The most popular digital signage project on Github! | Screenly | 903 |
 
 ## CoffeeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
