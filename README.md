@@ -118,7 +118,7 @@
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76967 |
+| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76968 |
 
 ## Elixir
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -494,7 +494,7 @@
 | 8 |  [iSimulator](https://github.com/wigl/iSimulator) | iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. | wigl | 797 |
 | 9 |  [ARVideoKit](https://github.com/AFathi/ARVideoKit) | Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆. | AFathi | 1066 |
 | 10 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 20823 |
-| 11 |  [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) | Gathering all info published, both by Apple and by others, about new framework SwiftUI. | Juanpe | 3476 |
+| 11 |  [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) | Gathering all info published, both by Apple and by others, about new framework SwiftUI. | Juanpe | 3477 |
 | 12 |  [mas](https://github.com/mas-cli/mas) | :package: Mac App Store command line interface | mas-cli | 6460 |
 | 13 |  [lottie-ios](https://github.com/airbnb/lottie-ios) | An iOS library to natively render After Effects vector animations | airbnb | 18272 |
 | 14 |  [touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) | Use the Touch Bar on any Mac | sindresorhus | 1270 |
