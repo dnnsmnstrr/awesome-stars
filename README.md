@@ -367,7 +367,7 @@
 | 50 |  [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) |  A curated list of awesome applications, softwares, tools and shiny things for macOS. | iCHAIT | 10062 |
 | 51 |  [awesome-java](https://github.com/akullpp/awesome-java) | A curated list of awesome frameworks, libraries and software for the Java programming language. | akullpp | 22559 |
 | 52 |  [gesetze](https://github.com/bundestag/gesetze) | Bundesgesetze und -verordnungen | bundestag | 1449 |
-| 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117444 |
+| 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117443 |
 | 54 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35544 |
 | 55 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
 | 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22095 |
@@ -514,7 +514,7 @@
 | 28 |  [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) | A List of Awesome Swift Playgrounds | uraimo | 2993 |
 | 29 |  [AwesomeGitHub](https://github.com/dnnsmnstrr/AwesomeGitHub) | A GitHub-Workshop for SGaTDA18 by @dnnsmnstrr | dnnsmnstrr | 1 |
 | 30 |  [HideAndSeek](https://github.com/alexanderschuelke/HideAndSeek) |  | alexanderschuelke | 2 |
-| 31 |  [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac | JohnCoates | 15622 |
+| 31 |  [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac | JohnCoates | 15623 |
 | 32 |  [CardsAgainst](https://github.com/exis-io/CardsAgainst) | Swift demo for Cards Against Humanity | exis-io | 4 |
 | 33 |  [cards-against-humanity](https://github.com/danvalencia/cards-against-humanity) | Cards Against Humanity iOS game written in Swift | danvalencia | 1 |
 | 34 |  [CardsAgainstTheTV](https://github.com/haarismuneer/CardsAgainstTheTV) |  | haarismuneer | 1 |
