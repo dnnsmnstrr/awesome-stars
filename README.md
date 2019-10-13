@@ -72,7 +72,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | chocolatey | 5882 |
-| 2 |  [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows | QL-Win | 4174 |
+| 2 |  [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows | QL-Win | 4175 |
 | 3 |  [RunAsService](https://github.com/luisperezphd/RunAsService) | RunAsService is a command line tool that allows you to setup a regular  console application to run as a service. | luisperezphd | 27 |
 | 4 |  [AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) | Control your computer with your Google Home or Amazon Alexa assistant! | AlbertMN | 164 |
 | 5 |  [AudioSwitch](https://github.com/sirWest/AudioSwitch) | Switch between default audio input or output + change volume | sirWest | 848 |
@@ -228,7 +228,7 @@
 | 56 |  [svg2rn](https://github.com/khorark/svg2rn) | Convert svg files to React class for use this files in you ReactNative project | khorark | 14 |
 | 57 |  [react-native-localize](https://github.com/react-native-community/react-native-localize) | 🌍 A toolbox for your React Native app localization (formerly react-native-languages) | react-native-community | 791 |
 | 58 |  [spotify-node-applescript](https://github.com/andrehaveman/spotify-node-applescript) | Control Spotify on Mac OSX with NodeJS and AppleScript | andrehaveman | 269 |
-| 59 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39146 |
+| 59 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 39147 |
 | 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49648 |
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37039 |
@@ -342,7 +342,7 @@
 | 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65573 |
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29022 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39790 |
-| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91210 |
+| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91211 |
 | 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49226 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4344 |
