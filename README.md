@@ -297,7 +297,7 @@
 | 14 |  [GPUImage](https://github.com/BradLarson/GPUImage) | An open source iOS framework for GPU-based image and video processing | BradLarson | 18874 |
 | 15 |  [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) | Used to integrate the Facebook Platform with your iOS & tvOS apps. | facebook | 6131 |
 | 16 |  [RESideMenu](https://github.com/romaonthego/RESideMenu) | iOS 7/8 style side menu with parallax effect. | romaonthego | 7246 |
-| 17 |  [iCarousel](https://github.com/nicklockwood/iCarousel) | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | nicklockwood | 11442 |
+| 17 |  [iCarousel](https://github.com/nicklockwood/iCarousel) | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | nicklockwood | 11443 |
 | 18 |  [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | A clean and lightweight progress HUD for your iOS and tvOS app. | SVProgressHUD | 11862 |
 | 19 |  [FLEX](https://github.com/Flipboard/FLEX) | An in-app debugging and exploration tool for iOS | Flipboard | 10793 |
 | 20 |  [RestKit](https://github.com/RestKit/RestKit) | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X | RestKit | 10327 |
@@ -343,7 +343,7 @@
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29023 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39790 |
 | 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91208 |
-| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49218 |
+| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49219 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4344 |
 | 32 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8244 |
