@@ -320,7 +320,7 @@
 | 3 |  [Git-Commands](https://github.com/joshnh/Git-Commands) | A list of commonly used Git commands | joshnh | 1832 |
 | 4 |  [gitalias](https://github.com/GitAlias/gitalias) | Git alias commands for faster easier version control | GitAlias | 1046 |
 | 5 |  [art-of-readme](https://github.com/noffle/art-of-readme) | :love_letter: Things I've learned about writing good READMEs. | noffle | 5310 |
-| 6 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9243 |
+| 6 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9244 |
 | 7 |  [macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) | :gem: A retina optimized macOS Sierra UI Kit for Sketch (including Touch Bar) | alexkaessner | 471 |
 | 8 |  [MTMR-presets](https://github.com/Toxblh/MTMR-presets) | 💈 [My TouchBar My rules] Share your preset! | Toxblh | 28 |
 | 9 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48784 |
