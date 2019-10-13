@@ -233,7 +233,7 @@
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37037 |
 | 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50122 |
-| 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81750 |
+| 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81751 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 44 |
 | 66 |  [react-native-pure-chart](https://github.com/oksktank/react-native-pure-chart) | react-native chart library that not using svg or ART but only using react native pure components. | oksktank | 200 |
 | 67 |  [victory](https://github.com/FormidableLabs/victory) | A collection of composable React components for building interactive data visualizations | FormidableLabs | 7501 |
@@ -342,7 +342,7 @@
 | 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65569 |
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29023 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39790 |
-| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91199 |
+| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91200 |
 | 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49189 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4344 |
@@ -598,7 +598,7 @@
 | 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84305 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8955 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1576 |
-| 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42067 |
+| 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42068 |
 | 16 |  [botpress](https://github.com/botpress/botpress) | The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants. | botpress | 7708 |
 | 17 |  [PocketGear](https://github.com/satya164/PocketGear) | A clean and simple Pokédex app for Pokémon GO | satya164 | 178 |
 | 18 |  [lyricfier](https://github.com/emilioastarita/lyricfier) | a Spotify Lyrics alternative app | New updates at https://github.com/emilioastarita/lyricfier2 (a faster version in golang) | emilioastarita | 580 |
