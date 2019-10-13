@@ -217,7 +217,7 @@
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
 | 46 |  [nuclear](https://github.com/nukeop/nuclear) | Desktop music player for streaming from free sources | nukeop | 4967 |
 | 47 |  [github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) | Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support | adriantanasa | 51 |
-| 48 |  [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) | Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling. | oblador | 12004 |
+| 48 |  [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) | Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling. | oblador | 12005 |
 | 49 |  [nachos-ui](https://github.com/nachos-ui/nachos-ui) | Nachos UI is a React Native component library. | nachos-ui | 1906 |
 | 50 |  [ui](https://github.com/shoutem/ui) | Customizable set of components for React Native applications | shoutem | 4372 |
 | 51 |  [react-native-elements](https://github.com/react-native-elements/react-native-elements) | Cross Platform React Native UI Toolkit | react-native-elements | 17271 |
