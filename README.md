@@ -72,7 +72,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | chocolatey | 5880 |
-| 2 |  [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows | QL-Win | 4172 |
+| 2 |  [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows | QL-Win | 4173 |
 | 3 |  [RunAsService](https://github.com/luisperezphd/RunAsService) | RunAsService is a command line tool that allows you to setup a regular  console application to run as a service. | luisperezphd | 27 |
 | 4 |  [AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) | Control your computer with your Google Home or Amazon Alexa assistant! | AlbertMN | 164 |
 | 5 |  [AudioSwitch](https://github.com/sirWest/AudioSwitch) | Switch between default audio input or output + change volume | sirWest | 848 |
