@@ -76,7 +76,7 @@
 | 3 |  [RunAsService](https://github.com/luisperezphd/RunAsService) | RunAsService is a command line tool that allows you to setup a regular  console application to run as a service. | luisperezphd | 27 |
 | 4 |  [AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) | Control your computer with your Google Home or Amazon Alexa assistant! | AlbertMN | 164 |
 | 5 |  [AudioSwitch](https://github.com/sirWest/AudioSwitch) | Switch between default audio input or output + change volume | sirWest | 848 |
-| 6 |  [CodeHub](https://github.com/CodeHubApp/CodeHub) | CodeHub is an iOS application written using Xamarin | CodeHubApp | 21700 |
+| 6 |  [CodeHub](https://github.com/CodeHubApp/CodeHub) | CodeHub is an iOS application written using Xamarin | CodeHubApp | 21701 |
 
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -164,7 +164,7 @@
 | 7 |  [interviews](https://github.com/kdn251/interviews) | Everything you need to know to get the job. | kdn251 | 39285 |
 | 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17404 |
 | 9 |  [A-Pathfinding-Visualization](https://github.com/DevonCrawford/A-Pathfinding-Visualization) | First attempt at an efficient pathfinding algorithm in Java. I made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface. | DevonCrawford | 201 |
-| 10 |  [processing](https://github.com/processing/processing) | Source code for the Processing Core and Development Environment (PDE) | processing | 5081 |
+| 10 |  [processing](https://github.com/processing/processing) | Source code for the Processing Core and Development Environment (PDE) | processing | 5082 |
 | 11 |  [PretendYoureXyzzy](https://github.com/ajanata/PretendYoureXyzzy) | A web clone of the card game Cards Against Humanity. | ajanata | 749 |
 
 ## JavaScript
