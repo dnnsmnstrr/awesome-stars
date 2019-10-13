@@ -249,7 +249,7 @@
 | 77 |  [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools for everything 👉 | LisaDziuba | 16953 |
 | 78 |  [hydrogen](https://github.com/nteract/hydrogen) | :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor. | nteract | 3380 |
 | 79 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41199 |
-| 80 |  [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 61142 |
+| 80 |  [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 61143 |
 | 81 |  [BetterTouchTool](https://github.com/folivoraAI/BetterTouchTool) | I do not use this for issue tracking anymore. Please go to https://community.folivora.ai | folivoraAI | 646 |
 | 82 |  [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) | Use Facebook to track your friends’ sleeping habits | sqren | 1381 |
 | 83 |  [cardcast-api](https://github.com/Morgul/cardcast-api) | An unofficial library for working with the cardcastgame.com api. | Morgul | 10 |
