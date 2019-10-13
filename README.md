@@ -180,7 +180,7 @@
 | 8 |  [react-native-animatable](https://github.com/oblador/react-native-animatable) | Standard set of easy to use animations and declarative transitions for React Native | oblador | 7169 |
 | 9 |  [Detox](https://github.com/wix/Detox) | Gray box end-to-end testing and automation framework for mobile apps | wix | 5399 |
 | 10 |  [cucumber-js](https://github.com/cucumber/cucumber-js) | Cucumber for JavaScript | cucumber | 3691 |
-| 11 |  [hyper](https://github.com/zeit/hyper) | A terminal built on web technologies | zeit | 31188 |
+| 11 |  [hyper](https://github.com/zeit/hyper) | A terminal built on web technologies | zeit | 31189 |
 | 12 |  [MIDI.js](https://github.com/mudcube/MIDI.js) | :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing. | mudcube | 2994 |
 | 13 |  [kaleidosync](https://github.com/zachwinter/kaleidosync) | An HTML5 Spotify visualizer, built with spotify-viz and Vue. | zachwinter | 118 |
 | 14 |  [spotify-viz](https://github.com/zachwinter/spotify-viz) | Create realtime audio-reactive visuals, powered by Spotify. | zachwinter | 38 |
@@ -568,7 +568,7 @@
 | 82 |  [Instructions](https://github.com/ephread/Instructions) | Create walkthroughs and guided tours (coach marks) in a simple way, with Swift. | ephread | 4040 |
 | 83 |  [Alexandria](https://github.com/ovenbits/Alexandria) |  | ovenbits | 29 |
 | 84 |  [RandomKit](https://github.com/nvzqz/RandomKit) | Random data generation in Swift | nvzqz | 1425 |
-| 85 |  [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | 📖 Design Patterns implemented in Swift 5.0 | ochococo | 11121 |
+| 85 |  [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | 📖 Design Patterns implemented in Swift 5.0 | ochococo | 11122 |
 | 86 |  [ROMPlayer](https://github.com/AudioKit/ROMPlayer) | AudioKit Sample Player (ROM Player) - EXS24, Sound Font, Wave Player | AudioKit | 375 |
 | 87 |  [Spring](https://github.com/MengTo/Spring) | A library to simplify iOS animations in Swift. | MengTo | 13338 |
 | 88 |  [Hero](https://github.com/HeroTransitions/Hero) | Elegant transition library for iOS & tvOS | HeroTransitions | 17458 |
