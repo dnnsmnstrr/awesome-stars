@@ -162,7 +162,7 @@
 | 5 |  [react-native-navigation](https://github.com/wix/react-native-navigation) | A complete native navigation solution for React Native | wix | 10833 |
 | 6 |  [react-native-webview](https://github.com/react-native-community/react-native-webview) | React Native Cross-Platform WebView | react-native-community | 1827 |
 | 7 |  [interviews](https://github.com/kdn251/interviews) | Everything you need to know to get the job. | kdn251 | 39285 |
-| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17406 |
+| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17407 |
 | 9 |  [A-Pathfinding-Visualization](https://github.com/DevonCrawford/A-Pathfinding-Visualization) | First attempt at an efficient pathfinding algorithm in Java. I made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface. | DevonCrawford | 201 |
 | 10 |  [processing](https://github.com/processing/processing) | Source code for the Processing Core and Development Environment (PDE) | processing | 5082 |
 | 11 |  [PretendYoureXyzzy](https://github.com/ajanata/PretendYoureXyzzy) | A web clone of the card game Cards Against Humanity. | ajanata | 749 |
@@ -457,7 +457,7 @@
 | 12 |  [awesome-macos-setup](https://github.com/Ullaakut/awesome-macos-setup) | A repository with tools to automatically make any Mac awesome in a few minutes | Ullaakut | 44 |
 | 13 |  [macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) | A centralized place for the awesome work started by @mathiasbynens on .osx | kevinSuttle | 711 |
 | 14 |  [Simple](https://github.com/simple-touch/Simple) | ☁A simple and intuitive OSX Touch Bar replacement. | simple-touch | 1 |
-| 15 |  [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | robbyrussell | 96444 |
+| 15 |  [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | robbyrussell | 96445 |
 | 16 |  [sketchtool](https://github.com/marekhrabe/sketchtool) | SketchTool binary for npm | marekhrabe | 29 |
 | 17 |  [F-dotfiles](https://github.com/Kraymer/F-dotfiles) | Full-Fledged Über-Clean Kraymer' dotfiles (powered by stow). Managing them used to be a pain. | Kraymer | 119 |
 | 18 |  [bashdot](https://github.com/bashdot/bashdot) | Minimalist dotfile management framework. | bashdot | 48 |
