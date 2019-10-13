@@ -72,11 +72,11 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | chocolatey | 5881 |
-| 2 |  [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows | QL-Win | 4173 |
+| 2 |  [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows | QL-Win | 4174 |
 | 3 |  [RunAsService](https://github.com/luisperezphd/RunAsService) | RunAsService is a command line tool that allows you to setup a regular  console application to run as a service. | luisperezphd | 27 |
 | 4 |  [AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) | Control your computer with your Google Home or Amazon Alexa assistant! | AlbertMN | 164 |
 | 5 |  [AudioSwitch](https://github.com/sirWest/AudioSwitch) | Switch between default audio input or output + change volume | sirWest | 848 |
-| 6 |  [CodeHub](https://github.com/CodeHubApp/CodeHub) | CodeHub is an iOS application written using Xamarin | CodeHubApp | 21698 |
+| 6 |  [CodeHub](https://github.com/CodeHubApp/CodeHub) | CodeHub is an iOS application written using Xamarin | CodeHubApp | 21699 |
 
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -101,8 +101,8 @@
 ## CSS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) | A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli) | morpheusthewhite | 97 |
-| 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17096 |
+| 1 |  [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) | A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli) | morpheusthewhite | 98 |
+| 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17098 |
 | 3 |  [madclem.github.io](https://github.com/madclem/madclem.github.io) |  | madclem | 18 |
 | 4 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 62469 |
 | 5 |  [dotfiles](https://github.com/dnnsmnstrr/dotfiles) | My dotfiles and BetterTouchTool presets | dnnsmnstrr | 2 |
@@ -118,7 +118,7 @@
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76971 |
+| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76975 |
 
 ## Elixir
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -162,7 +162,7 @@
 | 5 |  [react-native-navigation](https://github.com/wix/react-native-navigation) | A complete native navigation solution for React Native | wix | 10833 |
 | 6 |  [react-native-webview](https://github.com/react-native-community/react-native-webview) | React Native Cross-Platform WebView | react-native-community | 1826 |
 | 7 |  [interviews](https://github.com/kdn251/interviews) | Everything you need to know to get the job. | kdn251 | 39283 |
-| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17403 |
+| 8 |  [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | TheAlgorithms | 17404 |
 | 9 |  [A-Pathfinding-Visualization](https://github.com/DevonCrawford/A-Pathfinding-Visualization) | First attempt at an efficient pathfinding algorithm in Java. I made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface. | DevonCrawford | 201 |
 | 10 |  [processing](https://github.com/processing/processing) | Source code for the Processing Core and Development Environment (PDE) | processing | 5081 |
 | 11 |  [PretendYoureXyzzy](https://github.com/ajanata/PretendYoureXyzzy) | A web clone of the card game Cards Against Humanity. | ajanata | 749 |
@@ -202,26 +202,26 @@
 | 30 |  [react-native-video-player](https://github.com/cornedor/react-native-video-player) | A video player for React Native with controls | cornedor | 323 |
 | 31 |  [pokemonsay](https://github.com/dfrankland/pokemonsay) | 👾 Pokemon version of cowsay with CLI and API. | dfrankland | 391 |
 | 32 |  [react-native-web](https://github.com/necolas/react-native-web) | React Native for Web | necolas | 14968 |
-| 33 |  [octotree](https://github.com/ovity/octotree) | Core engine of Octotree | ovity | 18454 |
+| 33 |  [octotree](https://github.com/ovity/octotree) | Core engine of Octotree | ovity | 18455 |
 | 34 |  [hideIssuesByLable](https://github.com/DaniilBabanin/hideIssuesByLable) | UserScript to take over the world! and hide gitlab issues by tags | DaniilBabanin | 6 |
 | 35 |  [standard](https://github.com/standard/standard) | 🌟 JavaScript Style Guide, with linter & automatic code fixer | standard | 22514 |
-| 36 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 54852 |
+| 36 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 54853 |
 | 37 |  [draggable](https://github.com/Shopify/draggable) | The JavaScript Drag & Drop library your grandparents warned you about. | Shopify | 13542 |
 | 38 |  [textures](https://github.com/riccardoscalco/textures) | Textures.js is a JavaScript library for creating SVG patterns | riccardoscalco | 4582 |
 | 39 |  [uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) | An anti-adblock defuser for Nano Adblocker and uBlock Origin | jspenguin2017 | 675 |
 | 40 |  [uBlock-Safari](https://github.com/el1t/uBlock-Safari) | uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean. | el1t | 2731 |
-| 41 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 11096 |
+| 41 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 11097 |
 | 42 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 18222 |
 | 43 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33903 |
-| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137629 |
+| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137631 |
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
 | 46 |  [nuclear](https://github.com/nukeop/nuclear) | Desktop music player for streaming from free sources | nukeop | 4966 |
 | 47 |  [github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) | Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support | adriantanasa | 51 |
-| 48 |  [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) | Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling. | oblador | 12002 |
+| 48 |  [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) | Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling. | oblador | 12003 |
 | 49 |  [nachos-ui](https://github.com/nachos-ui/nachos-ui) | Nachos UI is a React Native component library. | nachos-ui | 1906 |
 | 50 |  [ui](https://github.com/shoutem/ui) | Customizable set of components for React Native applications | shoutem | 4372 |
 | 51 |  [react-native-elements](https://github.com/react-native-elements/react-native-elements) | Cross Platform React Native UI Toolkit | react-native-elements | 17271 |
-| 52 |  [NativeBase](https://github.com/GeekyAnts/NativeBase) | Essential cross-platform UI components for React Native | GeekyAnts | 12813 |
+| 52 |  [NativeBase](https://github.com/GeekyAnts/NativeBase) | Essential cross-platform UI components for React Native | GeekyAnts | 12814 |
 | 53 |  [react-native-image-view](https://github.com/antonKalinin/react-native-image-view) | Modal component to view images with zoom | antonKalinin | 219 |
 | 54 |  [rekit](https://github.com/rekit/rekit) | IDE and toolkit for building scalable web applications with React, Redux and React-router | rekit | 4067 |
 | 55 |  [svgomg](https://github.com/jakearchibald/svgomg) | Web GUI for SVGO | jakearchibald | 3430 |
@@ -232,7 +232,7 @@
 | 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49645 |
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37037 |
-| 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50122 |
+| 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50121 |
 | 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81751 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 44 |
 | 66 |  [react-native-pure-chart](https://github.com/oksktank/react-native-pure-chart) | react-native chart library that not using svg or ART but only using react native pure components. | oksktank | 200 |
@@ -243,18 +243,18 @@
 | 71 |  [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) | 📈 One library to rule all charts for React Native 📊 | JesperLekland | 1280 |
 | 72 |  [react-native-svg-charts-examples](https://github.com/JesperLekland/react-native-svg-charts-examples) | A collection of usage examples of react-native-svg-charts | JesperLekland | 155 |
 | 73 |  [Duckuino](https://github.com/d4n5h/Duckuino) | DuckyScript to Arduino converter with mouse emulation | d4n5h | 35 |
-| 74 |  [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | Based on a true story | NARKOZ | 36326 |
+| 74 |  [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | Based on a true story | NARKOZ | 36325 |
 | 75 |  [winXP](https://github.com/ShizukuIchi/winXP) | 🏁 Web based Windows XP desktop recreation. | ShizukuIchi | 3172 |
 | 76 |  [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) | The best design tools for everything 👉 | LisaDziuba | 16953 |
 | 77 |  [hydrogen](https://github.com/nteract/hydrogen) | :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor. | nteract | 3380 |
-| 78 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41195 |
+| 78 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 41196 |
 | 79 |  [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | FortAwesome | 61142 |
 | 80 |  [BetterTouchTool](https://github.com/folivoraAI/BetterTouchTool) | I do not use this for issue tracking anymore. Please go to https://community.folivora.ai | folivoraAI | 646 |
 | 81 |  [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) | Use Facebook to track your friends’ sleeping habits | sqren | 1381 |
 | 82 |  [cardcast-api](https://github.com/Morgul/cardcast-api) | An unofficial library for working with the cardcastgame.com api. | Morgul | 10 |
 | 83 |  [nodejs-against-humanity](https://github.com/coridrew/nodejs-against-humanity) | Cards Against Humanity implemented using NodeJS | coridrew | 4 |
-| 84 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | gothinkster | 32553 |
-| 85 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 32577 |
+| 84 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | gothinkster | 32554 |
+| 85 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 32579 |
 | 86 |  [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) | 🌈  A Curated List of Checklists ✔︎✔︎ | huyingjie | 2129 |
 | 87 |  [konami-code](https://github.com/tommcfarlin/konami-code) | [jQuery] Using the Konami code, easily configure and Easter Egg for your page or any element on the page. | tommcfarlin | 129 |
 | 88 |  [Blender](https://github.com/bunnieabc/Blender) | A Blend tool for Sketch App. | bunnieabc | 374 |
@@ -323,7 +323,7 @@
 | 6 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9243 |
 | 7 |  [macOS-UI-Kit](https://github.com/alexkaessner/macOS-UI-Kit) | :gem: A retina optimized macOS Sierra UI Kit for Sketch (including Touch Bar) | alexkaessner | 471 |
 | 8 |  [MTMR-presets](https://github.com/Toxblh/MTMR-presets) | 💈 [My TouchBar My rules] Share your preset! | Toxblh | 28 |
-| 9 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48783 |
+| 9 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 48784 |
 | 10 |  [logos](https://github.com/gilbarbara/logos) | A huge collection of SVG logos | gilbarbara | 4494 |
 | 11 |  [awesome-btt-config](https://github.com/bskim45/awesome-btt-config) | An curated list of awesome BetterTouchTool configs. | bskim45 | 22 |
 | 12 |  [ChromeDebuggerTouchBar-BTT](https://github.com/luchenguang/ChromeDebuggerTouchBar-BTT) | A BTT preset which provides TouchBar support  for Chrome debugger. | luchenguang | 1 |
@@ -334,22 +334,22 @@
 | 17 |  [amas](https://github.com/sindresorhus/amas) | Awesome & Marvelous Amas | sindresorhus | 1166 |
 | 18 |  [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) | Various cheat sheets on CS stuff | aspittel | 485 |
 | 19 |  [awesome-falsehoods](https://github.com/jameslk/awesome-falsehoods) | A curated list of awesome falsehoods programmers believe. | jameslk | 488 |
-| 20 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33794 |
+| 20 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33795 |
 | 21 |  [simpletouch](https://github.com/hawka97/simpletouch) | The SimpleTouch Preset for macOS BetterTouchTool | hawka97 | 1 |
 | 22 |  [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | herrbischoff | 21852 |
 | 23 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 13849 |
 | 24 |  [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) | A curated list of awesome articles, websites and resources about mental health in the software industry. | dreamingechoes | 1472 |
-| 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65569 |
+| 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65571 |
 | 26 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 29023 |
 | 27 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 39790 |
-| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91200 |
-| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49190 |
+| 28 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 91203 |
+| 29 |  [computer-science](https://github.com/ossu/computer-science) | :mortar_board: Path to a free self-taught education in Computer Science! | ossu | 49196 |
 | 30 |  [btt-presets](https://github.com/andrewchidden/btt-presets) | A robust BetterTouchTool preset for developer power users. | andrewchidden | 16 |
 | 31 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 4344 |
 | 32 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8244 |
 | 33 |  [2019](https://github.com/wwdc/2019) | Student submissions for the WWDC 2019 Scholarship | wwdc | 205 |
 | 34 |  [SketchToAppStore](https://github.com/bmull/SketchToAppStore) | A sketch framework to make creating screenshots for the App Store incredibly simple | bmull | 2209 |
-| 35 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 129829 |
+| 35 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 129830 |
 | 36 |  [2018](https://github.com/wwdc/2018) | Student submissions for the WWDC 2018 Scholarship | wwdc | 247 |
 | 37 |  [icons](https://github.com/jtholloran/icons) | Sketch template for generating all iOS 12 App icon sizes | jtholloran | 371 |
 | 38 |  [awesome-sketch](https://github.com/diessica/awesome-sketch) | :books: delightful stuff for SketchApp students. | diessica | 711 |
@@ -370,7 +370,7 @@
 | 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117442 |
 | 54 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35544 |
 | 55 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
-| 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22091 |
+| 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22092 |
 | 57 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 31066 |
 | 58 |  [awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. | ziadoz | 22362 |
 
@@ -387,14 +387,14 @@
 | 2 |  [mackup](https://github.com/lra/mackup) | Keep your application settings in sync (OS X/Linux) | lra | 9114 |
 | 3 |  [phue](https://github.com/studioimaginaire/phue) | A Python library for the Philips Hue system | studioimaginaire | 921 |
 | 4 |  [huekey](https://github.com/bradykent/huekey) | Control Philips Hue lights with BetterTouchTool | bradykent | 4 |
-| 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10251 |
-| 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26499 |
+| 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10252 |
+| 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26500 |
 | 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56547 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
 | 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6456 |
 | 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27296 |
 | 11 |  [Kashi](https://github.com/zer8ne/Kashi) | Touch Bar widget that displays the lyrics of the current song in Spotify, iTunes, or YouTube. | zer8ne | 11 |
-| 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33334 |
+| 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33335 |
 | 13 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 48631 |
 | 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 63531 |
 | 15 |  [magenta](https://github.com/tensorflow/magenta) | Magenta: Music and Art Generation with Machine Intelligence | tensorflow | 14048 |
@@ -469,11 +469,11 @@
 | 24 |  [dotfiles](https://github.com/webpro/dotfiles) | Dotfiles for macOS | webpro | 502 |
 | 25 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 22256 |
 | 26 |  [btt-controllers](https://github.com/andrewchidden/btt-controllers) | Small controller scripts and utilities designed to work with BetterTouchTool. | andrewchidden | 24 |
-| 27 |  [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | Papirus icon theme for Linux | PapirusDevelopmentTeam | 2903 |
+| 27 |  [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | Papirus icon theme for Linux | PapirusDevelopmentTeam | 2904 |
 | 28 |  [raspotify](https://github.com/dtcooper/raspotify) | Spotify Connect client for the Raspberry Pi that Just Works™ | dtcooper | 1884 |
 | 29 |  [Web-Font-Load](https://github.com/qrpike/Web-Font-Load) | Install all Google Web Fonts onto your local machine | qrpike | 1451 |
 | 30 |  [hax0rpi](https://github.com/vay3t/hax0rpi) | A Raspberry Pi Hacker Tools suite | vay3t | 56 |
-| 31 |  [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources | thibmaek | 5947 |
+| 31 |  [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources | thibmaek | 5948 |
 | 32 |  [awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi) | curated list of projects with raspberry pi | blackout314 | 228 |
 | 33 |  [docker-arm](https://github.com/alexellis/docker-arm) | Build Docker and Swarm on an ARM SoC like the Raspberry Pi | alexellis | 807 |
 | 34 |  [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) | Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores | RetroPie | 7921 |
@@ -484,12 +484,12 @@
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [AltStore](https://github.com/rileytestut/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | rileytestut | 970 |
+| 1 |  [AltStore](https://github.com/rileytestut/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | rileytestut | 971 |
 | 2 |  [refined-github-safari](https://github.com/lautis/refined-github-safari) | Safari version of the Refined Github extension | lautis | 34 |
 | 3 |  [ChordDetector](https://github.com/cemolcay/ChordDetector) | A tiny menu bar app that listens iTunes and Spotify to detect chords of songs! | cemolcay | 29 |
 | 4 |  [Pine](https://github.com/lukakerr/Pine) | A modern, native macOS markdown editor | lukakerr | 2003 |
 | 5 |  [MTMR](https://github.com/Toxblh/MTMR) | 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro | Toxblh | 1477 |
-| 6 |  [wallpapper](https://github.com/mczachurski/wallpapper) | Console application for creating dynamic wallpapers for macOS Mojave | mczachurski | 1797 |
+| 6 |  [wallpapper](https://github.com/mczachurski/wallpapper) | Console application for creating dynamic wallpapers for macOS Mojave | mczachurski | 1798 |
 | 7 |  [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | insidegui | 7408 |
 | 8 |  [iSimulator](https://github.com/wigl/iSimulator) | iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. | wigl | 797 |
 | 9 |  [ARVideoKit](https://github.com/AFathi/ARVideoKit) | Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆. | AFathi | 1066 |
@@ -574,7 +574,7 @@
 | 88 |  [Hero](https://github.com/HeroTransitions/Hero) | Elegant transition library for iOS & tvOS | HeroTransitions | 17458 |
 | 89 |  [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) | The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title. | PhamBaTho | 2453 |
 | 90 |  [awesome-swift](https://github.com/matteocrippa/awesome-swift) | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! | matteocrippa | 18071 |
-| 91 |  [awesome-ios](https://github.com/vsouza/awesome-ios) | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects | vsouza | 33168 |
+| 91 |  [awesome-ios](https://github.com/vsouza/awesome-ios) | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects | vsouza | 33170 |
 
 ## Tcl
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -595,10 +595,10 @@
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1963 |
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4488 |
 | 11 |  [cli](https://github.com/react-native-community/cli) | React Native command line tools | react-native-community | 837 |
-| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84306 |
+| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84307 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8955 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1576 |
-| 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42068 |
+| 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42069 |
 | 16 |  [botpress](https://github.com/botpress/botpress) | The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants. | botpress | 7708 |
 | 17 |  [PocketGear](https://github.com/satya164/PocketGear) | A clean and simple Pokédex app for Pokémon GO | satya164 | 178 |
 | 18 |  [lyricfier](https://github.com/emilioastarita/lyricfier) | a Spotify Lyrics alternative app | New updates at https://github.com/emilioastarita/lyricfier2 (a faster version in golang) | emilioastarita | 580 |
