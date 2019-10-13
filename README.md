@@ -148,7 +148,7 @@
 | 5 |  [spacehuhn.github.io](https://github.com/spacehuhn/spacehuhn.github.io) | Spacehuhn Website | spacehuhn | 4 |
 | 6 |  [dnnsmnstrr.github.io](https://github.com/dnnsmnstrr/dnnsmnstrr.github.io) | My Website (WIP) | dnnsmnstrr | 1 |
 | 7 |  [CAH-Generator](https://github.com/zaffudo/CAH-Generator) | Cards Against Humanity Card Generator | zaffudo | 48 |
-| 8 |  [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects | google | 22044 |
+| 8 |  [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects | google | 22045 |
 | 9 |  [Musical-chord-progressions](https://github.com/DataStrategist/Musical-chord-progressions) | An analysis of hooktheory's db, represented as a sankey plot | DataStrategist | 87 |
 | 10 |  [HelloInternetVote](https://github.com/RebelKeithy/HelloInternetVote) |  | RebelKeithy | 8 |
 
@@ -213,7 +213,7 @@
 | 41 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 11097 |
 | 42 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 18224 |
 | 43 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33903 |
-| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137632 |
+| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137631 |
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
 | 46 |  [nuclear](https://github.com/nukeop/nuclear) | Desktop music player for streaming from free sources | nukeop | 4966 |
 | 47 |  [github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) | Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support | adriantanasa | 51 |
@@ -388,7 +388,7 @@
 | 3 |  [phue](https://github.com/studioimaginaire/phue) | A Python library for the Philips Hue system | studioimaginaire | 921 |
 | 4 |  [huekey](https://github.com/bradykent/huekey) | Control Philips Hue lights with BetterTouchTool | bradykent | 4 |
 | 5 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md). | iperov | 10252 |
-| 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26500 |
+| 6 |  [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | deepfakes | 26501 |
 | 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56548 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
 | 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6456 |
