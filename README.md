@@ -317,7 +317,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) | Awesome React Hooks | rehooks | 3713 |
 | 2 |  [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) | A curated list about React Hooks | glauberfc | 776 |
-| 3 |  [Git-Commands](https://github.com/joshnh/Git-Commands) | A list of commonly used Git commands | joshnh | 1832 |
+| 3 |  [Git-Commands](https://github.com/joshnh/Git-Commands) | A list of commonly used Git commands | joshnh | 1833 |
 | 4 |  [gitalias](https://github.com/GitAlias/gitalias) | Git alias commands for faster easier version control | GitAlias | 1046 |
 | 5 |  [art-of-readme](https://github.com/noffle/art-of-readme) | :love_letter: Things I've learned about writing good READMEs. | noffle | 5310 |
 | 6 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9244 |
