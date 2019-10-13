@@ -546,7 +546,7 @@
 | 60 |  [Sonar](https://github.com/thefuntasty/Sonar) | Radar style view written in swift | thefuntasty | 122 |
 | 61 |  [SAConfettiView](https://github.com/sudeepag/SAConfettiView) | Confetti! Who doesn't like confetti? | sudeepag | 1354 |
 | 62 |  [EZSwipeController](https://github.com/goktugyil/EZSwipeController) | :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages | goktugyil | 801 |
-| 63 |  [fluid-slider](https://github.com/Ramotion/fluid-slider) | :octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries | Ramotion | 1481 |
+| 63 |  [fluid-slider](https://github.com/Ramotion/fluid-slider) | :octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries | Ramotion | 1483 |
 | 64 |  [brickkit-ios](https://github.com/wayfair/brickkit-ios) | DEPRECATED - BrickKit For IOS | wayfair | 617 |
 | 65 |  [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) | Localize your views directly in Interface Builder with IBLocalizable | PiXeL16 | 460 |
 | 66 |  [Komponents](https://github.com/freshOS/Komponents) | 📦 React-inspired UIKit Components | freshOS | 198 |
