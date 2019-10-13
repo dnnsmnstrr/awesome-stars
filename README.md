@@ -232,7 +232,7 @@
 | 60 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49648 |
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37039 |
-| 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50121 |
+| 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50122 |
 | 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81756 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 44 |
 | 66 |  [react-native-pure-chart](https://github.com/oksktank/react-native-pure-chart) | react-native chart library that not using svg or ART but only using react native pure components. | oksktank | 200 |
@@ -299,7 +299,7 @@
 | 16 |  [RESideMenu](https://github.com/romaonthego/RESideMenu) | iOS 7/8 style side menu with parallax effect. | romaonthego | 7246 |
 | 17 |  [iCarousel](https://github.com/nicklockwood/iCarousel) | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | nicklockwood | 11443 |
 | 18 |  [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | A clean and lightweight progress HUD for your iOS and tvOS app. | SVProgressHUD | 11862 |
-| 19 |  [FLEX](https://github.com/Flipboard/FLEX) | An in-app debugging and exploration tool for iOS | Flipboard | 10793 |
+| 19 |  [FLEX](https://github.com/Flipboard/FLEX) | An in-app debugging and exploration tool for iOS | Flipboard | 10794 |
 | 20 |  [RestKit](https://github.com/RestKit/RestKit) | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X | RestKit | 10327 |
 | 21 |  [CardDecks](https://github.com/aharren/CardDecks) | Configurable card decks in your pocket. | aharren | 34 |
 | 22 |  [Screentendo](https://github.com/AaronRandall/Screentendo) | Turn your screen into a playable level of Mario | AaronRandall | 986 |
