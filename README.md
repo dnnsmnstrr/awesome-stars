@@ -334,7 +334,7 @@
 | 17 |  [amas](https://github.com/sindresorhus/amas) | Awesome & Marvelous Amas | sindresorhus | 1166 |
 | 18 |  [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) | Various cheat sheets on CS stuff | aspittel | 485 |
 | 19 |  [awesome-falsehoods](https://github.com/jameslk/awesome-falsehoods) | A curated list of awesome falsehoods programmers believe. | jameslk | 488 |
-| 20 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33796 |
+| 20 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33797 |
 | 21 |  [simpletouch](https://github.com/hawka97/simpletouch) | The SimpleTouch Preset for macOS BetterTouchTool | hawka97 | 1 |
 | 22 |  [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | herrbischoff | 21852 |
 | 23 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 13849 |
@@ -590,7 +590,7 @@
 | 4 |  [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) | The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code. | alexa | 2726 |
 | 5 |  [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 | streamich | 7923 |
 | 6 |  [react-navigation](https://github.com/react-navigation/react-navigation) | Routing and navigation for your React Native apps | react-navigation | 16650 |
-| 7 |  [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | akveo | 5080 |
+| 7 |  [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode | akveo | 5081 |
 | 8 |  [messaging-apis](https://github.com/Yoctol/messaging-apis) | Messaging APIs for multi-platform | Yoctol | 1408 |
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1963 |
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4488 |
