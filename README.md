@@ -90,7 +90,7 @@
 | 7 |  [barrier](https://github.com/debauchee/barrier) | Open-source KVM software | debauchee | 2766 |
 | 8 |  [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | kyleneideck | 5714 |
 | 9 |  [turicreate](https://github.com/apple/turicreate) | Turi Create simplifies the development of custom machine learning models. | apple | 9051 |
-| 10 |  [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) | Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO | arendst | 8009 |
+| 10 |  [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) | Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO | arendst | 8010 |
 | 11 |  [DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) | USB Rubber Ducky type scripts written for the DigiSpark. | CedArctic | 287 |
 | 12 |  [BadUSB](https://github.com/grcasanova/BadUSB) | Personal implementation of the BadUSB exploit with an Atmel 8-bit AVR ATTiny85 acting as a HID keyboard | grcasanova | 42 |
 | 13 |  [swift](https://github.com/apple/swift) | The Swift Programming Language | apple | 49348 |
@@ -213,7 +213,7 @@
 | 41 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 11097 |
 | 42 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 18224 |
 | 43 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33903 |
-| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137634 |
+| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137633 |
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
 | 46 |  [nuclear](https://github.com/nukeop/nuclear) | Desktop music player for streaming from free sources | nukeop | 4966 |
 | 47 |  [github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) | Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support | adriantanasa | 51 |
@@ -405,7 +405,7 @@
 | 20 |  [Sunfounder_SensorKit_Python_code_for_RaspberryPi](https://github.com/sunfounder/Sunfounder_SensorKit_Python_code_for_RaspberryPi) | Sunfounder Sensor Kit Python code for Raspberry Pi | sunfounder | 31 |
 | 21 |  [SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) | SunFounder Sensor Kit V2.0 for Raspberry Pi 2 | sunfounder | 64 |
 | 22 |  [mazesolving](https://github.com/mikepound/mazesolving) | A variety of algorithms to solve mazes from an input image | mikepound | 1087 |
-| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74033 |
+| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74034 |
 | 24 |  [documentation](https://github.com/raspberrypi/documentation) | Official documentation for the Raspberry Pi | raspberrypi | 3014 |
 
 ## Rich Text Format
