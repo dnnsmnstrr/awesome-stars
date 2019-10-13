@@ -334,7 +334,7 @@
 | 17 |  [amas](https://github.com/sindresorhus/amas) | Awesome & Marvelous Amas | sindresorhus | 1166 |
 | 18 |  [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) | Various cheat sheets on CS stuff | aspittel | 485 |
 | 19 |  [awesome-falsehoods](https://github.com/jameslk/awesome-falsehoods) | A curated list of awesome falsehoods programmers believe. | jameslk | 488 |
-| 20 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33795 |
+| 20 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33796 |
 | 21 |  [simpletouch](https://github.com/hawka97/simpletouch) | The SimpleTouch Preset for macOS BetterTouchTool | hawka97 | 1 |
 | 22 |  [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | herrbischoff | 21852 |
 | 23 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 13849 |
@@ -457,7 +457,7 @@
 | 12 |  [awesome-macos-setup](https://github.com/Ullaakut/awesome-macos-setup) | A repository with tools to automatically make any Mac awesome in a few minutes | Ullaakut | 44 |
 | 13 |  [macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) | A centralized place for the awesome work started by @mathiasbynens on .osx | kevinSuttle | 711 |
 | 14 |  [Simple](https://github.com/simple-touch/Simple) | ☁A simple and intuitive OSX Touch Bar replacement. | simple-touch | 1 |
-| 15 |  [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | robbyrussell | 96435 |
+| 15 |  [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | robbyrussell | 96436 |
 | 16 |  [sketchtool](https://github.com/marekhrabe/sketchtool) | SketchTool binary for npm | marekhrabe | 29 |
 | 17 |  [F-dotfiles](https://github.com/Kraymer/F-dotfiles) | Full-Fledged Über-Clean Kraymer' dotfiles (powered by stow). Managing them used to be a pain. | Kraymer | 119 |
 | 18 |  [bashdot](https://github.com/bashdot/bashdot) | Minimalist dotfile management framework. | bashdot | 48 |
