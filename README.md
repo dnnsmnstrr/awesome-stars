@@ -176,7 +176,7 @@
 | 4 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 3732 |
 | 5 |  [trolol](https://github.com/ukupat/trolol) | Troll your friends with simple commands AS QUICKLY AS POSSIBLE | ukupat | 652 |
 | 6 |  [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) | Play with fluids in your browser (works even on mobile) | PavelDoGreat | 6657 |
-| 7 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 42294 |
+| 7 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 42295 |
 | 8 |  [react-native-animatable](https://github.com/oblador/react-native-animatable) | Standard set of easy to use animations and declarative transitions for React Native | oblador | 7169 |
 | 9 |  [Detox](https://github.com/wix/Detox) | Gray box end-to-end testing and automation framework for mobile apps | wix | 5399 |
 | 10 |  [cucumber-js](https://github.com/cucumber/cucumber-js) | Cucumber for JavaScript | cucumber | 3691 |
@@ -434,7 +434,7 @@
 | 11 |  [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | Homebrew | 16043 |
 | 12 |  [ios-project-template](https://github.com/messeb/ios-project-template) | iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger | messeb | 301 |
 | 13 |  [fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iOS and Android apps | fastlane | 27077 |
-| 14 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 19273 |
+| 14 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 19274 |
 | 15 |  [bbcards](https://github.com/bbcards/bbcards) | Bigger, Blacker Cards - A custom card generator for Cards Against Humanity | bbcards | 60 |
 | 16 |  [against-humanity](https://github.com/nodanaonlyzuul/against-humanity) | Plain text files of the question and answer cards for Cards Against Humanity. | nodanaonlyzuul | 81 |
 | 17 |  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness | bayandin | 25047 |
