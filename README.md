@@ -102,7 +102,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) | A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli) | morpheusthewhite | 97 |
-| 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17095 |
+| 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17096 |
 | 3 |  [madclem.github.io](https://github.com/madclem/madclem.github.io) |  | madclem | 18 |
 | 4 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 62469 |
 | 5 |  [dotfiles](https://github.com/dnnsmnstrr/dotfiles) | My dotfiles and BetterTouchTool presets | dnnsmnstrr | 2 |
@@ -118,7 +118,7 @@
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76969 |
+| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 76970 |
 
 ## Elixir
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -368,7 +368,7 @@
 | 51 |  [awesome-java](https://github.com/akullpp/awesome-java) | A curated list of awesome frameworks, libraries and software for the Java programming language. | akullpp | 22557 |
 | 52 |  [gesetze](https://github.com/bundestag/gesetze) | Bundesgesetze und -verordnungen | bundestag | 1449 |
 | 53 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117442 |
-| 54 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35543 |
+| 54 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. PR ☛☛☛ | awesomedata | 35544 |
 | 55 |  [Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) | Adafruit library code for Raspberry Pi | adafruit | 1376 |
 | 56 |  [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | fffaraz | 22091 |
 | 57 |  [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | prakhar1989 | 31066 |
