@@ -434,7 +434,7 @@
 | 11 |  [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | Homebrew | 16043 |
 | 12 |  [ios-project-template](https://github.com/messeb/ios-project-template) | iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger | messeb | 301 |
 | 13 |  [fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iOS and Android apps | fastlane | 27077 |
-| 14 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 19272 |
+| 14 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 19273 |
 | 15 |  [bbcards](https://github.com/bbcards/bbcards) | Bigger, Blacker Cards - A custom card generator for Cards Against Humanity | bbcards | 60 |
 | 16 |  [against-humanity](https://github.com/nodanaonlyzuul/against-humanity) | Plain text files of the question and answer cards for Cards Against Humanity. | nodanaonlyzuul | 81 |
 | 17 |  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness | bayandin | 25047 |
