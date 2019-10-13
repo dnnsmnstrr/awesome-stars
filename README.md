@@ -192,7 +192,7 @@
 | 20 |  [Duckuino](https://github.com/Dukweeno/Duckuino) | Simple DuckyScript to Arduino C converter. | Dukweeno | 214 |
 | 21 |  [PushNotifications](https://github.com/onmyway133/PushNotifications) | 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android | onmyway133 | 906 |
 | 22 |  [react-native-popover-view](https://github.com/SteffeyDev/react-native-popover-view) | A well-tested, adaptable, lightweight &lt;Popover&gt; component for react-native | SteffeyDev | 100 |
-| 23 |  [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner) | A QR code scanner component for React Native. | moaazsidat | 1141 |
+| 23 |  [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner) | A QR code scanner component for React Native. | moaazsidat | 1142 |
 | 24 |  [moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates in javascript. | moment | 42515 |
 | 25 |  [spicetify-cli](https://github.com/khanhas/spicetify-cli) | Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux. | khanhas | 1671 |
 | 26 |  [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler) | Declarative API exposing platform native touch and gesture system to React Native. | kmagiera | 2701 |
