@@ -102,7 +102,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) | A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli) | morpheusthewhite | 98 |
-| 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17099 |
+| 2 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 17100 |
 | 3 |  [madclem.github.io](https://github.com/madclem/madclem.github.io) |  | madclem | 18 |
 | 4 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 62469 |
 | 5 |  [dotfiles](https://github.com/dnnsmnstrr/dotfiles) | My dotfiles and BetterTouchTool presets | dnnsmnstrr | 2 |
@@ -405,7 +405,7 @@
 | 20 |  [Sunfounder_SensorKit_Python_code_for_RaspberryPi](https://github.com/sunfounder/Sunfounder_SensorKit_Python_code_for_RaspberryPi) | Sunfounder Sensor Kit Python code for Raspberry Pi | sunfounder | 31 |
 | 21 |  [SunFounder_SensorKit_for_RPi2](https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2) | SunFounder Sensor Kit V2.0 for Raspberry Pi 2 | sunfounder | 64 |
 | 22 |  [mazesolving](https://github.com/mikepound/mazesolving) | A variety of algorithms to solve mazes from an input image | mikepound | 1087 |
-| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74032 |
+| 23 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 74033 |
 | 24 |  [documentation](https://github.com/raspberrypi/documentation) | Official documentation for the Raspberry Pi | raspberrypi | 3014 |
 
 ## Rich Text Format
