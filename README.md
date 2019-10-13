@@ -334,7 +334,7 @@
 | 17 |  [amas](https://github.com/sindresorhus/amas) | Awesome & Marvelous Amas | sindresorhus | 1166 |
 | 18 |  [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) | Various cheat sheets on CS stuff | aspittel | 485 |
 | 19 |  [awesome-falsehoods](https://github.com/jameslk/awesome-falsehoods) | A curated list of awesome falsehoods programmers believe. | jameslk | 488 |
-| 20 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33794 |
+| 20 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 33795 |
 | 21 |  [simpletouch](https://github.com/hawka97/simpletouch) | The SimpleTouch Preset for macOS BetterTouchTool | hawka97 | 1 |
 | 22 |  [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | herrbischoff | 21852 |
 | 23 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 13849 |
@@ -493,7 +493,7 @@
 | 7 |  [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | insidegui | 7408 |
 | 8 |  [iSimulator](https://github.com/wigl/iSimulator) | iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator. | wigl | 797 |
 | 9 |  [ARVideoKit](https://github.com/AFathi/ARVideoKit) | Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆. | AFathi | 1066 |
-| 10 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 20822 |
+| 10 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 20823 |
 | 11 |  [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) | Gathering all info published, both by Apple and by others, about new framework SwiftUI. | Juanpe | 3476 |
 | 12 |  [mas](https://github.com/mas-cli/mas) | :package: Mac App Store command line interface | mas-cli | 6460 |
 | 13 |  [lottie-ios](https://github.com/airbnb/lottie-ios) | An iOS library to natively render After Effects vector animations | airbnb | 18272 |
