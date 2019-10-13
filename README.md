@@ -213,7 +213,7 @@
 | 41 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 11097 |
 | 42 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 18224 |
 | 43 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33903 |
-| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137633 |
+| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137634 |
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
 | 46 |  [nuclear](https://github.com/nukeop/nuclear) | Desktop music player for streaming from free sources | nukeop | 4966 |
 | 47 |  [github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) | Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support | adriantanasa | 51 |
@@ -431,7 +431,7 @@
 | 8 |  [bundler](https://github.com/bundler/bundler) | Manage your Ruby application's gem dependencies | bundler | 4698 |
 | 9 |  [jekyll](https://github.com/jekyll/jekyll) | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | jekyll | 38880 |
 | 10 |  [dotfiles](https://github.com/skwp/dotfiles) | YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen | skwp | 6364 |
-| 11 |  [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | Homebrew | 16043 |
+| 11 |  [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | Homebrew | 16044 |
 | 12 |  [ios-project-template](https://github.com/messeb/ios-project-template) | iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger | messeb | 301 |
 | 13 |  [fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iOS and Android apps | fastlane | 27077 |
 | 14 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 19274 |
