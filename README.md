@@ -467,7 +467,7 @@
 | 22 |  [dotfiles](https://github.com/holman/dotfiles) | @holman does dotfiles | holman | 5567 |
 | 23 |  [dotfiles](https://github.com/denysdovhan/dotfiles) | My lovely dots ~/.💖 | denysdovhan | 169 |
 | 24 |  [dotfiles](https://github.com/webpro/dotfiles) | Dotfiles for macOS | webpro | 502 |
-| 25 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 22256 |
+| 25 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 22257 |
 | 26 |  [btt-controllers](https://github.com/andrewchidden/btt-controllers) | Small controller scripts and utilities designed to work with BetterTouchTool. | andrewchidden | 24 |
 | 27 |  [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | Papirus icon theme for Linux | PapirusDevelopmentTeam | 2904 |
 | 28 |  [raspotify](https://github.com/dtcooper/raspotify) | Spotify Connect client for the Raspberry Pi that Just Works™ | dtcooper | 1884 |
