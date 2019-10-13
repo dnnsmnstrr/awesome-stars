@@ -281,7 +281,7 @@
 ## Objective-C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Cakebrew](https://github.com/brunophilipe/Cakebrew) | Manage your Homebrew formulas with style using Cakebrew. | brunophilipe | 3177 |
+| 1 |  [Cakebrew](https://github.com/brunophilipe/Cakebrew) | Manage your Homebrew formulas with style using Cakebrew. | brunophilipe | 3178 |
 | 2 |  [Irvue-Screensaver](https://github.com/leonspok/Irvue-Screensaver) | Screensaver for macOS | leonspok | 226 |
 | 3 |  [MusaicFM](https://github.com/docterd/MusaicFM) | Screensaver inspired by Apple’s inbuilt iTunes Screensaver. It can display Artwork by Spotify or last.fm Profile Data. | docterd | 89 |
 | 4 |  [beardedspice](https://github.com/beardedspice/beardedspice) | Mac Media Keys for the Masses | beardedspice | 2399 |
