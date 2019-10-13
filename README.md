@@ -349,7 +349,7 @@
 | 32 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8244 |
 | 33 |  [2019](https://github.com/wwdc/2019) | Student submissions for the WWDC 2019 Scholarship | wwdc | 205 |
 | 34 |  [SketchToAppStore](https://github.com/bmull/SketchToAppStore) | A sketch framework to make creating screenshots for the App Store incredibly simple | bmull | 2209 |
-| 35 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 129830 |
+| 35 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 129831 |
 | 36 |  [2018](https://github.com/wwdc/2018) | Student submissions for the WWDC 2018 Scholarship | wwdc | 247 |
 | 37 |  [icons](https://github.com/jtholloran/icons) | Sketch template for generating all iOS 12 App icon sizes | jtholloran | 371 |
 | 38 |  [awesome-sketch](https://github.com/diessica/awesome-sketch) | :books: delightful stuff for SketchApp students. | diessica | 711 |
@@ -595,7 +595,7 @@
 | 9 |  [vscode-react-native](https://github.com/microsoft/vscode-react-native) | VSCode extension for React Native - supports debugging and editor integration | microsoft | 1963 |
 | 10 |  [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | darkreader | 4488 |
 | 11 |  [cli](https://github.com/react-native-community/cli) | React Native command line tools | react-native-community | 837 |
-| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84310 |
+| 12 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84311 |
 | 13 |  [bit](https://github.com/teambit/bit) | A tool for developing, distributing and collaborating over reusbale components. Easily share code across projects as a team. | teambit | 8955 |
 | 14 |  [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) | 🚀 tiny & fast lib for react native image viewer pan and zoom | ascoders | 1576 |
 | 15 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42069 |
