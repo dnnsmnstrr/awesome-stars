@@ -87,7 +87,7 @@
 | 4 |  [Encoder](https://github.com/PaulStoffregen/Encoder) | Quadrature Encoder Library for Arduino | PaulStoffregen | 215 |
 | 5 |  [digiQuack](https://github.com/CedArctic/digiQuack) | A DuckyScript language to DigiSpark payload converter based on C++ | CedArctic | 35 |
 | 6 |  [dexed](https://github.com/asb2m10/dexed) | DX7 FM multi plaform/multi format plugin | asb2m10 | 1139 |
-| 7 |  [barrier](https://github.com/debauchee/barrier) | Open-source KVM software | debauchee | 2765 |
+| 7 |  [barrier](https://github.com/debauchee/barrier) | Open-source KVM software | debauchee | 2766 |
 | 8 |  [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | kyleneideck | 5714 |
 | 9 |  [turicreate](https://github.com/apple/turicreate) | Turi Create simplifies the development of custom machine learning models. | apple | 9051 |
 | 10 |  [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) | Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO | arendst | 8009 |
@@ -213,7 +213,7 @@
 | 41 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 11096 |
 | 42 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 18222 |
 | 43 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33903 |
-| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137628 |
+| 44 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 137629 |
 | 45 |  [react-native-pdf](https://github.com/wonday/react-native-pdf) | a react native pdf view module | wonday | 628 |
 | 46 |  [nuclear](https://github.com/nukeop/nuclear) | Desktop music player for streaming from free sources | nukeop | 4966 |
 | 47 |  [github-wiki-sidebar](https://github.com/adriantanasa/github-wiki-sidebar) | Github Wiki sidebar menu builder with multi-level, ordering and exclusion list support | adriantanasa | 51 |
