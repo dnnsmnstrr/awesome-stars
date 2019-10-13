@@ -233,7 +233,7 @@
 | 61 |  [react-native-examples](https://github.com/ethantran/react-native-examples) | UI examples from pttrns.com converted to React Native.  Examples of SVG Animation with react-native-svg, flubber, d3 | ethantran | 291 |
 | 62 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 37039 |
 | 63 |  [atom](https://github.com/atom/atom) | :atom: The hackable text editor | atom | 50120 |
-| 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81753 |
+| 64 |  [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. | facebook | 81754 |
 | 65 |  [touchbar](https://github.com/felixerdy/touchbar) | Atom package to use MacBook Touchbar | felixerdy | 44 |
 | 66 |  [react-native-pure-chart](https://github.com/oksktank/react-native-pure-chart) | react-native chart library that not using svg or ART but only using react native pure components. | oksktank | 200 |
 | 67 |  [victory](https://github.com/FormidableLabs/victory) | A collection of composable React components for building interactive data visualizations | FormidableLabs | 7501 |
@@ -349,7 +349,7 @@
 | 32 |  [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | firstcontributions | 8244 |
 | 33 |  [2019](https://github.com/wwdc/2019) | Student submissions for the WWDC 2019 Scholarship | wwdc | 205 |
 | 34 |  [SketchToAppStore](https://github.com/bmull/SketchToAppStore) | A sketch framework to make creating screenshots for the App Store incredibly simple | bmull | 2209 |
-| 35 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 129832 |
+| 35 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 129833 |
 | 36 |  [2018](https://github.com/wwdc/2018) | Student submissions for the WWDC 2018 Scholarship | wwdc | 247 |
 | 37 |  [icons](https://github.com/jtholloran/icons) | Sketch template for generating all iOS 12 App icon sizes | jtholloran | 371 |
 | 38 |  [awesome-sketch](https://github.com/diessica/awesome-sketch) | :books: delightful stuff for SketchApp students. | diessica | 711 |
@@ -392,7 +392,7 @@
 | 7 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 56549 |
 | 8 |  [hackerman](https://github.com/GlOwl/hackerman) | The random (fake!) quote generator. | GlOwl | 17 |
 | 9 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 6456 |
-| 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27297 |
+| 10 |  [home-assistant](https://github.com/home-assistant/home-assistant) | :house_with_garden: Open source home automation that puts local control and privacy first | home-assistant | 27298 |
 | 11 |  [Kashi](https://github.com/zer8ne/Kashi) | Touch Bar widget that displays the lyrics of the current song in Spotify, iTunes, or YouTube. | zer8ne | 11 |
 | 12 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 33335 |
 | 13 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 48633 |
@@ -479,7 +479,7 @@
 | 34 |  [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) | Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores | RetroPie | 7921 |
 | 35 |  [filehub-config](https://github.com/digidem/filehub-config) | Hacking the RAVPower Filehub to automate SD card transfers and harddrive backups | digidem | 93 |
 | 36 |  [pimusicbox](https://github.com/pimusicbox/pimusicbox) | An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming | pimusicbox | 1626 |
-| 37 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 18344 |
+| 37 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 18345 |
 
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
